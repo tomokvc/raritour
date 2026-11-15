@@ -1,0 +1,1683 @@
+{
+ "date": "2026-11-16",
+ "route": "de-rundreise",
+ "categories": [
+  {
+   "q": "Eine deutsche Landeshauptstadt",
+   "x": "Alle 16 – Berlin, Hamburg und Bremen zählen als Stadtstaaten mit.",
+   "answers": [
+    {
+     "name": "Berlin",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "München",
+     "aliases": [
+      "Muenchen"
+     ],
+     "prior": 14
+    },
+    {
+     "name": "Hamburg",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Stuttgart",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Düsseldorf",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Dresden",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Hannover",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Bremen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kiel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mainz",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Potsdam",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Wiesbaden",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Erfurt",
+     "aliases": [],
+     "prior": 2.5
+    },
+    {
+     "name": "Magdeburg",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Schwerin",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Saarbrücken",
+     "aliases": [],
+     "prior": 1.5
+    }
+   ],
+   "hints": {
+    "koeln": "Köln ist keine Landeshauptstadt – das ist Düsseldorf.",
+    "frankfurt": "Frankfurt ist keine Landeshauptstadt – Hessen: Wiesbaden.",
+    "bonn": "Bonn war Bundeshauptstadt, aber keine Landeshauptstadt."
+   }
+  },
+  {
+   "q": "Ein Nachbarland Deutschlands",
+   "x": "Staaten mit direkter Landgrenze zu Deutschland. Es sind neun.",
+   "answers": [
+    {
+     "name": "Österreich",
+     "aliases": [
+      "Oesterreich"
+     ],
+     "prior": 28
+    },
+    {
+     "name": "Frankreich",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Schweiz",
+     "aliases": [],
+     "prior": 14
+    },
+    {
+     "name": "Polen",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Niederlande",
+     "aliases": [
+      "Holland"
+     ],
+     "prior": 9
+    },
+    {
+     "name": "Dänemark",
+     "aliases": [
+      "Daenemark"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Tschechien",
+     "aliases": [
+      "Tschechische Republik"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Belgien",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Luxemburg",
+     "aliases": [],
+     "prior": 2
+    }
+   ],
+   "hints": {
+    "italien": "Italien grenzt nicht an Deutschland.",
+    "liechtenstein": "Liechtenstein grenzt nicht direkt an Deutschland."
+   }
+  },
+  {
+   "q": "Ein Fluss in Deutschland",
+   "x": "Auch Grenzflüsse zählen. Bäche und Kanäle nicht – der Mittellandkanal ist raus.",
+   "answers": [
+    {
+     "name": "Rhein",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Elbe",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Donau",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Main",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Weser",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Mosel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Oder",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Neckar",
+     "aliases": [],
+     "prior": 2.5
+    },
+    {
+     "name": "Spree",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Isar",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Saale",
+     "aliases": [],
+     "prior": 1.5
+    },
+    {
+     "name": "Havel",
+     "aliases": [],
+     "prior": 1.2
+    },
+    {
+     "name": "Ruhr",
+     "aliases": [],
+     "prior": 1.2
+    },
+    {
+     "name": "Ems",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Inn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lech",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fulda",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Werra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lahn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neiße",
+     "aliases": [
+      "Neisse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mulde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lippe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sieg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nahe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aller",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wupper",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Erft",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Altmühl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Naab",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Regen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Iller",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wertach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Unstrut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ilm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weiße Elster",
+     "aliases": [
+      "Elster"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schwarze Elster",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pleiße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Peene",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trave",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eider",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kinzig",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tauber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jagst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kocher",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rur",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Loisach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Salzach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ilz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vils",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wörnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Regnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pegnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fränkische Saale",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Warnow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Uecker",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alster",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hunte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hase",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oker",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ilmenau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bode",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wümme",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nidda",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kyll",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Our",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sauer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ahr",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Murg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Enz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fils",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rems",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brenz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wiese",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dreisam",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wutach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Argen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schussen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Paar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glonn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Würm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amper",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mangfall",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rott",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saalach",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {}
+  },
+  {
+   "q": "Eine deutsche Automarke",
+   "x": "Pkw-Marken aus Deutschland, auch historische und DDR-Marken. Trabi geht klar.",
+   "answers": [
+    {
+     "name": "Volkswagen",
+     "aliases": [
+      "VW"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "BMW",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Mercedes-Benz",
+     "aliases": [
+      "Mercedes",
+      "Benz"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Audi",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Porsche",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Opel",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Smart",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trabant",
+     "aliases": [
+      "Trabi"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Maybach",
+     "aliases": [],
+     "prior": 0.6
+    },
+    {
+     "name": "Wartburg",
+     "aliases": [],
+     "prior": 0.4
+    },
+    {
+     "name": "Borgward",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Alpina",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Brabus",
+     "aliases": [],
+     "prior": 0.2
+    },
+    {
+     "name": "NSU",
+     "aliases": [],
+     "prior": 0.2
+    },
+    {
+     "name": "Horch",
+     "aliases": [],
+     "prior": 0.1
+    },
+    {
+     "name": "DKW",
+     "aliases": [],
+     "prior": 0.1
+    },
+    {
+     "name": "Wiesmann",
+     "aliases": [],
+     "prior": 0.1
+    },
+    {
+     "name": "Wanderer",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Artega",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Glas",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Melkus",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Isdera",
+     "aliases": [],
+     "prior": 0.03
+    }
+   ],
+   "hints": {
+    "ford": "Ford ist eine US-Marke (auch wenn es Werke in Köln gibt).",
+    "skoda": "Škoda gehört zu VW, ist aber eine tschechische Marke.",
+    "seat": "SEAT ist eine spanische Marke."
+   }
+  },
+  {
+   "q": "Ein chemisches Element",
+   "x": "Alle 118 Elemente, deutscher Name. Ja, auch Oganesson.",
+   "answers": [
+    {
+     "name": "Sauerstoff",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Wasserstoff",
+     "aliases": [],
+     "prior": 14
+    },
+    {
+     "name": "Gold",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Eisen",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Kohlenstoff",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Helium",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Silber",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Stickstoff",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kupfer",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Uran",
+     "aliases": [],
+     "prior": 2.5
+    },
+    {
+     "name": "Natrium",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Aluminium",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Calcium",
+     "aliases": [
+      "Kalzium"
+     ],
+     "prior": 1.5
+    },
+    {
+     "name": "Chlor",
+     "aliases": [],
+     "prior": 1.5
+    },
+    {
+     "name": "Blei",
+     "aliases": [],
+     "prior": 1.5
+    },
+    {
+     "name": "Platin",
+     "aliases": [],
+     "prior": 1.2
+    },
+    {
+     "name": "Zink",
+     "aliases": [],
+     "prior": 1.2
+    },
+    {
+     "name": "Lithium",
+     "aliases": [],
+     "prior": 1.2
+    },
+    {
+     "name": "Neon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quecksilber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Magnesium",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kalium",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwefel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Titan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plutonium",
+     "aliases": [],
+     "prior": 0.8
+    },
+    {
+     "name": "Silicium",
+     "aliases": [
+      "Silizium"
+     ],
+     "prior": 0.8
+    },
+    {
+     "name": "Zinn",
+     "aliases": [],
+     "prior": 0.6
+    },
+    {
+     "name": "Phosphor",
+     "aliases": [],
+     "prior": 0.6
+    },
+    {
+     "name": "Nickel",
+     "aliases": [],
+     "prior": 0.6
+    },
+    {
+     "name": "Fluor",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Argon",
+     "aliases": [],
+     "prior": 0.4
+    },
+    {
+     "name": "Jod",
+     "aliases": [
+      "Iod"
+     ],
+     "prior": 0.4
+    },
+    {
+     "name": "Radium",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Wolfram",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Chrom",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Kobalt",
+     "aliases": [
+      "Cobalt"
+     ],
+     "prior": 0.3
+    },
+    {
+     "name": "Mangan",
+     "aliases": [],
+     "prior": 0.2
+    },
+    {
+     "name": "Arsen",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Radon",
+     "aliases": [],
+     "prior": 0.2
+    },
+    {
+     "name": "Krypton",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Xenon",
+     "aliases": [],
+     "prior": 0.2
+    },
+    {
+     "name": "Beryllium",
+     "aliases": [],
+     "prior": 0.1
+    },
+    {
+     "name": "Bor",
+     "aliases": [],
+     "prior": 0.1
+    },
+    {
+     "name": "Scandium",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Vanadium",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Gallium",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Germanium",
+     "aliases": [],
+     "prior": 0.08
+    },
+    {
+     "name": "Selen",
+     "aliases": [],
+     "prior": 0.08
+    },
+    {
+     "name": "Brom",
+     "aliases": [],
+     "prior": 0.08
+    },
+    {
+     "name": "Rubidium",
+     "aliases": [],
+     "prior": 0.03
+    },
+    {
+     "name": "Strontium",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Yttrium",
+     "aliases": [],
+     "prior": 0.03
+    },
+    {
+     "name": "Zirconium",
+     "aliases": [
+      "Zirkonium"
+     ],
+     "prior": 0.05
+    },
+    {
+     "name": "Niob",
+     "aliases": [],
+     "prior": 0.03
+    },
+    {
+     "name": "Molybdän",
+     "aliases": [
+      "Molybdaen"
+     ],
+     "prior": 0.03
+    },
+    {
+     "name": "Technetium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Ruthenium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Rhodium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Palladium",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Cadmium",
+     "aliases": [
+      "Kadmium"
+     ],
+     "prior": 0.05
+    },
+    {
+     "name": "Indium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Antimon",
+     "aliases": [],
+     "prior": 0.03
+    },
+    {
+     "name": "Tellur",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Caesium",
+     "aliases": [
+      "Cäsium",
+      "Cesium"
+     ],
+     "prior": 0.05
+    },
+    {
+     "name": "Barium",
+     "aliases": [],
+     "prior": 0.05
+    },
+    {
+     "name": "Lanthan",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Cer",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Praseodym",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Neodym",
+     "aliases": [],
+     "prior": 0.03
+    },
+    {
+     "name": "Promethium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Samarium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Europium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Gadolinium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Terbium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Dysprosium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Holmium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Erbium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Thulium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Ytterbium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Lutetium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Hafnium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Tantal",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Rhenium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Osmium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Iridium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Thallium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Bismut",
+     "aliases": [
+      "Wismut"
+     ],
+     "prior": 0.02
+    },
+    {
+     "name": "Polonium",
+     "aliases": [],
+     "prior": 0.03
+    },
+    {
+     "name": "Astat",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Francium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Actinium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Thorium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Protactinium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Neptunium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Americium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Curium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Berkelium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Californium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Einsteinium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Fermium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Mendelevium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Nobelium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Lawrencium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Rutherfordium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Dubnium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Seaborgium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Bohrium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Hassium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Meitnerium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Darmstadtium",
+     "aliases": [],
+     "prior": 0.02
+    },
+    {
+     "name": "Roentgenium",
+     "aliases": [
+      "Röntgenium"
+     ],
+     "prior": 0.01
+    },
+    {
+     "name": "Copernicium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Nihonium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Flerovium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Moscovium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Livermorium",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Tenness",
+     "aliases": [],
+     "prior": 0.01
+    },
+    {
+     "name": "Oganesson",
+     "aliases": [],
+     "prior": 0.01
+    }
+   ],
+   "hints": {}
+  },
+  {
+   "q": "Ein Planet unseres Sonnensystems",
+   "x": "Die acht Planeten. Zwergplaneten zählen nicht, sorry Pluto.",
+   "answers": [
+    {
+     "name": "Erde",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Mars",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Jupiter",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Saturn",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Venus",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Merkur",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Neptun",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Uranus",
+     "aliases": [],
+     "prior": 3
+    }
+   ],
+   "hints": {
+    "pluto": "Pluto gilt seit 2006 als Zwergplanet.",
+    "mond": "Der Mond ist kein Planet.",
+    "sonne": "Die Sonne ist ein Stern."
+   }
+  },
+  {
+   "q": "Ein Bundeskanzler oder eine Bundeskanzlerin",
+   "x": "Alle Kanzler seit 1949. Nachname reicht.",
+   "answers": [
+    {
+     "name": "Angela Merkel",
+     "aliases": [
+      "Merkel"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Konrad Adenauer",
+     "aliases": [
+      "Adenauer"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Helmut Kohl",
+     "aliases": [
+      "Kohl"
+     ],
+     "prior": 14
+    },
+    {
+     "name": "Olaf Scholz",
+     "aliases": [
+      "Scholz"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Gerhard Schröder",
+     "aliases": [
+      "Schröder",
+      "Schroeder"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Willy Brandt",
+     "aliases": [
+      "Brandt"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Helmut Schmidt",
+     "aliases": [
+      "Schmidt"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Friedrich Merz",
+     "aliases": [
+      "Merz"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Ludwig Erhard",
+     "aliases": [
+      "Erhard"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Kurt Georg Kiesinger",
+     "aliases": [
+      "Kiesinger"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "helmut": "Welcher Helmut? Bitte mit Nachnamen."
+   }
+  },
+  {
+   "q": "Ein deutscher Komponist oder eine deutsche Komponistin",
+   "x": "Geboren im heutigen Deutschland bzw. den deutschen Staaten. Nachname reicht.",
+   "answers": [
+    {
+     "name": "Johann Sebastian Bach",
+     "aliases": [
+      "Bach"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Ludwig van Beethoven",
+     "aliases": [
+      "Beethoven"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Richard Wagner",
+     "aliases": [
+      "Wagner"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Georg Friedrich Händel",
+     "aliases": [
+      "Händel",
+      "Haendel"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Johannes Brahms",
+     "aliases": [
+      "Brahms"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Robert Schumann",
+     "aliases": [
+      "Schumann"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Hans Zimmer",
+     "aliases": [
+      "Zimmer"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Felix Mendelssohn Bartholdy",
+     "aliases": [
+      "Mendelssohn",
+      "Mendelssohn Bartholdy"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Georg Philipp Telemann",
+     "aliases": [
+      "Telemann"
+     ],
+     "prior": 1.5
+    },
+    {
+     "name": "Richard Strauss",
+     "aliases": [
+      "Richard Strauß"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Carl Orff",
+     "aliases": [
+      "Orff"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Johann Pachelbel",
+     "aliases": [
+      "Pachelbel"
+     ],
+     "prior": 0.8
+    },
+    {
+     "name": "Carl Maria von Weber",
+     "aliases": [
+      "Weber"
+     ],
+     "prior": 0.8
+    },
+    {
+     "name": "Paul Hindemith",
+     "aliases": [
+      "Hindemith"
+     ],
+     "prior": 0.5
+    },
+    {
+     "name": "Engelbert Humperdinck",
+     "aliases": [
+      "Humperdinck"
+     ],
+     "prior": 0.4
+    },
+    {
+     "name": "Kurt Weill",
+     "aliases": [
+      "Weill"
+     ],
+     "prior": 0.4
+    },
+    {
+     "name": "Clara Schumann",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Hildegard von Bingen",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Max Bruch",
+     "aliases": [
+      "Bruch"
+     ],
+     "prior": 0.3
+    },
+    {
+     "name": "Karlheinz Stockhausen",
+     "aliases": [
+      "Stockhausen"
+     ],
+     "prior": 0.3
+    },
+    {
+     "name": "Jacques Offenbach",
+     "aliases": [
+      "Offenbach"
+     ],
+     "prior": 0.3
+    },
+    {
+     "name": "Heinrich Schütz",
+     "aliases": [
+      "Schütz",
+      "Schuetz"
+     ],
+     "prior": 0.2
+    },
+    {
+     "name": "Max Reger",
+     "aliases": [
+      "Reger"
+     ],
+     "prior": 0.2
+    },
+    {
+     "name": "Hans Werner Henze",
+     "aliases": [
+      "Henze"
+     ],
+     "prior": 0.1
+    }
+   ],
+   "hints": {
+    "mozart": "Mozart war Salzburger – das gilt dann für Raritour Österreich 😉",
+    "haydn": "Haydn war Österreicher.",
+    "schubert": "Schubert war Österreicher (Wien).",
+    "mahler": "Mahler war Österreicher.",
+    "strauss": "Welcher Strauss? Johann Strauss war Österreicher – gemeint wäre Richard Strauss.",
+    "strauß": "Welcher Strauss? Johann Strauss war Österreicher – gemeint wäre Richard Strauss.",
+    "chopin": "Chopin war Pole.",
+    "vivaldi": "Vivaldi war Italiener."
+   }
+  }
+ ]
+}

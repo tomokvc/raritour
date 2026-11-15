@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 160" width="470" height="160">
+  <g transform="translate(4,0)">
+    <path d="M30 48 A30 30 0 1 1 78 72 C67 78 60 81 60 86" fill="none" stroke="#1B2A4A" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 156 C52 146 40 133 40 122 A20 20 0 1 1 80 122 C80 133 68 146 60 156 Z" fill="#F26A1B"/>
+    <circle cx="60" cy="121" r="7" fill="#fff"/>
+  </g>
+  <text x="132" y="112" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="78" letter-spacing="-2"><tspan fill="#1B2A4A">Rari</tspan><tspan fill="#F26A1B">tour</tspan></text>
+</svg>
