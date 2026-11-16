@@ -44,7 +44,7 @@ Ohne Supabase-Variablen funktioniert alles, die Prozente kommen dann nur aus den
 
 1. Vercel → *Add New Project* → Repo `raritour` importieren (Framework wird erkannt).
 2. Environment Variables: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` (optional `RARITY_PRIOR_WEIGHT`).
-3. Settings → Functions → Region **Frankfurt (fra1)**.
+3. Region Frankfurt (fra1) ist in `vercel.json` festgelegt.
 4. Domain `raritour.de` unter Settings → Domains verbinden.
 
 ## Neue Runde anlegen
