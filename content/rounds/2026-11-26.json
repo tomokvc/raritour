@@ -1,0 +1,4772 @@
+{
+ "date": "2026-11-26",
+ "route": "hamburg-frankfurt",
+ "categories": [
+  {
+   "q": "Ein Kleidungsstück",
+   "x": "Alles, was man anzieht – von Kopf bis Fuß. Schmuck und Taschen zählen nicht.",
+   "answers": [
+    {
+     "name": "Hose",
+     "aliases": [
+      "Jeans"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "T-Shirt",
+     "aliases": [
+      "Shirt"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Pullover",
+     "aliases": [
+      "Pulli"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "Jacke",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Socken",
+     "aliases": [
+      "Socke"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Hemd",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Rock",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Kleid",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Schuhe",
+     "aliases": [
+      "Schuh"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Mütze",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Schal",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Unterhose",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Mantel",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Hoodie",
+     "aliases": [
+      "Kapuzenpullover"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "BH",
+     "aliases": [
+      "Büstenhalter"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Handschuhe",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Anzug",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Bluse",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Weste",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Shorts",
+     "aliases": [
+      "Kurze Hose"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Strumpfhose",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Krawatte",
+     "aliases": [
+      "Schlips"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Jogginghose",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Badehose",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Bikini",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Gürtel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Lederhose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dirndl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kilt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sari",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kimono",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Poncho",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cape",
+     "aliases": [
+      "Umhang"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Parka",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Daunenjacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lederjacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Regenjacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Windjacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blazer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sakko",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jackett",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Frack",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Smoking",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Overall",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Latzhose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cargohose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leggings",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chino",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cordhose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stoffhose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pyjama",
+     "aliases": [
+      "Schlafanzug"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Nachthemd",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bademantel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Morgenmantel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Badeanzug",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tanga",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Boxershorts",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Slip",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Unterhemd",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Feinripp",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Body",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Korsett",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Strümpfe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kniestrümpfe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stulpen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Polohemd",
+     "aliases": [
+      "Poloshirt"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Trikot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tanktop",
+     "aliases": [
+      "Top"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rollkragenpullover",
+     "aliases": [
+      "Rolli"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Strickjacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cardigan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sweatshirt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fleecejacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tunika",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kittel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schürze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blaumann",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Arbeitshose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Uniform",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Robe",
+     "aliases": [
+      "Talar"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Toga",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Turban",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kopftuch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cap",
+     "aliases": [
+      "Baseballcap",
+      "Basecap"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Beanie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stirnband",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schirmmütze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zylinder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Barett",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sombrero",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stiefel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sneaker",
+     "aliases": [
+      "Turnschuhe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sandalen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flip-Flops",
+     "aliases": [
+      "Badelatschen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pumps",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "High Heels",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gummistiefel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pantoffeln",
+     "aliases": [
+      "Hausschuhe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Halstuch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fäustlinge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ohrenschützer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gamaschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hosenträger",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Minirock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Faltenrock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Abendkleid",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brautkleid",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sommerkleid",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jeansjacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bomberjacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trenchcoat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dufflecoat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Anorak",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Skihose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Skianzug",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neoprenanzug",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Rucksack": "Ein Rucksack ist eine Tasche – kein Kleidungsstück.",
+    "Brille": "Eine Brille ist ein Accessoire.",
+    "Uhr": "Eine Uhr ist ein Accessoire."
+   }
+  },
+  {
+   "q": "Eine Farbe",
+   "x": "Farben und Farbtöne – auch die schicken aus dem Baumarkt-Katalog.",
+   "answers": [
+    {
+     "name": "Rot",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Blau",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Grün",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Gelb",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Schwarz",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Weiß",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Lila",
+     "aliases": [
+      "Violett"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Orange",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Rosa",
+     "aliases": [
+      "Pink"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Braun",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Grau",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Türkis",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Gold",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Silber",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Beige",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Magenta",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Hellblau",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Dunkelblau",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mint",
+     "aliases": [
+      "Mintgrün"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Bordeaux",
+     "aliases": [
+      "Weinrot",
+      "Bordeauxrot"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Petrol",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Cyan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Indigo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ultramarin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kobaltblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marineblau",
+     "aliases": [
+      "Navy"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Azurblau",
+     "aliases": [
+      "Azur"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Himmelblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Königsblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Babyblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eisblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stahlblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Taubenblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Preußischblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aquamarin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Smaragdgrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Olivgrün",
+     "aliases": [
+      "Oliv"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Moosgrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tannengrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grasgrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lindgrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Apfelgrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Salbeigrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flaschengrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Khaki",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neongrün",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zitronengelb",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Senfgelb",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ocker",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sonnengelb",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vanille",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Creme",
+     "aliases": [
+      "Cremeweiß"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Elfenbein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Altrosa",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lachs",
+     "aliases": [
+      "Lachsrosa"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Koralle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Apricot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfirsich",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kupfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bronze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Messing",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rostrot",
+     "aliases": [
+      "Rost"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Karminrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Scharlachrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Purpur",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kirschrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Feuerrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Signalrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zinnoberrot",
+     "aliases": [
+      "Zinnober"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Burgunder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fuchsia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flieder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lavendel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mauve",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aubergine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pflaume",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schokobraun",
+     "aliases": [
+      "Schokoladenbraun"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kastanienbraun",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haselnuss",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sand",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Taupe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Anthrazit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schiefergrau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Silbergrau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hellgrau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dunkelgrau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Steingrau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mausgrau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Perlweiß",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schneeweiß",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Off-White",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwarzblau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tiefschwarz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ebenholz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sepia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Umbra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Siena",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Terrakotta",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kakao",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Champagner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Taubengrau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neonpink",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neongelb",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bernstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Honig",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Karamell",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cognac",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rosé",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Puder",
+     "aliases": [
+      "Puderrosa"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Himbeerrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Erdbeerrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tomatenrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ziegelrot",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Regenbogen": "Bitte eine Farbe, nicht alle auf einmal 🌈",
+    "Bunt": "„Bunt“ ist keine Farbe, sondern alle."
+   }
+  },
+  {
+   "q": "Ein Tanz",
+   "x": "Tänze und Tanzstile – Gesellschaftstanz, Volkstanz, Ballett oder Club.",
+   "answers": [
+    {
+     "name": "Walzer",
+     "aliases": [
+      "Wiener Walzer"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Tango",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Salsa",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Cha-Cha-Cha",
+     "aliases": [
+      "Cha Cha Cha",
+      "Chachacha"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Rumba",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Foxtrott",
+     "aliases": [
+      "Foxtrot"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Samba",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Hip-Hop",
+     "aliases": [
+      "Hip Hop"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Ballett",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Breakdance",
+     "aliases": [
+      "Breaking"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Discofox",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Jive",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Quickstep",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Polka",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Flamenco",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Rock 'n' Roll",
+     "aliases": [
+      "Rock'n'Roll",
+      "Rock and Roll"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Bachata",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Line Dance",
+     "aliases": [
+      "Linedance"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Macarena",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Twist",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Paso Doble",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Lambada",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Limbo",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Kizomba",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Swing",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lindy Hop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Boogie-Woogie",
+     "aliases": [
+      "Boogie Woogie"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Charleston",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stepptanz",
+     "aliases": [
+      "Steppen",
+      "Tap Dance"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Jazztanz",
+     "aliases": [
+      "Jazz Dance"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Modern Dance",
+     "aliases": [
+      "Moderner Tanz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Contemporary",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ausdruckstanz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tanztheater",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schuhplattler",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ländler",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Polonaise",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mazurka",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Menuett",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gavotte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gigue",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sarabande",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quadrille",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Contredanse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Square Dance",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Volkstanz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kolo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sirtaki",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hora",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Csárdás",
+     "aliases": [
+      "Csardas"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Krakowiak",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tarantella",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fandango",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bolero",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Merengue",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reggaeton",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cumbia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Forró",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bauchtanz",
+     "aliases": [
+      "Orientalischer Tanz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bollywood",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bhangra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kathak",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bharatanatyam",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hula",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haka",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Capoeira",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Voguing",
+     "aliases": [
+      "Vogue"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Waacking",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Locking",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Popping",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Krumping",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "House Dance",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Shuffle",
+     "aliases": [
+      "Shuffle Dance"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Jumpstyle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Moonwalk",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Gangnam Style",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Ententanz",
+     "aliases": [
+      "Vogeltanz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fliegerlied",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Pogo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stehblues",
+     "aliases": [
+      "Blues"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Slowfox",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tango Argentino",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pole Dance",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Twerking",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Zumba",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Yoga": "Yoga ist Sport, aber kein Tanz."
+   }
+  },
+  {
+   "q": "Ein Musikgenre",
+   "x": "Musikrichtungen und -stile.",
+   "answers": [
+    {
+     "name": "Pop",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Rock",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Hip-Hop",
+     "aliases": [
+      "Hip Hop",
+      "Rap"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Techno",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Jazz",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Klassik",
+     "aliases": [
+      "Klassische Musik"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Schlager",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Metal",
+     "aliases": [
+      "Heavy Metal"
+     ],
+     "prior": 9
+    },
+    {
+     "name": "Elektro",
+     "aliases": [
+      "Electro",
+      "EDM"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Reggae",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Blues",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Punk",
+     "aliases": [
+      "Punkrock"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Country",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Soul",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "R&B",
+     "aliases": [
+      "RnB"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "House",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Funk",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Indie",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Disco",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Volksmusik",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Gospel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Trance",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Grunge",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Oper",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Deutschrap",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trap",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Drill",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grime",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Drum and Bass",
+     "aliases": [
+      "Drum 'n' Bass",
+      "DnB"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Dubstep",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dub",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ska",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dancehall",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reggaeton",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Salsa",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Samba",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bossa Nova",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tango",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flamenco",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fado",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chanson",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Liedermacher",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neue Deutsche Welle",
+     "aliases": [
+      "NDW"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Krautrock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hardrock",
+     "aliases": [
+      "Hard Rock"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Classic Rock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Progressive Rock",
+     "aliases": [
+      "Prog"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Psychedelic Rock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glam Rock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alternative",
+     "aliases": [
+      "Alternative Rock"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Emo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Post-Rock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Shoegaze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Britpop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "New Wave",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Synthpop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Darkwave",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gothic",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Industrial",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neue Deutsche Härte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Death Metal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Black Metal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Thrash Metal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Power Metal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nu Metal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Metalcore",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hardcore",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ska-Punk",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pop-Punk",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Folk",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Folk-Rock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mittelalterrock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bluegrass",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rockabilly",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rock 'n' Roll",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Swing",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bebop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Big Band",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Smooth Jazz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Acid Jazz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lo-Fi",
+     "aliases": [
+      "Lofi"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Chillout",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ambient",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Downbeat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trip-Hop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Deep House",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tech House",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Minimal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Acid House",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hardstyle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gabber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eurodance",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Italo Disco",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "K-Pop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "J-Pop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Afrobeats",
+     "aliases": [
+      "Afrobeat"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Highlife",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Turbofolk",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Klapa",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tamburica",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Polka",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marschmusik",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blasmusik",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Barock",
+     "aliases": [
+      "Barockmusik"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gregorianik",
+     "aliases": [
+      "Gregorianischer Gesang"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Musical",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Filmmusik",
+     "aliases": [
+      "Soundtrack"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ballade",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "A cappella",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kinderlieder",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Weihnachtsmusik",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Ballermann",
+     "aliases": [
+      "Malle-Musik"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Après-Ski",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cloud Rap",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Emo-Rap",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Afrotrap",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hyperpop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Phonk",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Musik": "Bisschen genauer, bitte!",
+    "Helene Fischer": "Das ist eine Person. Das Genre wäre … Schlager 😉"
+   }
+  },
+  {
+   "q": "Eine Stadt in Sachsen",
+   "x": "Städte und Gemeinden im Freistaat Sachsen.",
+   "answers": [
+    {
+     "name": "Dresden",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Leipzig",
+     "aliases": [],
+     "prior": 28
+    },
+    {
+     "name": "Chemnitz",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Zwickau",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Görlitz",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Plauen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Bautzen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Meißen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Freiberg",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Pirna",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Radebeul",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Riesa",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Hoyerswerda",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Annaberg-Buchholz",
+     "aliases": [
+      "Annaberg"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Zittau",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Aue",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Torgau",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Grimma",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Freital",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Seiffen",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Oberwiesenthal",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Bad Schandau",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Moritzburg",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Delitzsch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eilenburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wurzen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oschatz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Döbeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mittweida",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hainichen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flöha",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marienberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Olbernhau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwarzenberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Johanngeorgenstadt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stollberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glauchau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Meerane",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Crimmitschau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Werdau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reichenbach",
+     "aliases": [
+      "Reichenbach im Vogtland"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Auerbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oelsnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Markneukirchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Klingenthal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Elster",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Brambach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Adorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Falkenstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Limbach-Oberfrohna",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hohenstein-Ernstthal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lichtenstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Burgstädt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Frankenberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rochlitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Colditz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Borna",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Markkleeberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Taucha",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schkeuditz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Markranstädt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zwenkau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Düben",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Großenhain",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Coswig",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Radeburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kamenz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bischofswerda",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neustadt in Sachsen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sebnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Königstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stolpen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heidenau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dippoldiswalde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Altenberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glashütte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rabenau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tharandt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wilsdruff",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nossen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Roßwein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Löbau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herrnhut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ebersbach-Neugersdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Niesky",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weißwasser",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Muskau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rothenburg",
+     "aliases": [
+      "Rothenburg/Oberlausitz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kurort Rathen",
+     "aliases": [
+      "Rathen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kurort Jonsdorf",
+     "aliases": [
+      "Jonsdorf"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Oybin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hohnstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schneeberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lößnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eibenstock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zschopau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Augustusburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Waldenburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Penig",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leisnig",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mügeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Strehla",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elsterberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Thum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ehrenfriedersdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Geyer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zwönitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kirchberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wilkau-Haßlau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lugau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gelenau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bernsdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lauta",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wittichenau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elstra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pulsnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Radeberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ottendorf-Okrilla",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Arnsdorf",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Halle": "Halle liegt in Sachsen-Anhalt.",
+    "Erfurt": "Erfurt liegt in Thüringen.",
+    "Cottbus": "Cottbus liegt in Brandenburg – knapp vorbei!"
+   }
+  },
+  {
+   "q": "Ein Sternbild",
+   "x": "Die 88 offiziellen Sternbilder der Internationalen Astronomischen Union – deutsch oder lateinisch. Der Große Wagen zählt als Großer Bär.",
+   "answers": [
+    {
+     "name": "Großer Bär",
+     "aliases": [
+      "Großer Wagen",
+      "Ursa Major"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "Orion",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Kleiner Bär",
+     "aliases": [
+      "Kleiner Wagen",
+      "Ursa Minor"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Kassiopeia",
+     "aliases": [
+      "Cassiopeia",
+      "Himmels-W"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Skorpion",
+     "aliases": [
+      "Scorpius"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Löwe",
+     "aliases": [
+      "Leo"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Zwillinge",
+     "aliases": [
+      "Gemini"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Stier",
+     "aliases": [
+      "Taurus"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Schütze",
+     "aliases": [
+      "Sagittarius"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Wassermann",
+     "aliases": [
+      "Aquarius"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Jungfrau",
+     "aliases": [
+      "Virgo"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Waage",
+     "aliases": [
+      "Libra"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Krebs",
+     "aliases": [
+      "Cancer"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Fische",
+     "aliases": [
+      "Pisces"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Steinbock",
+     "aliases": [
+      "Capricornus"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Widder",
+     "aliases": [
+      "Aries"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Schwan",
+     "aliases": [
+      "Cygnus"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Andromeda",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Pegasus",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kreuz des Südens",
+     "aliases": [
+      "Südliches Kreuz",
+      "Crux"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Drache",
+     "aliases": [
+      "Draco"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Leier",
+     "aliases": [
+      "Lyra"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Adler",
+     "aliases": [
+      "Aquila"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Großer Hund",
+     "aliases": [
+      "Canis Major"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Perseus",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kleiner Hund",
+     "aliases": [
+      "Canis Minor"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fuhrmann",
+     "aliases": [
+      "Auriga"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bärenhüter",
+     "aliases": [
+      "Bootes"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Herkules",
+     "aliases": [
+      "Hercules"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Nördliche Krone",
+     "aliases": [
+      "Corona Borealis"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Südliche Krone",
+     "aliases": [
+      "Corona Australis"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schlangenträger",
+     "aliases": [
+      "Ophiuchus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schlange",
+     "aliases": [
+      "Serpens"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wal",
+     "aliases": [
+      "Cetus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Eridanus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hase",
+     "aliases": [
+      "Lepus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Taube",
+     "aliases": [
+      "Columba"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Einhorn",
+     "aliases": [
+      "Monoceros"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wasserschlange",
+     "aliases": [
+      "Hydra"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Becher",
+     "aliases": [
+      "Crater"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rabe",
+     "aliases": [
+      "Corvus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Haar der Berenike",
+     "aliases": [
+      "Coma Berenices"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Jagdhunde",
+     "aliases": [
+      "Canes Venatici"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kleiner Löwe",
+     "aliases": [
+      "Leo Minor"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Luchs",
+     "aliases": [
+      "Lynx"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Giraffe",
+     "aliases": [
+      "Camelopardalis"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kepheus",
+     "aliases": [
+      "Cepheus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Eidechse",
+     "aliases": [
+      "Lacerta"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Delphin",
+     "aliases": [
+      "Delphinus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Füllen",
+     "aliases": [
+      "Equuleus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Füchschen",
+     "aliases": [
+      "Vulpecula"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pfeil",
+     "aliases": [
+      "Sagitta"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schild",
+     "aliases": [
+      "Scutum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Dreieck",
+     "aliases": [
+      "Triangulum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Südliches Dreieck",
+     "aliases": [
+      "Triangulum Australe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wolf",
+     "aliases": [
+      "Lupus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kentaur",
+     "aliases": [
+      "Centaurus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Altar",
+     "aliases": [
+      "Ara"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Winkelmaß",
+     "aliases": [
+      "Norma"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Zirkel",
+     "aliases": [
+      "Circinus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fliege",
+     "aliases": [
+      "Musca"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Chamäleon",
+     "aliases": [
+      "Chamaeleon"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Paradiesvogel",
+     "aliases": [
+      "Apus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Südlicher Fisch",
+     "aliases": [
+      "Piscis Austrinus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kranich",
+     "aliases": [
+      "Grus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Phönix",
+     "aliases": [
+      "Phoenix"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tukan",
+     "aliases": [
+      "Tucana"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kleine Wasserschlange",
+     "aliases": [
+      "Hydrus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Indianer",
+     "aliases": [
+      "Indus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pfau",
+     "aliases": [
+      "Pavo"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Teleskop",
+     "aliases": [
+      "Telescopium"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mikroskop",
+     "aliases": [
+      "Microscopium"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bildhauer",
+     "aliases": [
+      "Sculptor"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Chemischer Ofen",
+     "aliases": [
+      "Fornax"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pendeluhr",
+     "aliases": [
+      "Horologium"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Netz",
+     "aliases": [
+      "Reticulum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Grabstichel",
+     "aliases": [
+      "Caelum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Maler",
+     "aliases": [
+      "Pictor"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schwertfisch",
+     "aliases": [
+      "Dorado"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fliegender Fisch",
+     "aliases": [
+      "Volans"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tafelberg",
+     "aliases": [
+      "Mensa"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Oktant",
+     "aliases": [
+      "Octans"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Achterdeck des Schiffs",
+     "aliases": [
+      "Puppis"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kiel des Schiffs",
+     "aliases": [
+      "Carina"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Segel des Schiffs",
+     "aliases": [
+      "Vela"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schiffskompass",
+     "aliases": [
+      "Pyxis"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Luftpumpe",
+     "aliases": [
+      "Antlia"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sextant",
+     "aliases": [
+      "Sextans"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Plejaden": "Die Plejaden sind ein Sternhaufen im Stier – kein eigenes Sternbild.",
+    "Polarstern": "Der Polarstern ist ein Stern im Kleinen Bären.",
+    "Milchstraße": "Die Milchstraße ist unsere Galaxie."
+   }
+  },
+  {
+   "q": "Ein Kantinengericht",
+   "x": "Was in deutschen Kantinen und Mensen auf dem Tablett landet. Kuratierte Raritour-Liste.",
+   "answers": [
+    {
+     "name": "Currywurst",
+     "aliases": [
+      "Currywurst mit Pommes"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "Schnitzel",
+     "aliases": [
+      "Schnitzel mit Pommes",
+      "Wiener Schnitzel"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Spaghetti Bolognese",
+     "aliases": [
+      "Spaghetti",
+      "Bolognese"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Gulasch",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Frikadelle",
+     "aliases": [
+      "Bulette",
+      "Fleischpflanzerl",
+      "Boulette"
+     ],
+     "prior": 9
+    },
+    {
+     "name": "Chili con Carne",
+     "aliases": [
+      "Chili"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Königsberger Klopse",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Lasagne",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Hähnchen",
+     "aliases": [
+      "Hähnchenbrust",
+      "Hähnchenschenkel"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Fischstäbchen",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Kartoffelsuppe",
+     "aliases": [
+      "Erbsensuppe",
+      "Eintopf"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Bratwurst",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Leberkäse",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Milchreis",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Pizza",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Gemüselasagne",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Käsespätzle",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Linsensuppe",
+     "aliases": [
+      "Linsen mit Spätzle"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Germknödel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Senfeier",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rührei",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Kassler",
+     "aliases": [
+      "Kasseler"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Rinderroulade",
+     "aliases": [
+      "Roulade"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Jägerschnitzel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Paprikaschnitzel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cordon bleu",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Putengeschnetzeltes",
+     "aliases": [
+      "Geschnetzeltes"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hühnerfrikassee",
+     "aliases": [
+      "Frikassee"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gyros",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Döner",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Falafel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Veggie-Burger",
+     "aliases": [
+      "Burger"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gemüsecurry",
+     "aliases": [
+      "Curry"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Chicken Tikka Masala",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Butter Chicken",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nudelauflauf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelauflauf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelgratin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fischfilet",
+     "aliases": [
+      "Seelachsfilet"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Backfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Matjes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hering in Sahne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Labskaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grünkohl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sauerkraut mit Kassler",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eisbein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schweinebraten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rinderbraten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sauerbraten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hackbraten",
+     "aliases": [
+      "Falscher Hase"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gefüllte Paprika",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kohlrouladen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rote Grütze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pudding",
+     "aliases": [
+      "Vanillepudding",
+      "Schokopudding"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Grießbrei",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Apfelstrudel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaiserschmarrn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfannkuchen",
+     "aliases": [
+      "Eierkuchen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Arme Ritter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dampfnudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hefeklöße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maultaschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schupfnudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flammkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quiche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gemüsepfanne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reispfanne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nasi Goreng",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bami Goreng",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chili sin Carne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bowl",
+     "aliases": [
+      "Buddha Bowl"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Salat",
+     "aliases": [
+      "Salatbar"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wraps",
+     "aliases": [
+      "Wrap"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tortellini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ravioli",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Penne Arrabiata",
+     "aliases": [
+      "Arrabiata"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Spaghetti Carbonara",
+     "aliases": [
+      "Carbonara"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tomatensuppe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Soljanka",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Szegediner Gulasch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Letscho",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jägerschnitzel mit Nudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tote Oma",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Broiler",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Würzfleisch",
+     "aliases": [
+      "Ragout fin"
+     ],
+     "prior": 0.5
+    },
+    {
+     "name": "Ketwurst",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Spirelli mit Tomatensoße",
+     "aliases": [
+      "Nudeln mit Tomatensoße"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fischfrikadelle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bauernfrühstück",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Strammer Max",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Toast Hawaii",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wurstsalat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schinkennudeln",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Kaviar": "In welcher Kantine isst du bitte? 😄",
+    "Hummer": "Das gibt’s höchstens in der Vorstandskantine."
+   }
+  },
+  {
+   "q": "Ein Werkzeug",
+   "x": "Handwerkzeuge, Elektrowerkzeuge und Gartengeräte aus Werkstatt und Baumarkt.",
+   "answers": [
+    {
+     "name": "Hammer",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Schraubenzieher",
+     "aliases": [
+      "Schraubendreher"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Säge",
+     "aliases": [
+      "Handsäge"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Zange",
+     "aliases": [
+      "Kombizange"
+     ],
+     "prior": 14
+    },
+    {
+     "name": "Bohrmaschine",
+     "aliases": [
+      "Bohrer"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Schraubenschlüssel",
+     "aliases": [
+      "Maulschlüssel",
+      "Gabelschlüssel"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Akkuschrauber",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Wasserwaage",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Feile",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Meißel",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Axt",
+     "aliases": [
+      "Beil"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Schere",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Zollstock",
+     "aliases": [
+      "Meterstab"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Inbusschlüssel",
+     "aliases": [
+      "Innensechskantschlüssel",
+      "Imbus"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Flex",
+     "aliases": [
+      "Winkelschleifer"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Stichsäge",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kreissäge",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kettensäge",
+     "aliases": [
+      "Motorsäge"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Schleifpapier",
+     "aliases": [
+      "Sandpapier"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Spachtel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pinsel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Maßband",
+     "aliases": [
+      "Bandmaß"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Hobel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Cuttermesser",
+     "aliases": [
+      "Teppichmesser"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Schaufel",
+     "aliases": [
+      "Spaten"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Fuchsschwanz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bügelsäge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Japansäge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stemmeisen",
+     "aliases": [
+      "Beitel",
+      "Stechbeitel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Raspel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schraubzwinge",
+     "aliases": [
+      "Zwinge"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schraubstock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ratsche",
+     "aliases": [
+      "Knarre"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Drehmomentschlüssel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rohrzange",
+     "aliases": [
+      "Wasserpumpenzange"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Seitenschneider",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spitzzange",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Abisolierzange",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Crimpzange",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gripzange",
+     "aliases": [
+      "Schweißzange"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Nietzange",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kneifzange",
+     "aliases": [
+      "Beißzange"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Blechschere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gartenschere",
+     "aliases": [
+      "Rosenschere"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Astschere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heckenschere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rasenmäher",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rechen",
+     "aliases": [
+      "Harke"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hacke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grabegabel",
+     "aliases": [
+      "Mistgabel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schubkarre",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gießkanne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Laubbläser",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vertikutierer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Freischneider",
+     "aliases": [
+      "Motorsense"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sense",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sichel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vorschlaghammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fäustel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gummihammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Klauenhammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Latthammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maurerkelle",
+     "aliases": [
+      "Kelle"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Glättkelle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reibebrett",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Richtscheit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fliesenschneider",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bohrhammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schlagbohrmaschine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stemmhammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oberfräse",
+     "aliases": [
+      "Fräse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bandschleifer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Exzenterschleifer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwingschleifer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Multitool",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dremel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heißluftfön",
+     "aliases": [
+      "Heißluftpistole"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lötkolben",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schweißgerät",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heißklebepistole",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tacker",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nagelpistole",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kompressor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wagenheber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brecheisen",
+     "aliases": [
+      "Kuhfuß",
+      "Nageleisen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Senklot",
+     "aliases": [
+      "Lot"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Winkel",
+     "aliases": [
+      "Anschlagwinkel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schieblehre",
+     "aliases": [
+      "Messschieber"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mikrometer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gewindeschneider",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Körner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Durchschlag",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Splintentreiber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Abzieher",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ölkanne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fettpresse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Drahtbürste",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stahlwolle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leiter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Werkbank",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Säbelsäge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tischkreissäge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kappsäge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bandsäge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Laser",
+     "aliases": [
+      "Kreuzlinienlaser"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kartuschenpresse",
+     "aliases": [
+      "Silikonpistole"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Abbruchhammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kernbohrgerät",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rüttelplatte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Betonmischer",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Nivelliergerät",
+     "aliases": [
+      "Nivellier"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tachymeter",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Fluchtstab",
+     "aliases": [],
+     "prior": 0.3
+    }
+   ],
+   "hints": {
+    "Duct Tape": "Panzertape ist Material, kein Werkzeug – aber hält alles zusammen.",
+    "Kleber": "Kleber ist Material, kein Werkzeug."
+   }
+  }
+ ]
+}

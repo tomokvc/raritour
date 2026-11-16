@@ -1,0 +1,63 @@
+@ 2026-11-23
+
+# Ein Insekt
+> Echte Insekten mit sechs Beinen. Spinnen, Zecken und Asseln sind raus.
+Biene|Honigbiene:25, Ameise:20, Fliege|Stubenfliege:15, Mücke|Stechmücke:12, Schmetterling:12, Marienkäfer:10, Wespe:9, Käfer:8, Hummel:7, Libelle:6, Heuschrecke|Grashüpfer:6, Kakerlake|Schabe:5, Floh:4, Laus:4, Motte:4, Grille:4, Maikäfer:4, Hirschkäfer:3, Hornisse:3, Termite:3, Gottesanbeterin:3, Glühwürmchen:3
+Zitronenfalter, Kohlweißling, Tagpfauenauge, Admiral, Kleiner Fuchs, Schwalbenschwanz, Monarchfalter, Nachtfalter, Kleidermotte, Lebensmittelmotte, Raupe:0.3, Bremse, Schnake, Kriebelmücke, Fruchtfliege|Taufliege, Schmeißfliege, Pferdebremse, Stechfliege, Zikade, Wanze|Baumwanze|Stinkwanze, Feuerwanze, Wasserläufer, Rückenschwimmer, Blattlaus, Kopflaus, Bettwanze, Silberfischchen, Ohrwurm|Ohrenkneifer, Florfliege, Köcherfliege, Eintagsfliege, Steinfliege, Skorpionsfliege, Kartoffelkäfer, Borkenkäfer, Rosenkäfer, Mistkäfer|Skarabäus, Laufkäfer, Bockkäfer, Pillendreher, Nashornkäfer, Goliathkäfer, Herkuleskäfer, Wasserkäfer|Gelbrandkäfer, Rüsselkäfer, Mehlkäfer|Mehlwurm, Totengräber, Wollschweber, Schwebfliege, Schlupfwespe, Gallwespe, Holzwespe, Feldwespe, Ameisenlöwe, Stabheuschrecke|Gespenstschrecke, Wandelndes Blatt, Wanderheuschrecke, Maulwurfsgrille, Heimchen, Zuckmücke, Tsetsefliege, Blattschneiderameise, Rote Waldameise, Feuerameise, Seidenspinner, Atlasspinner, Eichenprozessionsspinner, Buchsbaumzünsler, Kolibrischwärmer|Taubenschwänzchen, Totenkopfschwärmer
+! Spinne = Spinnen haben acht Beine – keine Insekten.
+! Zecke = Zecken sind Spinnentiere.
+! Tausendfüßer = Tausendfüßer haben zu viele Beine.
+! Assel = Asseln sind Krebstiere.
+
+# Ein Meer oder Ozean
+> Ozeane, Rand- und Binnenmeere der Erde. Seen zählen nicht.
+Nordsee:22, Ostsee:22, Mittelmeer:20, Pazifik|Pazifischer Ozean|Stiller Ozean:15, Atlantik|Atlantischer Ozean:15, Schwarzes Meer:10, Rotes Meer:9, Indischer Ozean:9, Totes Meer:8, Karibik|Karibisches Meer:6, Adria|Adriatisches Meer:6, Kaspisches Meer:5, Arktischer Ozean|Nordpolarmeer|Arktis:4, Südpolarmeer|Südlicher Ozean:3, Ägäis|Ägäisches Meer:3
+Ionisches Meer, Tyrrhenisches Meer, Ligurisches Meer, Balearenmeer, Alboran-Meer|Alboranmeer, Marmarameer, Asowsches Meer, Irische See, Keltische See, Wattenmeer, Norwegische See|Europäisches Nordmeer|Nordmeer, Barentssee, Weißes Meer, Karasee, Laptewsee, Ostsibirische See, Beringmeer, Ochotskisches Meer, Japanisches Meer, Gelbes Meer, Ostchinesisches Meer, Südchinesisches Meer, Philippinensee, Javasee, Bandasee, Arafurasee, Korallenmeer, Tasmansee, Andamanensee, Arabisches Meer, Persischer Golf, Golf von Oman, Golf von Mexiko, Golf von Bengalen, Sargassosee, Labradorsee, Grönlandsee, Weddellmeer, Rossmeer, Beaufortsee, Hudson Bay|Hudsonbucht, Bottnischer Meerbusen, Kattegat, Skagerrak, Golf von Biskaya|Biskaya
+! Bodensee = Der Bodensee ist ein See, kein Meer.
+! Steinhuder Meer = Heißt Meer, ist aber ein See 😉
+
+# Ein Ostprodukt
+> Marken und Produkte aus der DDR, die viele noch kennen – manche gibt’s bis heute. Kuratierte Raritour-Liste.
+Trabant|Trabi:20, Spreewaldgurken|Spreewaldgurke:15, Rotkäppchen|Rotkäppchen Sekt:12, Club-Cola|Club Cola:8, Vita Cola|Vita-Cola:8, Nudossi:7, Florena:6, Bautz'ner|Bautzner Senf|Bautz'ner Senf:6, Halloren|Halloren Kugeln:6, Ampelmännchen:6, Wartburg:5, Simson:5, Spee:4, Fit|Fit Spülmittel:4, Knusperflocken:4, Pittiplatsch:3, Sandmännchen:4, Schwalbe:3, Mocca Fix|Mokka Fix:2, Rondo|Rondo Kaffee:2, Kathi:3, Filinchen:3, Tempolinsen:2, Burger Knäcke:2
+Radeberger, Wernesgrüner, Köstritzer, Hasseröder, Ur-Krostitzer, Sternburg|Sterni, Freiberger, Bad Brambacher, Margon, Zetti, Bambina, Viba, Riesaer Nudeln|Teigwaren Riesa, Leckermäulchen, Wurzener Zwieback, Pfeffi, Goldbrand, Nordhäuser Doppelkorn|Nordhäuser, Timms Saurer|Timms, Schlager-Süßtafel:0.3, Ata, Badusan, Wofasept:0.3, Born Senf|Born, Werder Ketchup, Glashütte|Glashütte Uhren, Robotron, Praktica, Pentacon, Ruhla|Ruhla Uhren, Multicar, IFA, MZ, Barkas, KR51, Diamant Fahrrad|Diamant, Mifa, Plauener Spitze, Meißner Porzellan|Meißen, Erzgebirgische Holzkunst|Räuchermännchen, Nussknacker, Schwibbogen, Stern-Radio|Sternradio, Narva
+! Haribo = Haribo ist aus Bonn – tiefster Westen.
+! Nutella = Nutella ist das West-Original, das Ost-Gegenstück heißt Nudossi!
+
+# Eine Brotsorte
+> Brotsorten und Brote – deutsch und international. Brötchen sind gestern dran gewesen.
+Vollkornbrot:20, Roggenbrot:15, Weißbrot:15, Schwarzbrot:12, Mischbrot:12, Toast|Toastbrot:10, Baguette:10, Pumpernickel:8, Dinkelbrot:7, Sauerteigbrot:6, Bauernbrot:6, Ciabatta:5, Graubrot:5, Knäckebrot:5, Sonnenblumenbrot|Sonnenblumenkernbrot:4, Kürbiskernbrot:3, Fladenbrot:4, Zwiebelbrot:3, Brezel|Breze|Brezn:3
+Kastenbrot, Krustenbrot, Landbrot, Kommissbrot, Paderborner, Dreikornbrot, Fünfkornbrot|Mehrkornbrot, Körnerbrot, Leinsamenbrot, Kartoffelbrot, Buttermilchbrot, Malzbrot, Kümmelbrot, Roggenmischbrot, Weizenmischbrot, Holzofenbrot, Steinofenbrot, Bauernlaib, Eiweißbrot, Brioche, Focaccia, Naan, Pita, Lavash, Chapati, Tortilla, Bagel:0.5, Sodabrot|Soda Bread, Pane Carasau, Pain de Campagne, Fougasse, Challa|Challah, Stuten|Rosinenstuten, Hefezopf, Simit:0.5, Früchtebrot|Hutzelbrot|Kletzenbrot, Schüttelbrot, Vinschgauer|Vinschgerl, Fladen, Pinsa:0.3, Tessiner Brot, Zopf, Bierbrot, Joghurtbrot, Quarkbrot, Haferbrot, Chiabrot, Westfälisches Schwarzbrot
+! Brot = Bisschen genauer, bitte – welche Sorte?
+! Brötchen = Brötchen hatten wir schon – heute ganze Brote!
+
+# Eine Figur aus „Asterix“
+> Figuren aus den Asterix-Comics und -Filmen. Deutsche Namen.
+Asterix:30, Obelix:28, Idefix:15, Miraculix:12, Majestix:7, Troubadix:6, Julius Cäsar|Cäsar|Caesar:7, Methusalix:4, Verleihnix:4, Automatix:4, Gutemine:3, Kleopatra|Cleopatra:3, Falbala:3, Grautvornix:2
+Teefax, Tragicomix, Numerobis, Pyradonis, Destructivus, Brutus, Gaius Bonus, Rotbart|Käpt'n Rotbart, Baba, Maestria, Pepe
+! Lucky Luke = Lucky Luke ist ein anderer Comic.
+! Tim = Tim (und Struppi) ist ein anderer Comic.
+
+# Ein Komponist der klassischen Musik
+> Komponistinnen und Komponisten der klassischen Musik aus aller Welt – Barock bis Moderne. Nachname reicht.
+Mozart|Wolfgang Amadeus Mozart:30, Beethoven|Ludwig van Beethoven:28, Bach|Johann Sebastian Bach:22, Vivaldi:10, Chopin:8, Tschaikowski|Tschaikowsky:7, Wagner|Richard Wagner:7, Händel|Haendel:6, Haydn:6, Schubert:6, Brahms:5, Verdi:5, Strauss|Strauß|Johann Strauss:5, Liszt:4, Debussy:4, Puccini:3, Dvořák|Dvorak:3, Grieg:3, Mahler:3, Schumann:3, Rachmaninow|Rachmaninoff:3, Ravel:3, Bizet:2, Rossini:2, Orff:2, Mendelssohn|Mendelssohn Bartholdy:2, Telemann:2, Pachelbel:2
+Bruckner, Sibelius, Smetana, Strawinsky|Stravinsky, Prokofjew|Prokofiev, Schostakowitsch|Shostakovich, Mussorgski, Rimski-Korsakow, Borodin, Glinka, Saint-Saëns|Saint-Saens, Berlioz, Gounod, Massenet, Fauré, Satie, Offenbach, Bellini, Donizetti, Monteverdi, Scarlatti, Corelli, Albinoni, Paganini, Boccherini, Respighi, Purcell, Elgar, Holst, Britten, Vaughan Williams, Gershwin, Bernstein, Copland, Barber, Glass|Philip Glass, Reich|Steve Reich, Cage|John Cage, Schönberg|Schoenberg, Berg|Alban Berg, Webern, Hindemith, Weill, Stockhausen, Henze, Penderecki, Lutosławski|Lutoslawski, Ligeti, Bartók|Bartok, Kodály|Kodaly, Lehár|Lehar, Suppé, Weber, Lortzing, Humperdinck, Bruch, Reger, Richard Strauss, Clara Schumann, Fanny Hensel, Hildegard von Bingen, Gluck, Salieri, Couperin, Rameau, Lully, Buxtehude, Schütz, Pärt|Arvo Pärt, Górecki, Einaudi:0.5, Zimmer|Hans Zimmer:1, Morricone:1, John Williams:1, Piazzolla, Villa-Lobos, Albéniz, Granados, de Falla|Falla, Rodrigo, Mascagni, Leoncavallo, Janáček|Janacek, Martinů, Nielsen, Fibich
+! Helene Fischer = Helene Fischer ist eher … Schlager.
+! Rammstein = Rammstein ist laut, aber nicht klassisch.
+
+# Eine Stadt in Nordrhein-Westfalen
+> Städte und Gemeinden in NRW.
+Köln:30, Düsseldorf:20, Dortmund:15, Essen:10, Bonn:9, Duisburg:8, Münster:8, Bochum:7, Aachen:7, Gelsenkirchen:6, Wuppertal:6, Bielefeld:5, Mönchengladbach:5, Leverkusen:5, Oberhausen:4, Krefeld:4, Hagen:3, Hamm:3, Paderborn:3, Siegen:3, Solingen:3, Neuss:3, Herne:2, Mülheim an der Ruhr|Mülheim:2, Recklinghausen:2, Bottrop:2, Remscheid:2, Gütersloh:2
+Moers, Bergisch Gladbach, Witten, Iserlohn, Marl, Lünen, Velbert, Minden, Ratingen, Dorsten, Detmold, Castrop-Rauxel, Gladbeck, Viersen, Rheine, Troisdorf, Arnsberg, Bocholt, Lüdenscheid, Dinslaken, Herten, Unna, Kerpen, Grevenbroich, Dormagen, Herford, Bergheim, Wesel, Hürth, Sankt Augustin, Langenfeld, Stolberg, Düren, Euskirchen, Kleve, Emmerich, Goch, Xanten, Kevelaer, Geldern, Siegburg, Königswinter, Bad Honnef, Brühl, Wesseling, Frechen, Pulheim, Erftstadt, Hilden, Mettmann, Erkrath, Haan, Heiligenhaus, Wülfrath, Monheim am Rhein|Monheim, Meerbusch, Kaarst, Willich, Tönisvorst, Kempen, Nettetal, Erkelenz, Heinsberg, Geilenkirchen, Hückelhoven, Jülich, Eschweiler, Würselen, Herzogenrath, Monschau, Schleiden, Bad Münstereifel, Gummersbach, Wipperfürth, Wiehl, Olpe, Attendorn, Lennestadt, Schmallenberg, Winterberg, Meschede, Brilon, Soest, Lippstadt, Warstein, Lippetal, Ahlen, Beckum, Oelde, Warendorf, Telgte, Greven, Emsdetten, Ibbenbüren, Lengerich, Steinfurt, Coesfeld, Dülmen, Borken, Gronau, Ahaus, Haltern am See|Haltern, Datteln, Waltrop, Selm, Werne, Kamen, Bergkamen, Schwerte, Hattingen, Sprockhövel, Gevelsberg, Ennepetal, Schwelm, Wetter, Herdecke, Menden, Hemer, Plettenberg, Altena, Halver, Meinerzhagen, Lage, Lemgo, Bad Salzuflen, Bad Oeynhausen, Löhne, Bünde, Lübbecke, Espelkamp, Porta Westfalica, Höxter, Bad Driburg, Brakel, Warburg, Delbrück, Rietberg, Rheda-Wiedenbrück, Harsewinkel, Verl, Bad Lippspringe, Salzkotten, Büren
+! Hannover = Hannover liegt in Niedersachsen.
+! Ruhrgebiet = Das Ruhrgebiet ist eine Region – nimm eine Stadt daraus!
+
+# Eine Amtssprache der EU
+> Die 24 Amtssprachen der Europäischen Union.
+Deutsch:30, Englisch:25, Französisch:20, Spanisch:15, Italienisch:12, Polnisch:6, Niederländisch|Holländisch:6, Portugiesisch:5, Griechisch:5, Schwedisch:4, Dänisch:4, Kroatisch:3, Tschechisch:3, Ungarisch:3, Finnisch:3, Rumänisch:2, Bulgarisch:2
+Slowakisch, Slowenisch, Estnisch, Lettisch, Litauisch, Maltesisch, Irisch|Gälisch
+! Luxemburgisch = Luxemburgisch ist Amtssprache in Luxemburg, aber nicht der EU.
+! Russisch = Russisch ist keine EU-Amtssprache.
+! Türkisch = Türkisch ist keine EU-Amtssprache (obwohl Amtssprache auf Zypern).
+! Katalanisch = Katalanisch ist keine EU-Amtssprache.
+! Norwegisch = Norwegen ist nicht in der EU.
+! Österreichisch = Schön wär’s – zählt als Deutsch 😉

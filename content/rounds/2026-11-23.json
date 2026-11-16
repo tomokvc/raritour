@@ -1,0 +1,3384 @@
+{
+ "date": "2026-11-23",
+ "route": "hamburg-frankfurt",
+ "categories": [
+  {
+   "q": "Ein Insekt",
+   "x": "Echte Insekten mit sechs Beinen. Spinnen, Zecken und Asseln sind raus.",
+   "answers": [
+    {
+     "name": "Biene",
+     "aliases": [
+      "Honigbiene"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "Ameise",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Fliege",
+     "aliases": [
+      "Stubenfliege"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Mücke",
+     "aliases": [
+      "Stechmücke"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Schmetterling",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Marienkäfer",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Wespe",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Käfer",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Hummel",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Libelle",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Heuschrecke",
+     "aliases": [
+      "Grashüpfer"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Kakerlake",
+     "aliases": [
+      "Schabe"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Floh",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Laus",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Motte",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Grille",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Maikäfer",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Hirschkäfer",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Hornisse",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Termite",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Gottesanbeterin",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Glühwürmchen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Zitronenfalter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kohlweißling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tagpfauenauge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Admiral",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kleiner Fuchs",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwalbenschwanz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Monarchfalter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nachtfalter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kleidermotte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lebensmittelmotte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Raupe",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Bremse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schnake",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kriebelmücke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fruchtfliege",
+     "aliases": [
+      "Taufliege"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schmeißfliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pferdebremse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stechfliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zikade",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wanze",
+     "aliases": [
+      "Baumwanze",
+      "Stinkwanze"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Feuerwanze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wasserläufer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rückenschwimmer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blattlaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kopflaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bettwanze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Silberfischchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ohrwurm",
+     "aliases": [
+      "Ohrenkneifer"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Florfliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Köcherfliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eintagsfliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Steinfliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Skorpionsfliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelkäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Borkenkäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rosenkäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mistkäfer",
+     "aliases": [
+      "Skarabäus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Laufkäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bockkäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pillendreher",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nashornkäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Goliathkäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herkuleskäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wasserkäfer",
+     "aliases": [
+      "Gelbrandkäfer"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rüsselkäfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mehlkäfer",
+     "aliases": [
+      "Mehlwurm"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Totengräber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wollschweber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwebfliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schlupfwespe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gallwespe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Holzwespe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Feldwespe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ameisenlöwe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stabheuschrecke",
+     "aliases": [
+      "Gespenstschrecke"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wandelndes Blatt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wanderheuschrecke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maulwurfsgrille",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heimchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zuckmücke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tsetsefliege",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blattschneiderameise",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rote Waldameise",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Feuerameise",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seidenspinner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Atlasspinner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eichenprozessionsspinner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Buchsbaumzünsler",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kolibrischwärmer",
+     "aliases": [
+      "Taubenschwänzchen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Totenkopfschwärmer",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Spinne": "Spinnen haben acht Beine – keine Insekten.",
+    "Zecke": "Zecken sind Spinnentiere.",
+    "Tausendfüßer": "Tausendfüßer haben zu viele Beine.",
+    "Assel": "Asseln sind Krebstiere."
+   }
+  },
+  {
+   "q": "Ein Meer oder Ozean",
+   "x": "Ozeane, Rand- und Binnenmeere der Erde. Seen zählen nicht.",
+   "answers": [
+    {
+     "name": "Nordsee",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Ostsee",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Mittelmeer",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Pazifik",
+     "aliases": [
+      "Pazifischer Ozean",
+      "Stiller Ozean"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Atlantik",
+     "aliases": [
+      "Atlantischer Ozean"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Schwarzes Meer",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Rotes Meer",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Indischer Ozean",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Totes Meer",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Karibik",
+     "aliases": [
+      "Karibisches Meer"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Adria",
+     "aliases": [
+      "Adriatisches Meer"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Kaspisches Meer",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Arktischer Ozean",
+     "aliases": [
+      "Nordpolarmeer",
+      "Arktis"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Südpolarmeer",
+     "aliases": [
+      "Südlicher Ozean"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Ägäis",
+     "aliases": [
+      "Ägäisches Meer"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Ionisches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tyrrhenisches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ligurisches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Balearenmeer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alboran-Meer",
+     "aliases": [
+      "Alboranmeer"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Marmarameer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Asowsches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Irische See",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Keltische See",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wattenmeer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Norwegische See",
+     "aliases": [
+      "Europäisches Nordmeer",
+      "Nordmeer"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Barentssee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weißes Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Karasee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Laptewsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ostsibirische See",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beringmeer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ochotskisches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Japanisches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gelbes Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ostchinesisches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Südchinesisches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Philippinensee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Javasee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bandasee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Arafurasee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Korallenmeer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tasmansee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Andamanensee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Arabisches Meer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Persischer Golf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Golf von Oman",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Golf von Mexiko",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Golf von Bengalen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sargassosee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Labradorsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grönlandsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weddellmeer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rossmeer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beaufortsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hudson Bay",
+     "aliases": [
+      "Hudsonbucht"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bottnischer Meerbusen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kattegat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Skagerrak",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Golf von Biskaya",
+     "aliases": [
+      "Biskaya"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Bodensee": "Der Bodensee ist ein See, kein Meer.",
+    "Steinhuder Meer": "Heißt Meer, ist aber ein See 😉"
+   }
+  },
+  {
+   "q": "Ein Ostprodukt",
+   "x": "Marken und Produkte aus der DDR, die viele noch kennen – manche gibt’s bis heute. Kuratierte Raritour-Liste.",
+   "answers": [
+    {
+     "name": "Trabant",
+     "aliases": [
+      "Trabi"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Spreewaldgurken",
+     "aliases": [
+      "Spreewaldgurke"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Rotkäppchen",
+     "aliases": [
+      "Rotkäppchen Sekt"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Club-Cola",
+     "aliases": [
+      "Club Cola"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Vita Cola",
+     "aliases": [
+      "Vita-Cola"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Nudossi",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Florena",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Bautz'ner",
+     "aliases": [
+      "Bautzner Senf",
+      "Bautz'ner Senf"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Halloren",
+     "aliases": [
+      "Halloren Kugeln"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Ampelmännchen",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Wartburg",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Simson",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Spee",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Fit",
+     "aliases": [
+      "Fit Spülmittel"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Knusperflocken",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Pittiplatsch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Sandmännchen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schwalbe",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mocca Fix",
+     "aliases": [
+      "Mokka Fix"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Rondo",
+     "aliases": [
+      "Rondo Kaffee"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Kathi",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Filinchen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Tempolinsen",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Burger Knäcke",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Radeberger",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wernesgrüner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Köstritzer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hasseröder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ur-Krostitzer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sternburg",
+     "aliases": [
+      "Sterni"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Freiberger",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Brambacher",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Margon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zetti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bambina",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Viba",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Riesaer Nudeln",
+     "aliases": [
+      "Teigwaren Riesa"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Leckermäulchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wurzener Zwieback",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfeffi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Goldbrand",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nordhäuser Doppelkorn",
+     "aliases": [
+      "Nordhäuser"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Timms Saurer",
+     "aliases": [
+      "Timms"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schlager-Süßtafel",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Ata",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Badusan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wofasept",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Born Senf",
+     "aliases": [
+      "Born"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Werder Ketchup",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glashütte",
+     "aliases": [
+      "Glashütte Uhren"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Robotron",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Praktica",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pentacon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ruhla",
+     "aliases": [
+      "Ruhla Uhren"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Multicar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "IFA",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "MZ",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Barkas",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "KR51",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Diamant Fahrrad",
+     "aliases": [
+      "Diamant"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mifa",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plauener Spitze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Meißner Porzellan",
+     "aliases": [
+      "Meißen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Erzgebirgische Holzkunst",
+     "aliases": [
+      "Räuchermännchen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Nussknacker",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwibbogen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stern-Radio",
+     "aliases": [
+      "Sternradio"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Narva",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Haribo": "Haribo ist aus Bonn – tiefster Westen.",
+    "Nutella": "Nutella ist das West-Original, das Ost-Gegenstück heißt Nudossi!"
+   }
+  },
+  {
+   "q": "Eine Brotsorte",
+   "x": "Brotsorten und Brote – deutsch und international. Brötchen sind gestern dran gewesen.",
+   "answers": [
+    {
+     "name": "Vollkornbrot",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Roggenbrot",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Weißbrot",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Schwarzbrot",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Mischbrot",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Toast",
+     "aliases": [
+      "Toastbrot"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Baguette",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Pumpernickel",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Dinkelbrot",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Sauerteigbrot",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Bauernbrot",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Ciabatta",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Graubrot",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Knäckebrot",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Sonnenblumenbrot",
+     "aliases": [
+      "Sonnenblumenkernbrot"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Kürbiskernbrot",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Fladenbrot",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Zwiebelbrot",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Brezel",
+     "aliases": [
+      "Breze",
+      "Brezn"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Kastenbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Krustenbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Landbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kommissbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Paderborner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dreikornbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fünfkornbrot",
+     "aliases": [
+      "Mehrkornbrot"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Körnerbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leinsamenbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Buttermilchbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Malzbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kümmelbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Roggenmischbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weizenmischbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Holzofenbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Steinofenbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bauernlaib",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eiweißbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brioche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Focaccia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Naan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pita",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lavash",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chapati",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tortilla",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bagel",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Sodabrot",
+     "aliases": [
+      "Soda Bread"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pane Carasau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pain de Campagne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fougasse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Challa",
+     "aliases": [
+      "Challah"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Stuten",
+     "aliases": [
+      "Rosinenstuten"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hefezopf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Simit",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Früchtebrot",
+     "aliases": [
+      "Hutzelbrot",
+      "Kletzenbrot"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schüttelbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vinschgauer",
+     "aliases": [
+      "Vinschgerl"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fladen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pinsa",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Tessiner Brot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zopf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bierbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Joghurtbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quarkbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haferbrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chiabrot",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Westfälisches Schwarzbrot",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Brot": "Bisschen genauer, bitte – welche Sorte?",
+    "Brötchen": "Brötchen hatten wir schon – heute ganze Brote!"
+   }
+  },
+  {
+   "q": "Eine Figur aus „Asterix“",
+   "x": "Figuren aus den Asterix-Comics und -Filmen. Deutsche Namen.",
+   "answers": [
+    {
+     "name": "Asterix",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Obelix",
+     "aliases": [],
+     "prior": 28
+    },
+    {
+     "name": "Idefix",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Miraculix",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Majestix",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Troubadix",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Julius Cäsar",
+     "aliases": [
+      "Cäsar",
+      "Caesar"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Methusalix",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Verleihnix",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Automatix",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Gutemine",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kleopatra",
+     "aliases": [
+      "Cleopatra"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Falbala",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Grautvornix",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Teefax",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tragicomix",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Numerobis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pyradonis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Destructivus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brutus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gaius Bonus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rotbart",
+     "aliases": [
+      "Käpt'n Rotbart"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Baba",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maestria",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pepe",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Lucky Luke": "Lucky Luke ist ein anderer Comic.",
+    "Tim": "Tim (und Struppi) ist ein anderer Comic."
+   }
+  },
+  {
+   "q": "Ein Komponist der klassischen Musik",
+   "x": "Komponistinnen und Komponisten der klassischen Musik aus aller Welt – Barock bis Moderne. Nachname reicht.",
+   "answers": [
+    {
+     "name": "Mozart",
+     "aliases": [
+      "Wolfgang Amadeus Mozart"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Beethoven",
+     "aliases": [
+      "Ludwig van Beethoven"
+     ],
+     "prior": 28
+    },
+    {
+     "name": "Bach",
+     "aliases": [
+      "Johann Sebastian Bach"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Vivaldi",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Chopin",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Tschaikowski",
+     "aliases": [
+      "Tschaikowsky"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Wagner",
+     "aliases": [
+      "Richard Wagner"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Händel",
+     "aliases": [
+      "Haendel"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Haydn",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Schubert",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Brahms",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Verdi",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Strauss",
+     "aliases": [
+      "Strauß",
+      "Johann Strauss"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Liszt",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Debussy",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Puccini",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Dvořák",
+     "aliases": [
+      "Dvorak"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Grieg",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mahler",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Schumann",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rachmaninow",
+     "aliases": [
+      "Rachmaninoff"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Ravel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Bizet",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Rossini",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Orff",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Mendelssohn",
+     "aliases": [
+      "Mendelssohn Bartholdy"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Telemann",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Pachelbel",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Bruckner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sibelius",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Smetana",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Strawinsky",
+     "aliases": [
+      "Stravinsky"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Prokofjew",
+     "aliases": [
+      "Prokofiev"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schostakowitsch",
+     "aliases": [
+      "Shostakovich"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mussorgski",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rimski-Korsakow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Borodin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glinka",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saint-Saëns",
+     "aliases": [
+      "Saint-Saens"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Berlioz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gounod",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Massenet",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fauré",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Satie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Offenbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bellini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Donizetti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Monteverdi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Scarlatti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Corelli",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Albinoni",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Paganini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Boccherini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Respighi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Purcell",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elgar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Holst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Britten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vaughan Williams",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gershwin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bernstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Copland",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Barber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glass",
+     "aliases": [
+      "Philip Glass"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Reich",
+     "aliases": [
+      "Steve Reich"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Cage",
+     "aliases": [
+      "John Cage"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schönberg",
+     "aliases": [
+      "Schoenberg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Berg",
+     "aliases": [
+      "Alban Berg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Webern",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hindemith",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weill",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stockhausen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Henze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Penderecki",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lutosławski",
+     "aliases": [
+      "Lutoslawski"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ligeti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bartók",
+     "aliases": [
+      "Bartok"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kodály",
+     "aliases": [
+      "Kodaly"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lehár",
+     "aliases": [
+      "Lehar"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Suppé",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lortzing",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Humperdinck",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bruch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reger",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Richard Strauss",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Clara Schumann",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fanny Hensel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hildegard von Bingen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gluck",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Salieri",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Couperin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rameau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lully",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Buxtehude",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schütz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pärt",
+     "aliases": [
+      "Arvo Pärt"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Górecki",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Einaudi",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Zimmer",
+     "aliases": [
+      "Hans Zimmer"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Morricone",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "John Williams",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Piazzolla",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Villa-Lobos",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Albéniz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Granados",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "de Falla",
+     "aliases": [
+      "Falla"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rodrigo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mascagni",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leoncavallo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Janáček",
+     "aliases": [
+      "Janacek"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Martinů",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nielsen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fibich",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Helene Fischer": "Helene Fischer ist eher … Schlager.",
+    "Rammstein": "Rammstein ist laut, aber nicht klassisch."
+   }
+  },
+  {
+   "q": "Eine Stadt in Nordrhein-Westfalen",
+   "x": "Städte und Gemeinden in NRW.",
+   "answers": [
+    {
+     "name": "Köln",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Düsseldorf",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Dortmund",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Essen",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Bonn",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Duisburg",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Münster",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Bochum",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Aachen",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Gelsenkirchen",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Wuppertal",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Bielefeld",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Mönchengladbach",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Leverkusen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Oberhausen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Krefeld",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Hagen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Hamm",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Paderborn",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Siegen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Solingen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Neuss",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Herne",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Mülheim an der Ruhr",
+     "aliases": [
+      "Mülheim"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Recklinghausen",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Bottrop",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Remscheid",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Gütersloh",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Moers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bergisch Gladbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Witten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Iserlohn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lünen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Velbert",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Minden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ratingen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dorsten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Detmold",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Castrop-Rauxel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gladbeck",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Viersen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rheine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Troisdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Arnsberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bocholt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lüdenscheid",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dinslaken",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Unna",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kerpen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grevenbroich",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dormagen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herford",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bergheim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wesel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hürth",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sankt Augustin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Langenfeld",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stolberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Düren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Euskirchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kleve",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Emmerich",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Goch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Xanten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kevelaer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Geldern",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Siegburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Königswinter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Honnef",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brühl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wesseling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Frechen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pulheim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Erftstadt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hilden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mettmann",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Erkrath",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heiligenhaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wülfrath",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Monheim am Rhein",
+     "aliases": [
+      "Monheim"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Meerbusch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaarst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Willich",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tönisvorst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kempen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nettetal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Erkelenz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heinsberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Geilenkirchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hückelhoven",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jülich",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eschweiler",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Würselen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herzogenrath",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Monschau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schleiden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Münstereifel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gummersbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wipperfürth",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wiehl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Olpe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Attendorn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lennestadt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schmallenberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Winterberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Meschede",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brilon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Soest",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lippstadt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Warstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lippetal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ahlen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beckum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oelde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Warendorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Telgte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Greven",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Emsdetten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ibbenbüren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lengerich",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Steinfurt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Coesfeld",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dülmen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Borken",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gronau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ahaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haltern am See",
+     "aliases": [
+      "Haltern"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Datteln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Waltrop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Selm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Werne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kamen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bergkamen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwerte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hattingen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sprockhövel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gevelsberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ennepetal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwelm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wetter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herdecke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Menden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hemer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plettenberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Altena",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Halver",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Meinerzhagen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lage",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lemgo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Salzuflen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Oeynhausen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Löhne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bünde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lübbecke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Espelkamp",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Porta Westfalica",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Höxter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Driburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brakel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Warburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Delbrück",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rietberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rheda-Wiedenbrück",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Harsewinkel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Verl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Lippspringe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Salzkotten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Büren",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Hannover": "Hannover liegt in Niedersachsen.",
+    "Ruhrgebiet": "Das Ruhrgebiet ist eine Region – nimm eine Stadt daraus!"
+   }
+  },
+  {
+   "q": "Eine Amtssprache der EU",
+   "x": "Die 24 Amtssprachen der Europäischen Union.",
+   "answers": [
+    {
+     "name": "Deutsch",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Englisch",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Französisch",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Spanisch",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Italienisch",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Polnisch",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Niederländisch",
+     "aliases": [
+      "Holländisch"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Portugiesisch",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Griechisch",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Schwedisch",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Dänisch",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kroatisch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Tschechisch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Ungarisch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Finnisch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rumänisch",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Bulgarisch",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Slowakisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Slowenisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Estnisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lettisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Litauisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maltesisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Irisch",
+     "aliases": [
+      "Gälisch"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Luxemburgisch": "Luxemburgisch ist Amtssprache in Luxemburg, aber nicht der EU.",
+    "Russisch": "Russisch ist keine EU-Amtssprache.",
+    "Türkisch": "Türkisch ist keine EU-Amtssprache (obwohl Amtssprache auf Zypern).",
+    "Katalanisch": "Katalanisch ist keine EU-Amtssprache.",
+    "Norwegisch": "Norwegen ist nicht in der EU.",
+    "Österreichisch": "Schön wär’s – zählt als Deutsch 😉"
+   }
+  }
+ ]
+}

@@ -1,0 +1,3696 @@
+{
+ "date": "2026-11-24",
+ "route": "hamburg-frankfurt",
+ "categories": [
+  {
+   "q": "Eine Blume",
+   "x": "Blühende Pflanzen aus Garten, Wiese, Balkon und Blumenladen.",
+   "answers": [
+    {
+     "name": "Rose",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Tulpe",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Sonnenblume",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Gänseblümchen",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Lilie",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Orchidee",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Löwenzahn",
+     "aliases": [
+      "Pusteblume"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Nelke",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Lavendel",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Mohn",
+     "aliases": [
+      "Klatschmohn"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Margerite",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Vergissmeinnicht",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Veilchen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Narzisse",
+     "aliases": [
+      "Osterglocke"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Hortensie",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Dahlie",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Krokus",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kornblume",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schneeglöckchen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Maiglöckchen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Geranie",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Chrysantheme",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Hyazinthe",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Iris",
+     "aliases": [
+      "Schwertlilie"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Edelweiß",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Aster",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Begonie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Petunie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fuchsie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Primel",
+     "aliases": [
+      "Schlüsselblume"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Stiefmütterchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ringelblume",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kamille",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glockenblume",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Akelei",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rittersporn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fingerhut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lupine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfingstrose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Magnolie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Azalee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rhododendron",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kamelie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hibiskus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jasmin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gardenie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Freesie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gerbera",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Calla",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amaryllis",
+     "aliases": [
+      "Ritterstern"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Weihnachtsstern",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alpenveilchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Anemone",
+     "aliases": [
+      "Buschwindröschen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ranunkel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Butterblume",
+     "aliases": [
+      "Hahnenfuß"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kapuzinerkresse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wicke",
+     "aliases": [
+      "Duftwicke"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Clematis",
+     "aliases": [
+      "Waldrebe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Glyzinie",
+     "aliases": [
+      "Blauregen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bougainvillea",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oleander",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Enzian",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alpenrose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Christrose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leberblümchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seerose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lotus",
+     "aliases": [
+      "Lotosblume"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Strelitzie",
+     "aliases": [
+      "Paradiesvogelblume"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Zinnie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kosmee",
+     "aliases": [
+      "Schmuckkörbchen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Studentenblume",
+     "aliases": [
+      "Tagetes"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Löwenmäulchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Malve",
+     "aliases": [
+      "Stockrose"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Phlox",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sonnenhut",
+     "aliases": [
+      "Echinacea"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rudbeckia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schafgarbe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kornrade",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wegwarte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Klee",
+     "aliases": [
+      "Rotklee"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Heidekraut",
+     "aliases": [
+      "Erika",
+      "Heide"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ginster",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flieder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Forsythie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Märzenbecher",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blaustern",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Traubenhyazinthe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaiserkrone",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Allium",
+     "aliases": [
+      "Zierlauch"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gladiole",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Passionsblume",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fleißiges Lieschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vanilleblume",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Verbene",
+     "aliases": [
+      "Eisenkraut"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sonnenröschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trollblume",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sumpfdotterblume",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wiesenschaumkraut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Taubnessel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rapsblüte",
+     "aliases": [
+      "Raps"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Nachtkerze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mittagsblume",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elfenspiegel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gazanie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Portulakröschen",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Kaktus": "Ein Kaktus ist eine Pflanze – blüht aber nur manchmal. Nimm was Eindeutiges!",
+    "Gras": "Gras ist keine Blume 🌱"
+   }
+  },
+  {
+   "q": "Eine Stadt in Spanien",
+   "x": "Städte und Gemeinden in Spanien, inklusive Balearen und Kanaren.",
+   "answers": [
+    {
+     "name": "Madrid",
+     "aliases": [],
+     "prior": 28
+    },
+    {
+     "name": "Barcelona",
+     "aliases": [],
+     "prior": 28
+    },
+    {
+     "name": "Valencia",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Sevilla",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Málaga",
+     "aliases": [
+      "Malaga"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Palma",
+     "aliases": [
+      "Palma de Mallorca"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Bilbao",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Granada",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Ibiza",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Marbella",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Benidorm",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "San Sebastián",
+     "aliases": [
+      "Donostia"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Saragossa",
+     "aliases": [
+      "Zaragoza"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Toledo",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Córdoba",
+     "aliases": [
+      "Cordoba"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Salamanca",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Alicante",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pamplona",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Santiago de Compostela",
+     "aliases": [
+      "Santiago"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Cádiz",
+     "aliases": [
+      "Cadiz"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Murcia",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Las Palmas",
+     "aliases": [
+      "Las Palmas de Gran Canaria"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Santa Cruz de Tenerife",
+     "aliases": [
+      "Santa Cruz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Puerto de la Cruz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Arrecife",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Corralejo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Valladolid",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Burgos",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "León",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oviedo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gijón",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Santander",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "A Coruña",
+     "aliases": [
+      "La Coruña"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Vigo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lugo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ourense",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pontevedra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Logroño",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vitoria",
+     "aliases": [
+      "Vitoria-Gasteiz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Huesca",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Teruel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lleida",
+     "aliases": [
+      "Lérida"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Girona",
+     "aliases": [
+      "Gerona"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tarragona",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sitges",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lloret de Mar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tossa de Mar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Figueres",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cadaqués",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Castellón",
+     "aliases": [
+      "Castelló"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Benicàssim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Peñíscola",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dénia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jávea",
+     "aliases": [
+      "Xàbia"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Calp",
+     "aliases": [
+      "Calpe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Torrevieja",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elche",
+     "aliases": [
+      "Elx"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Cartagena",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Almería",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jaén",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Huelva",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jerez",
+     "aliases": [
+      "Jerez de la Frontera"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ronda",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nerja",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Torremolinos",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fuengirola",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Estepona",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Algeciras",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tarifa",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mérida",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cáceres",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Badajoz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ávila",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Segovia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cuenca",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Albacete",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ciudad Real",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Guadalajara",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Soria",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zamora",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Palencia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ponferrada",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alcalá de Henares",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aranjuez",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Getafe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Móstoles",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leganés",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alcobendas",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fuenlabrada",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Manacor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Inca",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sóller",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alcúdia",
+     "aliases": [
+      "Alcudia"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pollença",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cala Ratjada",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Santanyí",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mahón",
+     "aliases": [
+      "Maó"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ciutadella",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sant Antoni",
+     "aliases": [
+      "San Antonio"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "El Arenal",
+     "aliases": [
+      "Arenal"
+     ],
+     "prior": 0.5
+    },
+    {
+     "name": "Magaluf",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Ceuta",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Melilla",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Mallorca": "Mallorca ist eine Insel – nimm eine Stadt darauf, z. B. Palma!",
+    "Teneriffa": "Teneriffa ist eine Insel – nimm eine Stadt, z. B. Santa Cruz.",
+    "Lissabon": "Lissabon liegt in Portugal.",
+    "Gibraltar": "Gibraltar ist britisch."
+   }
+  },
+  {
+   "q": "Ein Kartoffelgericht",
+   "x": "Gerichte, bei denen die Kartoffel die Hauptrolle spielt.",
+   "answers": [
+    {
+     "name": "Pommes",
+     "aliases": [
+      "Pommes frites"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "Kartoffelsalat",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Bratkartoffeln",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Kartoffelpüree",
+     "aliases": [
+      "Kartoffelbrei",
+      "Püree",
+      "Stampf",
+      "Stampfkartoffeln"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Kartoffelpuffer",
+     "aliases": [
+      "Reibekuchen",
+      "Reiberdatschi",
+      "Rösti"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Salzkartoffeln",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Pellkartoffeln",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Kroketten",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Kartoffelgratin",
+     "aliases": [
+      "Gratin"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Kartoffelsuppe",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Klöße",
+     "aliases": [
+      "Knödel",
+      "Kartoffelknödel",
+      "Kartoffelklöße"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Ofenkartoffel",
+     "aliases": [
+      "Folienkartoffel"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Chips",
+     "aliases": [
+      "Kartoffelchips"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Kartoffelecken",
+     "aliases": [
+      "Wedges"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Gnocchi",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Rosmarinkartoffeln",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Himmel un Ääd",
+     "aliases": [
+      "Himmel und Erde"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Pellkartoffeln mit Quark",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kartoffelgulasch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelauflauf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Röstkartoffeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herzoginkartoffeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schupfnudeln",
+     "aliases": [
+      "Bubespitzle"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelnudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelstrudel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffeltaschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelkäse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Labskaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tortilla",
+     "aliases": [
+      "Tortilla de patatas",
+      "Spanisches Omelett"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Patatas bravas",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Papas arrugadas",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Shepherd's Pie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hash Browns",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Poutine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aloo Gobi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tartiflette",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bauernfrühstück",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hoppelpoppel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dibbelabbes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelwaffeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelpfanne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelbällchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelspalten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Krautkartoffeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schmorkartoffeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Petersilienkartoffeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kartoffelkas",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grumbeerkiechelcher",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Baked Potato",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Spätzle": "Spätzle sind aus Mehl und Ei.",
+    "Nudeln": "Nudeln sind meist ohne Kartoffel."
+   }
+  },
+  {
+   "q": "Eine Nudelsorte",
+   "x": "Pasta- und Nudelsorten aus aller Welt.",
+   "answers": [
+    {
+     "name": "Spaghetti",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Penne",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Fusilli",
+     "aliases": [
+      "Spirelli"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Farfalle",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Tagliatelle",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Lasagne",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Makkaroni",
+     "aliases": [
+      "Maccheroni"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Tortellini",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Ravioli",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Rigatoni",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Gnocchi",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Spätzle",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Linguine",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Fettuccine",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Bandnudeln",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Hörnchennudeln",
+     "aliases": [
+      "Hörnchen"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Cannelloni",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Tortelloni",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pappardelle",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Orecchiette",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Muschelnudeln",
+     "aliases": [
+      "Conchiglie"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Glasnudeln",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Ramen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Udon",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Vermicelli",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Capellini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bucatini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ziti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tortiglioni",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Paccheri",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gemelli",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Casarecce",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Strozzapreti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trofie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pici",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bigoli",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mafaldine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reginette",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Orzo",
+     "aliases": [
+      "Kritharaki"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Risoni",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ditalini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Anelli",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stelline",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Buchstabennudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sternchennudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fadennudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Suppennudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eierspätzle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Knöpfle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schupfnudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maultaschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kässpätzle",
+     "aliases": [
+      "Käsespätzle"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Soba",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mie",
+     "aliases": [
+      "Mie-Nudeln"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Reisnudeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lo Mein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chow Mein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pelmeni",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pierogi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mantı",
+     "aliases": [
+      "Manti"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Agnolotti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cappelletti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mezzelune",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sacchettini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Radiatori",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rotelle",
+     "aliases": [
+      "Wagenräder"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Campanelle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Garganelli",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lasagnette",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cavatappi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cavatelli",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Malloreddus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fregola",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Shirataki",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Somen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tagliolini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spaghettini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spaghettoni",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mezze Penne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pennette",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mezzi Rigatoni",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Pasta": "Bisschen genauer, bitte – welche Sorte?",
+    "Couscous": "Couscous ist Grieß, keine Nudel."
+   }
+  },
+  {
+   "q": "Ein Spiel von Nintendo",
+   "x": "Spiele und Spielreihen, die Nintendo entwickelt oder veröffentlicht hat. Titel der Reihe reicht.",
+   "answers": [
+    {
+     "name": "Super Mario",
+     "aliases": [
+      "Mario",
+      "Super Mario Bros."
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Mario Kart",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Zelda",
+     "aliases": [
+      "The Legend of Zelda"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Pokémon",
+     "aliases": [
+      "Pokemon"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Animal Crossing",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Donkey Kong",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Super Smash Bros.",
+     "aliases": [
+      "Smash Bros",
+      "Smash"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Tetris",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Kirby",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Metroid",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Splatoon",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Mario Party",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Wii Sports",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Yoshi",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Luigi's Mansion",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Fire Emblem",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pikmin",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Star Fox",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Xenoblade",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Brain Age",
+     "aliases": [
+      "Dr. Kawashima"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Wario",
+     "aliases": [
+      "WarioWare"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kid Icarus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "F-Zero",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mario Tennis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mario Golf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mario & Luigi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Paper Mario",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dr. Mario",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Punch-Out!!",
+     "aliases": [
+      "Punch-Out"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Excitebike",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Duck Hunt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ice Climber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Balloon Fight",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "EarthBound",
+     "aliases": [
+      "Mother"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Golden Sun",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Advance Wars",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wii Fit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nintendogs",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ring Fit Adventure",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Arms",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "1-2-Switch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Labo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Captain Toad",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bayonetta",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Astral Chain",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wave Race",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "1080° Snowboarding",
+     "aliases": [
+      "1080"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pilotwings",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Custom Robo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chibi-Robo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tomodachi Life",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Miitopia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Clubhouse Games",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mario Strikers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mario Maker",
+     "aliases": [
+      "Super Mario Maker"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Donkey Kong Country",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kirby's Dream Land",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Metroid Prime",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Breath of the Wild",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tears of the Kingdom",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ocarina of Time",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Majora's Mask",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Link's Awakening",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Super Mario Odyssey",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Super Mario 64",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mario Galaxy",
+     "aliases": [
+      "Super Mario Galaxy"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Super Mario Wonder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Game & Watch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mario Paint",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Yoshi's Island",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Diddy Kong Racing",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "GoldenEye 007",
+     "aliases": [
+      "GoldenEye"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Banjo-Kazooie",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Pokémon Snap",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pokémon Stadium",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Detective Pikachu",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Big Brain Academy",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Sonic": "Sonic ist von Sega.",
+    "GTA": "GTA ist von Rockstar.",
+    "FIFA": "FIFA ist von EA.",
+    "Minecraft": "Minecraft ist von Mojang/Microsoft."
+   }
+  },
+  {
+   "q": "Eine Sehenswürdigkeit in Berlin",
+   "x": "Bauwerke, Plätze, Parks und Museen in Berlin.",
+   "answers": [
+    {
+     "name": "Brandenburger Tor",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Fernsehturm",
+     "aliases": [
+      "Berliner Fernsehturm"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Reichstag",
+     "aliases": [
+      "Reichstagsgebäude",
+      "Bundestag"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Berliner Mauer",
+     "aliases": [
+      "Mauer",
+      "East Side Gallery"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Checkpoint Charlie",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Alexanderplatz",
+     "aliases": [
+      "Alex"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Siegessäule",
+     "aliases": [
+      "Goldelse"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Museumsinsel",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Berliner Dom",
+     "aliases": [
+      "Dom"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Potsdamer Platz",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Holocaust-Mahnmal",
+     "aliases": [
+      "Denkmal für die ermordeten Juden Europas"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Kurfürstendamm",
+     "aliases": [
+      "Ku'damm"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Unter den Linden",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Gendarmenmarkt",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schloss Charlottenburg",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Tiergarten",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Rotes Rathaus",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Gedächtniskirche",
+     "aliases": [
+      "Kaiser-Wilhelm-Gedächtniskirche"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Tempelhofer Feld",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Pergamonmuseum",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "KaDeWe",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Zoo",
+     "aliases": [
+      "Zoologischer Garten"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Oberbaumbrücke",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Bundeskanzleramt",
+     "aliases": [
+      "Kanzleramt",
+      "Waschmaschine"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schloss Bellevue",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Humboldt Forum",
+     "aliases": [
+      "Berliner Schloss",
+      "Stadtschloss"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Neues Museum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Altes Museum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bode-Museum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alte Nationalgalerie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neue Nationalgalerie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jüdisches Museum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Topographie des Terrors",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gedenkstätte Berliner Mauer",
+     "aliases": [
+      "Bernauer Straße"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tränenpalast",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "DDR-Museum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Deutsches Historisches Museum",
+     "aliases": [
+      "Zeughaus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Deutsches Technikmuseum",
+     "aliases": [
+      "Technikmuseum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Naturkundemuseum",
+     "aliases": [
+      "Museum für Naturkunde"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hamburger Bahnhof",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Martin-Gropius-Bau",
+     "aliases": [
+      "Gropius Bau"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Berlinische Galerie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sowjetisches Ehrenmal",
+     "aliases": [
+      "Ehrenmal"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Treptower Park",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spreepark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Müggelsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Müggelturm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grunewaldturm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Teufelsberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Olympiastadion",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Funkturm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "ICC",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mercedes-Benz Arena",
+     "aliases": [
+      "Uber Arena"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hackesche Höfe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nikolaiviertel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hauptbahnhof",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mall of Berlin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sony Center",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kollwitzplatz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mauerpark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Görlitzer Park",
+     "aliases": [
+      "Görli"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Viktoriapark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Volkspark Friedrichshain",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gärten der Welt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Botanischer Garten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tierpark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfaueninsel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wannsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Strandbad Wannsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zitadelle Spandau",
+     "aliases": [
+      "Zitadelle"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schloss Köpenick",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rathaus Schöneberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haus der Kulturen der Welt",
+     "aliases": [
+      "Schwangere Auster"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Philharmonie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Konzerthaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Staatsoper",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Komische Oper",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Friedrichstadt-Palast",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kulturbrauerei",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Karl-Marx-Allee",
+     "aliases": [
+      "Stalinallee"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Frankfurter Tor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Molecule Man",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Admiralspalast",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Französischer Dom",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Deutscher Dom",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "St.-Hedwigs-Kathedrale",
+     "aliases": [
+      "Hedwigskathedrale"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Marienkirche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nikolaikirche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weltzeituhr",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neptunbrunnen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bebelplatz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hufeisensiedlung",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flughafen Tempelhof",
+     "aliases": [
+      "Tempelhof"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bikini Berlin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mustafa's Gemüse Kebap",
+     "aliases": [
+      "Mustafas"
+     ],
+     "prior": 0.5
+    }
+   ],
+   "hints": {
+    "Sanssouci": "Schloss Sanssouci steht in Potsdam.",
+    "BER": "Der Flughafen liegt in Schönefeld, Brandenburg 😉"
+   }
+  },
+  {
+   "q": "Ein Land in Amerika",
+   "x": "Alle Staaten Nord-, Mittel- und Südamerikas inklusive Karibik.",
+   "answers": [
+    {
+     "name": "USA",
+     "aliases": [
+      "Vereinigte Staaten",
+      "Amerika"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Kanada",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Brasilien",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Mexiko",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Argentinien",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Kolumbien",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Chile",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Peru",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Kuba",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Venezuela",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Ecuador",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Bolivien",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Uruguay",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Paraguay",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Jamaika",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Costa Rica",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Dominikanische Republik",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Panama",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Guatemala",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Honduras",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "El Salvador",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nicaragua",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Belize",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haiti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bahamas",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Barbados",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trinidad und Tobago",
+     "aliases": [
+      "Trinidad"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Grenada",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "St. Lucia",
+     "aliases": [
+      "Saint Lucia"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "St. Vincent und die Grenadinen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Antigua und Barbuda",
+     "aliases": [
+      "Antigua"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "St. Kitts und Nevis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dominica",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Guyana",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Suriname",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Puerto Rico": "Puerto Rico ist US-Außengebiet, kein eigener Staat.",
+    "Grönland": "Grönland gehört zu Dänemark.",
+    "Französisch-Guayana": "Französisch-Guayana gehört zu Frankreich."
+   }
+  },
+  {
+   "q": "Eine deutsche Band",
+   "x": "Bands aus Deutschland, egal welches Genre und welches Jahrzehnt. Solokünstler zählen nicht.",
+   "answers": [
+    {
+     "name": "Rammstein",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Die Ärzte",
+     "aliases": [
+      "Ärzte"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "Die Toten Hosen",
+     "aliases": [
+      "Toten Hosen",
+      "Hosen"
+     ],
+     "prior": 16
+    },
+    {
+     "name": "Scorpions",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Tokio Hotel",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Kraftwerk",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Silbermond",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Juli",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Wir sind Helden",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Revolverheld",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Seeed",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "AnnenMayKantereit",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "BAP",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Fettes Brot",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Die Fantastischen Vier",
+     "aliases": [
+      "Fanta 4",
+      "Fantastischen Vier"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Modern Talking",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Kraftklub",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Sportfreunde Stiller",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Puhdys",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Karat",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "City",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Böhse Onkelz",
+     "aliases": [
+      "Onkelz"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Element of Crime",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "In Extremo",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Helloween",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Accept",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Kreator",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Beatsteaks",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Madsen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Jennifer Rostock",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Frei.Wild",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tocotronic",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Die Prinzen",
+     "aliases": [
+      "Prinzen"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Höhner",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Brings",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Cat Ballou",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Bläck Fööss",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Kasalla",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dschinghis Khan",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Alphaville",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Nena",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Boney M.",
+     "aliases": [
+      "Boney M"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Milli Vanilli",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Snap!",
+     "aliases": [
+      "Snap"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Culture Beat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mr. President",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Scooter",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Cascada",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Santiano",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Feine Sahne Fischfilet",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "K.I.Z",
+     "aliases": [
+      "KIZ"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Deichkind",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Fünf Sterne Deluxe",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Absolute Beginner",
+     "aliases": [
+      "Beginner"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Ton Steine Scherben",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Einstürzende Neubauten",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Can",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neu!",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Tangerine Dream",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Faust",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Guano Apes",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "H-Blockx",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Liquido",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reamonn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Echt",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Pur",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Unheilig",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Eisbrecher",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oomph!",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Subway to Sally",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saltatio Mortis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schandmaul",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Electric Callboy",
+     "aliases": [
+      "Eskimo Callboy"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Heaven Shall Burn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rosenstolz",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Klee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "2raumwohnung",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glashaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Söhne Mannheims",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Die Atzen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trailerpark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "257ers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ok Kid",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tic Tac Toe",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "No Angels",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Monrose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bro'Sis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "US5",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Banaroo",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Groove Coverage",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Die Flippers",
+     "aliases": [
+      "Flippers"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Münchener Freiheit",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Spider Murphy Gang",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Extrabreit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ideal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trio",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Fehlfarben",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "DAF",
+     "aliases": [
+      "Deutsch Amerikanische Freundschaft"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rheingold",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Spliff",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Krupps",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Die Sterne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blumfeld",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Kettcar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tomte",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Muff Potter",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Itchy",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Donots",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "ZSK",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Slime",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "WIZO",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Goldenen Zitronen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elaiza",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Luxuslärm",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Glasperlenspiel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Provinz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Giant Rooks",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leoniden",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Blond",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Von Wegen Lisbeth",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Querbeat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Moop Mama",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Meute",
+     "aliases": [],
+     "prior": 0.5
+    }
+   ],
+   "hints": {
+    "Wanda": "Wanda ist aus Österreich.",
+    "Bilderbuch": "Bilderbuch ist aus Österreich.",
+    "ABBA": "ABBA ist schwedisch."
+   }
+  }
+ ]
+}

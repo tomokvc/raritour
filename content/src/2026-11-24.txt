@@ -1,0 +1,62 @@
+@ 2026-11-24
+
+# Eine Blume
+> Blühende Pflanzen aus Garten, Wiese, Balkon und Blumenladen.
+Rose:30, Tulpe:22, Sonnenblume:15, Gänseblümchen:10, Lilie:9, Orchidee:9, Löwenzahn|Pusteblume:8, Nelke:7, Lavendel:6, Mohn|Klatschmohn:6, Margerite:5, Vergissmeinnicht:5, Veilchen:5, Narzisse|Osterglocke:5, Hortensie:5, Dahlie:4, Krokus:4, Kornblume:4, Schneeglöckchen:4, Maiglöckchen:4, Geranie:4, Chrysantheme:3, Hyazinthe:3, Iris|Schwertlilie:3, Edelweiß:3
+Aster, Begonie, Petunie, Fuchsie, Primel|Schlüsselblume, Stiefmütterchen, Ringelblume, Kamille, Glockenblume, Akelei, Rittersporn, Fingerhut, Lupine, Pfingstrose, Magnolie, Azalee, Rhododendron, Kamelie, Hibiskus, Jasmin, Gardenie, Freesie, Gerbera, Calla, Amaryllis|Ritterstern, Weihnachtsstern, Alpenveilchen, Anemone|Buschwindröschen, Ranunkel, Butterblume|Hahnenfuß, Kapuzinerkresse, Wicke|Duftwicke, Clematis|Waldrebe, Glyzinie|Blauregen, Bougainvillea, Oleander, Enzian, Alpenrose, Christrose, Leberblümchen, Seerose, Lotus|Lotosblume, Strelitzie|Paradiesvogelblume, Zinnie, Kosmee|Schmuckkörbchen, Studentenblume|Tagetes, Löwenmäulchen, Malve|Stockrose, Phlox, Sonnenhut|Echinacea, Rudbeckia, Schafgarbe, Kornrade, Wegwarte, Klee|Rotklee, Heidekraut|Erika|Heide, Ginster, Flieder, Forsythie, Märzenbecher, Blaustern, Traubenhyazinthe, Kaiserkrone, Allium|Zierlauch, Gladiole, Passionsblume, Fleißiges Lieschen, Vanilleblume, Verbene|Eisenkraut, Sonnenröschen, Trollblume, Sumpfdotterblume, Wiesenschaumkraut, Taubnessel, Rapsblüte|Raps, Nachtkerze, Mittagsblume, Elfenspiegel, Gazanie, Portulakröschen
+! Kaktus = Ein Kaktus ist eine Pflanze – blüht aber nur manchmal. Nimm was Eindeutiges!
+! Gras = Gras ist keine Blume 🌱
+
+# Eine Stadt in Spanien
+> Städte und Gemeinden in Spanien, inklusive Balearen und Kanaren.
+Madrid:28, Barcelona:28, Valencia:12, Sevilla:12, Málaga|Malaga:10, Palma|Palma de Mallorca:8, Bilbao:7, Granada:6, Ibiza:4, Marbella:4, Benidorm:4, San Sebastián|Donostia:4, Saragossa|Zaragoza:4, Toledo:3, Córdoba|Cordoba:3, Salamanca:3, Alicante:3, Pamplona:3, Santiago de Compostela|Santiago:3, Cádiz|Cadiz:2, Murcia:2, Las Palmas|Las Palmas de Gran Canaria:2
+Santa Cruz de Tenerife|Santa Cruz, Puerto de la Cruz, Arrecife, Corralejo, Valladolid, Burgos, León, Oviedo, Gijón, Santander, A Coruña|La Coruña, Vigo, Lugo, Ourense, Pontevedra, Logroño, Vitoria|Vitoria-Gasteiz, Huesca, Teruel, Lleida|Lérida, Girona|Gerona, Tarragona, Reus, Sitges, Lloret de Mar, Tossa de Mar, Figueres, Cadaqués, Castellón|Castelló, Benicàssim, Peñíscola, Dénia, Jávea|Xàbia, Calp|Calpe, Torrevieja, Elche|Elx, Cartagena, Almería, Jaén, Huelva, Jerez|Jerez de la Frontera, Ronda, Nerja, Torremolinos, Fuengirola, Estepona, Algeciras, Tarifa, Mérida, Cáceres, Badajoz, Ávila, Segovia, Cuenca, Albacete, Ciudad Real, Guadalajara, Soria, Zamora, Palencia, Ponferrada, Alcalá de Henares, Aranjuez, Getafe, Móstoles, Leganés, Alcobendas, Fuenlabrada, Manacor, Inca, Sóller, Alcúdia|Alcudia, Pollença, Cala Ratjada, Santanyí, Mahón|Maó, Ciutadella, Sant Antoni|San Antonio, El Arenal|Arenal:0.5, Magaluf:0.5, Ceuta, Melilla
+! Mallorca = Mallorca ist eine Insel – nimm eine Stadt darauf, z. B. Palma!
+! Teneriffa = Teneriffa ist eine Insel – nimm eine Stadt, z. B. Santa Cruz.
+! Lissabon = Lissabon liegt in Portugal.
+! Gibraltar = Gibraltar ist britisch.
+
+# Ein Kartoffelgericht
+> Gerichte, bei denen die Kartoffel die Hauptrolle spielt.
+Pommes|Pommes frites:25, Kartoffelsalat:20, Bratkartoffeln:18, Kartoffelpüree|Kartoffelbrei|Püree|Stampf|Stampfkartoffeln:15, Kartoffelpuffer|Reibekuchen|Reiberdatschi|Rösti:12, Salzkartoffeln:10, Pellkartoffeln:8, Kroketten:8, Kartoffelgratin|Gratin:7, Kartoffelsuppe:7, Klöße|Knödel|Kartoffelknödel|Kartoffelklöße:7, Ofenkartoffel|Folienkartoffel:5, Chips|Kartoffelchips:5, Kartoffelecken|Wedges:4, Gnocchi:4, Rosmarinkartoffeln:3, Himmel un Ääd|Himmel und Erde:3, Pellkartoffeln mit Quark:3
+Kartoffelgulasch, Kartoffelauflauf, Röstkartoffeln, Herzoginkartoffeln, Schupfnudeln|Bubespitzle, Kartoffelnudeln, Kartoffelstrudel, Kartoffeltaschen, Kartoffelkäse, Labskaus, Tortilla|Tortilla de patatas|Spanisches Omelett, Patatas bravas, Papas arrugadas, Shepherd's Pie, Hash Browns, Poutine, Aloo Gobi, Tartiflette, Bauernfrühstück, Hoppelpoppel, Dibbelabbes, Kartoffelwaffeln, Kartoffelpfanne, Kartoffelkuchen, Kartoffelbällchen, Kartoffelspalten, Krautkartoffeln, Schmorkartoffeln, Petersilienkartoffeln, Kartoffelkas, Grumbeerkiechelcher:0.3, Baked Potato
+! Spätzle = Spätzle sind aus Mehl und Ei.
+! Nudeln = Nudeln sind meist ohne Kartoffel.
+
+# Eine Nudelsorte
+> Pasta- und Nudelsorten aus aller Welt.
+Spaghetti:30, Penne:18, Fusilli|Spirelli:12, Farfalle:10, Tagliatelle:10, Lasagne:8, Makkaroni|Maccheroni:8, Tortellini:8, Ravioli:8, Rigatoni:6, Gnocchi:4, Spätzle:6, Linguine:5, Fettuccine:4, Bandnudeln:4, Hörnchennudeln|Hörnchen:4, Cannelloni:3, Tortelloni:3, Pappardelle:3, Orecchiette:3, Muschelnudeln|Conchiglie:3, Glasnudeln:3, Ramen:3, Udon:3
+Vermicelli, Capellini, Bucatini, Ziti, Tortiglioni, Paccheri, Gemelli, Casarecce, Strozzapreti, Trofie, Pici, Bigoli, Mafaldine, Reginette, Orzo|Kritharaki, Risoni, Ditalini, Anelli, Stelline, Buchstabennudeln, Sternchennudeln, Fadennudeln, Suppennudeln, Eierspätzle, Knöpfle, Schupfnudeln, Maultaschen, Kässpätzle|Käsespätzle, Soba, Mie|Mie-Nudeln, Reisnudeln, Lo Mein, Chow Mein, Pelmeni, Pierogi, Mantı|Manti, Agnolotti, Cappelletti, Mezzelune, Sacchettini, Radiatori, Rotelle|Wagenräder, Campanelle, Garganelli, Lasagnette, Cavatappi, Cavatelli, Malloreddus, Fregola, Shirataki, Somen, Tagliolini, Spaghettini, Spaghettoni, Mezze Penne, Pennette, Mezzi Rigatoni
+! Pasta = Bisschen genauer, bitte – welche Sorte?
+! Couscous = Couscous ist Grieß, keine Nudel.
+
+# Ein Spiel von Nintendo
+> Spiele und Spielreihen, die Nintendo entwickelt oder veröffentlicht hat. Titel der Reihe reicht.
+Super Mario|Mario|Super Mario Bros.:30, Mario Kart:20, Zelda|The Legend of Zelda:15, Pokémon|Pokemon:15, Animal Crossing:8, Donkey Kong:8, Super Smash Bros.|Smash Bros|Smash:7, Tetris:5, Kirby:5, Metroid:4, Splatoon:4, Mario Party:4, Wii Sports:4, Yoshi:3, Luigi's Mansion:3, Fire Emblem:3, Pikmin:3, Star Fox:2, Xenoblade:2, Brain Age|Dr. Kawashima:2
+Wario|WarioWare, Kid Icarus, F-Zero, Mario Tennis, Mario Golf, Mario & Luigi, Paper Mario, Dr. Mario, Punch-Out!!|Punch-Out, Excitebike, Duck Hunt, Ice Climber, Balloon Fight, EarthBound|Mother, Golden Sun, Advance Wars, Wii Fit, Nintendogs, Ring Fit Adventure, Arms, 1-2-Switch, Labo, Captain Toad, Bayonetta, Astral Chain, Wave Race, 1080° Snowboarding|1080, Pilotwings, Custom Robo, Chibi-Robo, Tomodachi Life, Miitopia, Clubhouse Games, Mario Strikers, Mario Maker|Super Mario Maker, Donkey Kong Country, Kirby's Dream Land, Metroid Prime, Breath of the Wild, Tears of the Kingdom, Ocarina of Time, Majora's Mask, Link's Awakening, Super Mario Odyssey, Super Mario 64, Mario Galaxy|Super Mario Galaxy, Super Mario Wonder, Game & Watch, Mario Paint, Yoshi's Island, Diddy Kong Racing, GoldenEye 007|GoldenEye, Banjo-Kazooie:0.3, Pokémon Snap, Pokémon Stadium, Detective Pikachu, Big Brain Academy
+! Sonic = Sonic ist von Sega.
+! GTA = GTA ist von Rockstar.
+! FIFA = FIFA ist von EA.
+! Minecraft = Minecraft ist von Mojang/Microsoft.
+
+# Eine Sehenswürdigkeit in Berlin
+> Bauwerke, Plätze, Parks und Museen in Berlin.
+Brandenburger Tor:30, Fernsehturm|Berliner Fernsehturm:20, Reichstag|Reichstagsgebäude|Bundestag:15, Berliner Mauer|Mauer|East Side Gallery:12, Checkpoint Charlie:10, Alexanderplatz|Alex:8, Siegessäule|Goldelse:8, Museumsinsel:6, Berliner Dom|Dom:6, Potsdamer Platz:6, Holocaust-Mahnmal|Denkmal für die ermordeten Juden Europas:5, Kurfürstendamm|Ku'damm:5, Unter den Linden:4, Gendarmenmarkt:4, Schloss Charlottenburg:4, Tiergarten:4, Rotes Rathaus:4, Gedächtniskirche|Kaiser-Wilhelm-Gedächtniskirche:4, Tempelhofer Feld:4, Pergamonmuseum:3, KaDeWe:3, Zoo|Zoologischer Garten:3, Oberbaumbrücke:3
+Bundeskanzleramt|Kanzleramt|Waschmaschine, Schloss Bellevue, Humboldt Forum|Berliner Schloss|Stadtschloss, Neues Museum, Altes Museum, Bode-Museum, Alte Nationalgalerie, Neue Nationalgalerie, Jüdisches Museum, Topographie des Terrors, Gedenkstätte Berliner Mauer|Bernauer Straße, Tränenpalast, DDR-Museum, Deutsches Historisches Museum|Zeughaus, Deutsches Technikmuseum|Technikmuseum, Naturkundemuseum|Museum für Naturkunde, Hamburger Bahnhof, Martin-Gropius-Bau|Gropius Bau, Berlinische Galerie, Sowjetisches Ehrenmal|Ehrenmal, Treptower Park, Spreepark, Müggelsee, Müggelturm, Grunewaldturm, Teufelsberg, Olympiastadion, Funkturm, ICC, Mercedes-Benz Arena|Uber Arena, Hackesche Höfe, Nikolaiviertel, Hauptbahnhof, Mall of Berlin, Sony Center, Kollwitzplatz, Mauerpark, Görlitzer Park|Görli, Viktoriapark, Volkspark Friedrichshain, Gärten der Welt, Botanischer Garten, Tierpark, Pfaueninsel, Wannsee, Strandbad Wannsee, Zitadelle Spandau|Zitadelle, Schloss Köpenick, Rathaus Schöneberg, Haus der Kulturen der Welt|Schwangere Auster, Philharmonie, Konzerthaus, Staatsoper, Komische Oper, Friedrichstadt-Palast, Kulturbrauerei, Karl-Marx-Allee|Stalinallee, Frankfurter Tor, Molecule Man, Admiralspalast, Französischer Dom, Deutscher Dom, St.-Hedwigs-Kathedrale|Hedwigskathedrale, Marienkirche, Nikolaikirche, Weltzeituhr, Neptunbrunnen, Bebelplatz, Hufeisensiedlung, Flughafen Tempelhof|Tempelhof, Bikini Berlin, Mustafa's Gemüse Kebap|Mustafas:0.5
+! Sanssouci = Schloss Sanssouci steht in Potsdam.
+! BER = Der Flughafen liegt in Schönefeld, Brandenburg 😉
+
+# Ein Land in Amerika
+> Alle Staaten Nord-, Mittel- und Südamerikas inklusive Karibik.
+USA|Vereinigte Staaten|Amerika:30, Kanada:20, Brasilien:18, Mexiko:15, Argentinien:12, Kolumbien:7, Chile:7, Peru:6, Kuba:6, Venezuela:4, Ecuador:4, Bolivien:4, Uruguay:3, Paraguay:3, Jamaika:3, Costa Rica:3, Dominikanische Republik:3, Panama:3
+Guatemala, Honduras, El Salvador, Nicaragua, Belize, Haiti, Bahamas, Barbados, Trinidad und Tobago|Trinidad, Grenada, St. Lucia|Saint Lucia, St. Vincent und die Grenadinen, Antigua und Barbuda|Antigua, St. Kitts und Nevis, Dominica, Guyana, Suriname
+! Puerto Rico = Puerto Rico ist US-Außengebiet, kein eigener Staat.
+! Grönland = Grönland gehört zu Dänemark.
+! Französisch-Guayana = Französisch-Guayana gehört zu Frankreich.
+
+# Eine deutsche Band
+> Bands aus Deutschland, egal welches Genre und welches Jahrzehnt. Solokünstler zählen nicht.
+Rammstein:25, Die Ärzte|Ärzte:18, Die Toten Hosen|Toten Hosen|Hosen:16, Scorpions:10, Tokio Hotel:8, Kraftwerk:7, Silbermond:7, Juli:5, Wir sind Helden:5, Revolverheld:5, Seeed:5, AnnenMayKantereit:5, BAP:4, Fettes Brot:4, Die Fantastischen Vier|Fanta 4|Fantastischen Vier:6, Modern Talking:5, Kraftklub:5, Sportfreunde Stiller:4, Puhdys:3, Karat:3, City:2, Böhse Onkelz|Onkelz:3, Element of Crime:3, In Extremo:3, Helloween:2, Accept:2, Kreator:2, Beatsteaks:3, Madsen:3, Jennifer Rostock:2, Frei.Wild:1, Tocotronic:3, Die Prinzen|Prinzen:4, Höhner:3, Brings:3, Cat Ballou:2, Bläck Fööss:2, Kasalla:1, Dschinghis Khan:3, Alphaville:3, Nena:3, Boney M.|Boney M:3, Milli Vanilli:2, Snap!|Snap:2, Culture Beat:1, Mr. President:1, Scooter:4, Cascada:1, Santiano:3, Feine Sahne Fischfilet:2, K.I.Z|KIZ:3, Deichkind:4, Fünf Sterne Deluxe:2, Absolute Beginner|Beginner:3, Ton Steine Scherben:2, Einstürzende Neubauten:2, Can:1, Neu!:0.5, Tangerine Dream:1, Faust:0.5, Guano Apes:2, H-Blockx:1, Liquido:1, Reamonn:1, Echt:2, Pur:3, Unheilig:2, Eisbrecher:1, Oomph!:1, Subway to Sally:1, Saltatio Mortis:1, Schandmaul:1, Electric Callboy|Eskimo Callboy:3, Heaven Shall Burn:1, Rosenstolz:3, Klee:1, 2raumwohnung:1, Glashaus:1, Söhne Mannheims:3, Die Atzen:1, Trailerpark:1, 257ers:1, Ok Kid:1, Tic Tac Toe:2, No Angels:2, Monrose:1, Bro'Sis:1, US5:1, Banaroo:0.5, Groove Coverage:0.5, Die Flippers|Flippers:2, Münchener Freiheit:2, Spider Murphy Gang:2, Extrabreit:1, Ideal:1, Trio:2, Fehlfarben:1, DAF|Deutsch Amerikanische Freundschaft:1, Rheingold:0.5, Spliff:1, Die Krupps:0.5, Die Sterne:1, Blumfeld:0.5, Kettcar:1, Tomte:0.5, Muff Potter:0.5, Itchy:0.5, Donots:1, ZSK:0.5, Slime:1, WIZO:1, Die Goldenen Zitronen:1, Elaiza:0.5, Luxuslärm:0.5, Glasperlenspiel:1, Provinz:1, Giant Rooks:1, Leoniden:0.5, Blond:0.5, Von Wegen Lisbeth:1, Querbeat:1, Moop Mama:0.5, Meute:0.5
+! Wanda = Wanda ist aus Österreich.
+! Bilderbuch = Bilderbuch ist aus Österreich.
+! ABBA = ABBA ist schwedisch.
