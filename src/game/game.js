@@ -45,6 +45,24 @@ const sfx=k=>{try{SFX[k]&&SFX[k]()}catch(e){}};
 const muteBtn=document.getElementById('mute');const setMute=m=>{muted=m;muteBtn.textContent=m?'🔇':'🔊';try{localStorage.setItem('raritour-mute',m?'1':'0')}catch(e){}};setMute(muted);
 muteBtn.addEventListener('click',()=>{setMute(!muted);if(!muted)sfx('click')});
 
+// ---------- Meme-Animationen (pro Verkehrsmittel) ----------
+const NOLIMIT='<svg viewBox="0 0 60 60" width="54" height="54"><circle cx="30" cy="30" r="27" fill="#fff" stroke="#222" stroke-width="2"/><g stroke="#222" stroke-width="2.6"><line x1="14" y1="40" x2="40" y2="14"/><line x1="18" y1="44" x2="44" y2="18"/><line x1="22" y1="48" x2="48" y2="22"/><line x1="10" y1="36" x2="36" y2="10"/><line x1="26" y1="51" x2="51" y2="26"/></g></svg>';
+const MEMES={
+  '🚶':{s:'<div class="mm walk">🚶</div><div class="mm puff">💨</div>',c:'Zu Fuß. Wie 1850.'},
+  '🚲':{s:'<div class="mm across">👶📦🚲</div>',c:'Prenzlauer-Berg-Express'},
+  '🚌':{s:'<div class="mm across slow"><span class="sev">SEV</span>🚌</div>',c:'Ersatzverkehr. Wie immer.'},
+  '🚆':{s:'<div class="mm across">🚆<span class="crowd">🧍🧍🧍🧍🧍</span></div>',c:'Deutschlandticket-Gedränge: Stehplatz gesichert'},
+  '🚄':{s:'<div class="mm board"><div class="fb">ICE 1337 · Frankfurt</div><div class="fb big" id="delay">+45 Min</div></div>',c:'Moment … pünktlich?!',fx:el=>{const d=el.querySelector('#delay');const seq=['+45 Min','+20 Min','+5 Min','pünktlich'];seq.forEach((v,i)=>setTimeout(()=>{d.textContent=v;d.classList.remove('flip');void d.offsetWidth;d.classList.add('flip');noise(.05,3000,2500,.06)},350+i*380))}},
+  '🏎️':{s:'<div class="mm sign">'+NOLIMIT+'</div><div class="mm zoom">🏎️<span class="lines">≡</span></div>',c:'Freie Fahrt. Linke Spur.'},
+  '✈️':{s:'<div class="mm crane">🏗️</div><div class="mm takeoff">✈️</div>',c:'BER: eröffnet. Wirklich.'},
+  '🛩️':{s:'<div class="mm carpet"></div><div class="mm takeoff">🛩️</div><div class="mm smoke">💨</div><div class="mm thumbs">👍</div>',c:'Panne? Heute nicht.'},
+  '❌':{s:'<div class="mm baustelle">🚧🚧🚧</div>',c:'Störung im Betriebsablauf'},
+  '⏰':{s:'<div class="mm leave">🚆💨</div><div class="mm walk">🏃</div>',c:'Zurückbleiben, bitte!'}
+};
+function meme(k){const m=MEMES[k];if(!m)return;const box=document.querySelector('.mapbox');box.querySelectorAll('.meme').forEach(e=>e.remove());
+  const d=document.createElement('div');d.className='meme';d.innerHTML=`<div class="stage">${m.s}</div><div class="cap"></div>`;d.querySelector('.cap').textContent=m.c;box.append(d);
+  if(m.fx)m.fx(d);setTimeout(()=>d.classList.add('out'),2600);setTimeout(()=>d.remove(),3000)}
+
 // ---------- Konfetti ----------
 function confetti(){const cv=document.getElementById('confetti'),x=cv.getContext('2d');cv.width=innerWidth;cv.height=innerHeight;const cols=['#F26A1B','#1B2A4A','#FFC83D','#3d5a99','#fff'];
   const P=Array.from({length:180},()=>({x:innerWidth/2+(Math.random()-.5)*200,y:innerHeight*.35,vx:(Math.random()-.5)*14,vy:-Math.random()*14-4,r:Math.random()*6+4,c:cols[Math.random()*5|0],a:Math.random()*6,va:(Math.random()-.5)*.3}));
@@ -98,14 +116,14 @@ let shown=0;
 function draw(km){const p=posAt(km);done.setAttribute('points',p.pts.map(q=>q.join(',')).join(' '));const e=p.pts[p.pts.length-1];veh.x=e[0];veh.y=e[1];
   C.forEach(c=>{const ok=c.cum<=km+0.01;cityDots[c.n].setAttribute('fill',ok?'#F26A1B':'#fff');if(ok&&!reached.has(c.n)){reached.add(c.n);if(c.cum>0){pulse(c);sfx('city');ortsschild(c.n)}}});
   sign(km);
-  document.getElementById('where').textContent=p.next?`zuletzt: ${p.last} · noch ${p.rest} km bis ${p.next}`:'Rundreise komplett! 🎉';return p;}
+  document.getElementById('where').textContent=p.next?`zuletzt: ${p.last} · noch ${p.rest} km bis ${p.next}`:'Ziel erreicht! 🎉';return p;}
 function animateTo(target){const from=shown,t0=performance.now(),dur=600+(target-from)*8;function step(t){const f=Math.min(1,(t-t0)/dur),e=f<.5?2*f*f:1-Math.pow(-2*f+2,2)/2,v=from+(target-from)*e;draw(v);document.getElementById('km').textContent=Math.round(v).toLocaleString('de-DE');document.getElementById('bar').style.width=(v/TOTAL*100)+'%';if(f<1)requestAnimationFrame(step);else shown=target}requestAnimationFrame(step)}
 
 // Spielzustand
 let S;
 function reset(){S={i:0,tries:3,km:0,res:[]};shown=0;reached=new Set();vehicle.textContent='📍';draw(0);document.getElementById('km').textContent='0';document.getElementById('bar').style.width='0';
   document.getElementById('log').innerHTML='';document.getElementById('final').classList.add('hidden');document.getElementById('play').classList.remove('hidden');render()}
-const READ=4, ANSWER=20; let tm=null, tLeft=0;
+const READ=5, ANSWER=25; let tm=null, tLeft=0, tStart=0;
 function flap(node,text){const L='ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ',t0=performance.now(),D=700;let tick=0;
   (function f(t){const p=(t-t0)/D;let s='';for(let i=0;i<text.length;i++){const ch=text[i];s+=(ch===' '||p>i/text.length*0.8+0.2)?ch:L[Math.random()*L.length|0]}node.textContent=s;
     if(++tick%3===0)noise(.02,3000,2500,.05);if(p<1)requestAnimationFrame(f);else node.textContent=text})(t0)}
@@ -114,10 +132,10 @@ function startCountdown(){if(!document.getElementById('start').classList.contain
   stopTimer();tw.classList.remove('low');tb.style.transition='none';tb.style.transform='scaleX(1)';
   cd.classList.remove('hidden');document.getElementById('ask').classList.add('hidden');let n=READ;
   const show=()=>{cd.innerHTML=`Erst lesen, dann tippen … <b>${n}</b>`;sfx('click')};show();
-  tm=setInterval(()=>{n--;if(n>0){show();return}stopTimer();cd.classList.add('hidden');const a=document.getElementById('ask');a.classList.remove('hidden');const inp=document.getElementById('in');inp.disabled=false;inp.value='';inp.focus();
+  tm=setInterval(()=>{n--;if(n>0){show();return}stopTimer();cd.classList.add('hidden');const a=document.getElementById('ask');a.classList.remove('hidden');const inp=document.getElementById('in');inp.disabled=false;inp.value='';inp.focus();tStart=performance.now();
     tone(988,.15,'square',.06);tLeft=ANSWER;requestAnimationFrame(()=>{tb.style.transition=`transform ${ANSWER}s linear`;tb.style.transform='scaleX(0)'});
     tm=setInterval(()=>{tLeft--;document.getElementById('clock').textContent=`⏱ ${tLeft}s`;if(tLeft<=5){tw.classList.add('low');if(tLeft>0)tone(660,.06,'square',.05)}if(tLeft<=0){stopTimer();timeout()}},1000)},1000)}
-function timeout(){const c=CATS[S.i];sfx('fail');addRow('⏰','Zug verpasst',c.q,'0 km');S.res.push('⏰');showReveal({ic:'⏰',ans:'Zug verpasst',tier:'Zeit abgelaufen',quip:pick(['Der Zug ist ohne dich abgefahren.','Türen schließen selbsttätig.','Zurückbleiben, bitte!']),pctTxt:'',pct:0,km:0})}
+function timeout(){const c=CATS[S.i];sfx('fail');addRow('⏰','Zug verpasst',c.q,'0 km');S.res.push('⏰');meme('⏰');showReveal({ic:'⏰',ans:'Zug verpasst',tier:'Zeit abgelaufen',quip:pick(['Der Zug ist ohne dich abgefahren.','Türen schließen selbsttätig.','Zurückbleiben, bitte!']),pctTxt:'',pct:0,km:0})}
 function render(){const c=CATS[S.i];document.getElementById('catn').textContent=`Gleis ${S.i+1} · Kategorie ${S.i+1}/${CATS.length}`;document.getElementById('clock').textContent=`⏱ ${ANSWER}s`;flap(document.getElementById('catq'),c.q);document.getElementById('catx').textContent='ℹ '+c.x;
   document.getElementById('msg').textContent='';document.getElementById('reveal').classList.add('hidden');document.getElementById('timer').classList.remove('hidden');document.getElementById('in').disabled=true;startCountdown();
   document.getElementById('dots').innerHTML=CATS.map((_,j)=>`<span class="${j<S.i?'done':j===S.i?'cur':''}"></span>`).join('')}
@@ -131,25 +149,29 @@ document.getElementById('f').addEventListener('submit',async e=>{e.preventDefaul
   if(r.error){document.getElementById('msg').textContent=r.error==='round_closed'?'Diese Runde ist schon vorbei – bitte neu laden.':'Verbindung weg – nochmal versuchen.';return}
   if(!r.ok){S.tries--;const h=r.hint;
     const f=document.getElementById('f');f.classList.remove('shake');void f.offsetWidth;f.classList.add('shake');
-    if(S.tries<=0){sfx('fail');addRow('❌','–',c.q,'0 km');S.res.push('❌');showReveal({ic:'❌',ans:'Dreimal daneben',tier:'Stillstand',quip:pick(FAILQ),pctTxt:'',pct:0,km:0});return}
+    if(S.tries<=0){sfx('fail');addRow('❌','–',c.q,'0 km');S.res.push('❌');meme('❌');showReveal({ic:'❌',ans:'Dreimal daneben',tier:'Stillstand',quip:pick(FAILQ),pctTxt:'',pct:0,km:0});return}
     sfx('wrong');document.getElementById('msg').textContent=(h?h+' ':pick(['Nee, gibt’s nicht.','Knapp daneben ist auch vorbei.','Antrag abgelehnt.','Das Faxgerät sagt nein.','Bitte in dreifacher Ausfertigung erneut einreichen.','Dafür ist das Amt nicht zuständig.'])+' ')+`Noch ${S.tries} Versuch${S.tries>1?'e':''}.`;inp.select();return}
-  const t=tierOf(r.pct);S.km+=t.km;S.res.push(t.ic);
+  const t=tierOf(r.pct),el=(performance.now()-tStart)/1000;
+  // Tempo: bis 5 s +10 %, bis 12 s normal, danach linear bis −20 % bei 25 s
+  const f=el<=5?1.1:el<=12?1:Math.max(0.8,1-(el-12)/13*0.2), gain=Math.round(t.km*f);
+  const tempo=f>1?'⚡ Blitz-Bonus +10 %':f<1?`🐌 Zu lange überlegt −${Math.round((1-f)*100)} %`:'';
+  S.km+=gain;S.res.push(t.ic);
   const pct=r.pct<0.1?'< 0,1':r.pct<1?r.pct.toFixed(1).replace('.',','):Math.round(r.pct);
-  addRow(t.ic,r.name,`${pct} % haben das auch gesagt · ${t.n}`,`+${t.km} km`);
-  sfx(t.ic);vehicle.textContent=t.ic;
-  showReveal({ic:t.ic,ans:r.name,tier:t.n,quip:pick(t.q),pctTxt:`<b>${pct} %</b> haben das auch gesagt`,pct:r.pct,km:t.km});
+  addRow(t.ic,r.name,`${pct} % haben das auch gesagt · ${t.n}`,`+${gain} km`);
+  sfx(t.ic);vehicle.textContent=t.ic;meme(t.ic);
+  showReveal({ic:t.ic,ans:r.name,tier:t.n,quip:pick(t.q),pctTxt:`<b>${pct} %</b> haben das auch gesagt`,pct:r.pct,km:gain,tempo});
   setTimeout(()=>animateTo(Math.min(S.km,TOTAL)),450)});
 function showReveal(o){stopTimer();document.getElementById('ask').classList.add('hidden');document.getElementById('cd').classList.add('hidden');document.getElementById('timer').classList.add('hidden');const r=document.getElementById('reveal');r.classList.remove('hidden');
   const last=S.i===CATS.length-1;
-  r.innerHTML=`<div class="big">${o.ic}</div><div class="ans"></div><div class="tier">${o.tier}</div>`+(o.pctTxt?`<div class="pbar"><div></div></div><div class="pct">${o.pctTxt}</div>`:'')+`<div class="quip">${o.quip||''}</div>`+`<div class="plus">+${o.km} km</div><button class="sec" id="nx">${last?'Ergebnis anzeigen 🏁':'Weiter →'}</button>`;
+  r.innerHTML=`<div class="big">${o.ic}</div><div class="ans"></div><div class="tier">${o.tier}</div>`+(o.pctTxt?`<div class="pbar"><div></div></div><div class="pct">${o.pctTxt}</div>`:'')+`<div class="quip">${o.quip||''}</div>`+`<div class="plus">+${o.km} km</div>`+(o.tempo?`<div class="tempo">${o.tempo}</div>`:'')+`<button class="sec" id="nx">${last?'Ergebnis anzeigen 🏁':'Weiter →'}</button>`;
   r.querySelector('.ans').textContent=o.ans;
   const pb=r.querySelector('.pbar div');if(pb)requestAnimationFrame(()=>requestAnimationFrame(()=>pb.style.width=Math.max(1.5,Math.min(100,o.pct))+'%'));
   const nx=r.querySelector('#nx');nx.focus();nx.addEventListener('click',()=>{sfx('click');next()},{once:true});}
 function finish(){stopTimer();document.getElementById('play').classList.add('hidden');document.getElementById('dots').innerHTML='';
   const km=Math.min(S.km,TOTAL),p=posAt(km);
-  document.getElementById('ftitle').textContent=p.next?`${km.toLocaleString('de-DE')} km – bis kurz vor ${p.next}!`:'Komplette Rundreise geschafft! 🎉';
-  document.getElementById('fsub').textContent=p.next?`Zuletzt erreicht: ${p.last}. Morgen gibt es eine neue Runde.`:'Alle 13 Städte – seltener geht’s nicht.';
-  const txt=`Raritour #${ROUND.number} 🇩🇪\n${S.res.join('')}\n${km.toLocaleString('de-DE')} / ${TOTAL.toLocaleString('de-DE')} km · ${p.next?'bis '+p.last:'Rundreise komplett'}`;
+  document.getElementById('ftitle').textContent=p.next?`${km.toLocaleString('de-DE')} km – bis kurz vor ${p.next}!`:'Frankfurt erreicht – Ziel geschafft! 🎉';
+  document.getElementById('fsub').textContent=p.next?`Zuletzt erreicht: ${p.last}. Morgen gibt es eine neue Runde.`:'Die ganze Strecke in einer Runde. Respekt!';
+  const txt=`Raritour #${ROUND.number} 🇩🇪\n${S.res.join('')}\n${km.toLocaleString('de-DE')} / ${TOTAL.toLocaleString('de-DE')} km · ${p.next?'bis '+p.last:'Ziel erreicht 🏁'}`;
   document.getElementById('share').textContent=txt;document.getElementById('final').classList.remove('hidden');document.getElementById('reveal').classList.add('hidden');
   setTimeout(()=>{sfx('fanfare');if(km>=TOTAL*0.4)confetti()},500);
   try{localStorage.setItem('raritour-played',JSON.stringify({date:ROUND.date,km,res:S.res,log:document.getElementById('log').innerHTML}))}catch(e){}

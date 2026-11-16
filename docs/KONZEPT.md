@@ -5,7 +5,7 @@
 **Name:** Raritour = Rarität + Tour. **Logo:** Fragezeichen, dessen Punkt ein Kartenpin ist.
 **Farben:** Tiefblau `#1B2A4A` · Signal-Orange `#F26A1B` · Sand `#F6F4EF`. **Schriften:** Inter (Logo), Barlow / Barlow Condensed.
 
-**Route (fest):** Hamburg → Berlin → Leipzig → Dresden → Nürnberg → München → Stuttgart → Frankfurt → Köln → Düsseldorf → Dortmund → Hannover → Bremen (1.788 km Luftlinie).
+**Route (fest):** Hamburg → Berlin → Leipzig → Dresden → Nürnberg → München → Stuttgart → Frankfurt (1.259 km Luftlinie). Ziel ist mit guten, nicht perfekten Antworten erreichbar (Ø ~157 km pro Kategorie).
 
 ## Bewertung
 
@@ -21,11 +21,19 @@
 | < 0,5 % | 🛩️ Regierungsflieger | 224 |
 | falsch / Zeit abgelaufen | ❌ / ⏰ | 0 |
 
-8 × Regierungsflieger = 1.792 km = komplette Rundreise. Schwellen werden mit echten Daten kalibriert.
+**Tempo-Bonus:** Antwort in ≤ 5 s → +10 %, bis 12 s → normal, danach linear bis −20 % bei 25 s. Schwellen werden mit echten Daten kalibriert.
 
 ## Ablauf einer Frage
 
-4 s Lesezeit („Erst lesen, dann tippen …“) → 20 s Antwortzeit → bis zu 3 Versuche.
+5 s Lesezeit („Erst lesen, dann tippen …“) → 25 s Antwortzeit → bis zu 3 Versuche.
+
+## Kategorien
+
+Breit gefasst (z. B. „ein Vogel“, „eine Stadt in Italien“) statt kleiner geschlossener Listen. Jede Kategorie hat eine Erklärung mit Quelle (z. B. Destatis, Wikidata). Keine Kategorie wird wiederholt.
+
+## Meme-Animationen
+
+Jedes Verkehrsmittel hat eine kurze Szene: SEV-Bus, überfüllter RE, ICE-Anzeige springt von +45 Min auf „pünktlich“, Schild „Ende aller Streckenverbote“, Flieger über BER-Baukran, Regierungsflieger mit Mini-Rauchwolke. Keine echten Personen.
 
 ## Ton
 
