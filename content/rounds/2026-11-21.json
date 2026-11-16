@@ -1,0 +1,3106 @@
+{
+ "date": "2026-11-21",
+ "route": "hamburg-frankfurt",
+ "categories": [
+  {
+   "q": "Eine Obstsorte",
+   "x": "Obst im Sinne der Küche, heimisch oder exotisch. Nüsse zählen nicht.",
+   "answers": [
+    {
+     "name": "Apfel",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Banane",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Erdbeere",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Birne",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Kirsche",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Orange",
+     "aliases": [
+      "Apfelsine"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Weintraube",
+     "aliases": [
+      "Traube",
+      "Trauben"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Ananas",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Mango",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Kiwi",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Pfirsich",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Pflaume",
+     "aliases": [
+      "Zwetschge",
+      "Zwetschke"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Himbeere",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Wassermelone",
+     "aliases": [
+      "Melone"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Zitrone",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Heidelbeere",
+     "aliases": [
+      "Blaubeere"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Aprikose",
+     "aliases": [
+      "Marille"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Mandarine",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Johannisbeere",
+     "aliases": [
+      "Ribisel"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Brombeere",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Grapefruit",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Granatapfel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kokosnuss",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Feige",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Nektarine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mirabelle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Reneklode",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quitte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stachelbeere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Preiselbeere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cranberry",
+     "aliases": [
+      "Moosbeere"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Holunderbeere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sanddornbeere",
+     "aliases": [
+      "Sanddorn"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hagebutte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maulbeere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaki",
+     "aliases": [
+      "Sharonfrucht"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Papaya",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maracuja",
+     "aliases": [
+      "Passionsfrucht"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Litschi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Physalis",
+     "aliases": [
+      "Kapstachelbeere"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Guave",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Drachenfrucht",
+     "aliases": [
+      "Pitahaya"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sternfrucht",
+     "aliases": [
+      "Karambole"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Avocado",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dattel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Limette",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Clementine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pomelo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kumquat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blutorange",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Honigmelone",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cantaloupe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Galiamelone",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaktusfeige",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rambutan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mangostane",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Durian",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jackfrucht",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brotfrucht",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kochbanane",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cherimoya",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pepino",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tamarillo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kiwano",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Feijoa",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jabuticaba",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aronia",
+     "aliases": [
+      "Apfelbeere"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Jostabeere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Goji",
+     "aliases": [
+      "Gojibeere"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Acai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schlehe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mispel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elsbeere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kornelkirsche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wildkirsche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sauerkirsche",
+     "aliases": [
+      "Weichsel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rhabarber",
+     "aliases": [],
+     "prior": 0.3
+    }
+   ],
+   "hints": {
+    "Tomate": "Botanisch eine Beere – in der Küche aber Gemüse. Nimm was Süßeres!",
+    "Walnuss": "Nüsse zählen nicht.",
+    "Rosine": "Rosinen sind getrocknete Trauben – nimm die frische Version."
+   }
+  },
+  {
+   "q": "Eine Stadt in Frankreich",
+   "x": "Jede französische Stadt oder Gemeinde im europäischen Frankreich.",
+   "answers": [
+    {
+     "name": "Paris",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Marseille",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Lyon",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Nizza",
+     "aliases": [
+      "Nice"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Straßburg",
+     "aliases": [
+      "Strasbourg"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Bordeaux",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Toulouse",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Lille",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Nantes",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Cannes",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Montpellier",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Avignon",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Reims",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Metz",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Le Mans",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Calais",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Colmar",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Saint-Tropez",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rennes",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Dijon",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Grenoble",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Le Havre",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rouen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Caen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cherbourg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brest",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saint-Malo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mont-Saint-Michel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tours",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Orléans",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blois",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amboise",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Angers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Poitiers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "La Rochelle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Biarritz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bayonne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lourdes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Perpignan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Carcassonne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nîmes",
+     "aliases": [
+      "Nimes"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Arles",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aix-en-Provence",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Toulon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Antibes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Menton",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saint-Raphaël",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fréjus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grasse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chamonix",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Annecy",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chambéry",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Clermont-Ferrand",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Limoges",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saint-Étienne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Besançon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mülhausen",
+     "aliases": [
+      "Mulhouse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Nancy",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Verdun",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amiens",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dunkerque",
+     "aliases": [
+      "Dünkirchen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Boulogne-sur-Mer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Le Touquet",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Deauville",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Honfleur",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Étretat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Versailles",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fontainebleau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chartres",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Épernay",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Troyes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sedan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saint-Denis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nanterre",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ajaccio",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bastia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Calvi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bonifacio",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vichy",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cognac",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Arcachon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sète",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Narbonne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Béziers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Albi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Montauban",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Agen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bergerac",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sarlat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Périgueux",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Angoulême",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Niort",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vannes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lorient",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quimper",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saint-Nazaire",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Laval",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Évian",
+     "aliases": [
+      "Évian-les-Bains"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Haguenau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saverne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sélestat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Obernai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wissembourg",
+     "aliases": [
+      "Weißenburg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Forbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sarreguemines",
+     "aliases": [
+      "Saargemünd"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Thionville",
+     "aliases": [
+      "Diedenhofen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lunéville",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Épinal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Belfort",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Montbéliard",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mâcon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beaune",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Auxerre",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nevers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bourges",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vienne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Valence",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Montélimar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Orange",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gap",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Briançon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Digne-les-Bains",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saint-Paul-de-Vence",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Èze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Villefranche-sur-Mer",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Monaco": "Monaco ist ein eigener Stadtstaat.",
+    "Brüssel": "Brüssel liegt in Belgien.",
+    "Genf": "Genf liegt in der Schweiz – auch wenn man dort Französisch spricht."
+   }
+  },
+  {
+   "q": "Ein Wort für Hausschuhe",
+   "x": "Regional, umgangssprachlich oder Hochdeutsch – Hauptsache, man trägt’s an den Füßen in der Bude.",
+   "answers": [
+    {
+     "name": "Hausschuhe",
+     "aliases": [
+      "Hausschuh"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "Pantoffeln",
+     "aliases": [
+      "Pantoffel"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Latschen",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Schlappen",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Puschen",
+     "aliases": [
+      "Puschel"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Filzpantoffeln",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schluffen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Patschen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Finken",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Schlarpen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Slipper",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pantoletten",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Schlurren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schlorren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Badelatschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hauslatschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Laatschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Babuschen",
+     "aliases": [
+      "Babouches"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Puschen-Socken",
+     "aliases": [
+      "Stoppersocken"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hüttenschuhe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Filzlatschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schlappe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Patschn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hausschlappen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bettschuhe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pampuschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tappen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schluppen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pantinen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kuschelschuhe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hausschlapfen",
+     "aliases": [
+      "Schlapfen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hauspatschen",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Crocs": "Crocs sind Crocs – und eine Lebensentscheidung.",
+    "Socken": "Socken sind keine Schuhe, egal wie lange man sie trägt.",
+    "Schlüpfer": "Bitte nicht mit Hausschuhen verwechseln 😄"
+   }
+  },
+  {
+   "q": "Ein Organ des Menschen",
+   "x": "Organe im medizinischen Sinn, inklusive Haut und Sinnesorgane.",
+   "answers": [
+    {
+     "name": "Herz",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Lunge",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Leber",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Niere",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Gehirn",
+     "aliases": [
+      "Hirn"
+     ],
+     "prior": 14
+    },
+    {
+     "name": "Magen",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Haut",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Darm",
+     "aliases": [
+      "Dünndarm",
+      "Dickdarm"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Milz",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Bauchspeicheldrüse",
+     "aliases": [
+      "Pankreas"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Galle",
+     "aliases": [
+      "Gallenblase"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Blase",
+     "aliases": [
+      "Harnblase"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Auge",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schilddrüse",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Gebärmutter",
+     "aliases": [
+      "Uterus"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Blinddarm",
+     "aliases": [
+      "Wurmfortsatz"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Speiseröhre",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Luftröhre",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kehlkopf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zunge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ohr",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nase",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Thymus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hypophyse",
+     "aliases": [
+      "Hirnanhangsdrüse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Zirbeldrüse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nebenniere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eierstock",
+     "aliases": [
+      "Eierstöcke"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hoden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Prostata",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Penis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vagina",
+     "aliases": [
+      "Scheide"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Harnleiter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Harnröhre",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mandeln",
+     "aliases": [
+      "Gaumenmandeln"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rückenmark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kleinhirn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Großhirn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zwerchfell",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zwölffingerdarm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mastdarm",
+     "aliases": [
+      "Rektum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lymphknoten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Knochenmark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plazenta",
+     "aliases": [
+      "Mutterkuchen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Brustdrüse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Speicheldrüse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tränendrüse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schweißdrüse",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Herzschrittmacher": "Der zählt nicht – den hat man nicht von Natur aus."
+   }
+  },
+  {
+   "q": "Ein Feld beim deutschen Monopoly",
+   "x": "Alle 40 Felder der klassischen deutschen Ausgabe – Straßen, Bahnhöfe, Werke und Sonderfelder.",
+   "answers": [
+    {
+     "name": "Schlossallee",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Badstraße",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Parkstraße",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Los",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Gefängnis",
+     "aliases": [
+      "Im Gefängnis",
+      "Nur zu Besuch"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Frei Parken",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Gehe ins Gefängnis",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Opernplatz",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Turmstraße",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Hauptbahnhof",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Bahnhofstraße",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Goethestraße",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schillerstraße",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Elektrizitätswerk",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Wasserwerk",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Südbahnhof",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Westbahnhof",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Nordbahnhof",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Rathausplatz",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Hauptstraße",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Chausseestraße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elisenstraße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Poststraße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seestraße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hafenstraße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neue Straße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Münchner Straße",
+     "aliases": [
+      "Münchener Straße"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wiener Straße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Berliner Straße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Theaterstraße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Museumstraße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lessingstraße",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ereignisfeld",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gemeinschaftsfeld",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Einkommensteuer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zusatzsteuer",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Boardwalk": "Das ist die US-Ausgabe – bei uns heißt sie Schlossallee.",
+    "Hotel": "Hotels baut man auf Felder – gesucht ist ein Feld."
+   }
+  },
+  {
+   "q": "Ein Kuchen oder eine Torte",
+   "x": "Kuchen, Torten und Blechkuchen aus aller Welt.",
+   "answers": [
+    {
+     "name": "Käsekuchen",
+     "aliases": [
+      "Käsetorte"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Schwarzwälder Kirschtorte",
+     "aliases": [
+      "Schwarzwälder Kirsch"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Apfelkuchen",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Marmorkuchen",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Streuselkuchen",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Bienenstich",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Zitronenkuchen",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Schokoladenkuchen",
+     "aliases": [
+      "Schokokuchen"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Erdbeerkuchen",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Sachertorte",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Frankfurter Kranz",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Pflaumenkuchen",
+     "aliases": [
+      "Zwetschgenkuchen",
+      "Zwetschgendatschi",
+      "Datschi"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Rührkuchen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Gugelhupf",
+     "aliases": [
+      "Napfkuchen"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Donauwelle",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Butterkuchen",
+     "aliases": [
+      "Zuckerkuchen"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Brownie",
+     "aliases": [
+      "Brownies"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Käse-Sahne-Torte",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Linzer Torte",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Baumkuchen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rhabarberkuchen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mohnkuchen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Russischer Zupfkuchen",
+     "aliases": [
+      "Zupfkuchen"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Kirschkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stachelbeerkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Johannisbeerkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heidelbeerkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eierschecke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Prinzregententorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herrentorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Friesentorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Holländer Kirschtorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Esterházy-Torte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dobostorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Malakofftorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Panama-Torte",
+     "aliases": [
+      "Panamatorte"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Nusskuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Möhrenkuchen",
+     "aliases": [
+      "Rüblikuchen",
+      "Karottenkuchen",
+      "Carrot Cake"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fantakuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kalter Hund",
+     "aliases": [
+      "Kalte Schnauze"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sandkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eierlikörkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rotweinkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kokoskuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mandarinen-Schmand-Kuchen",
+     "aliases": [
+      "Schmandkuchen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Quarkkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Christstollen",
+     "aliases": [
+      "Stollen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Apfelstrudel",
+     "aliases": [
+      "Strudel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tarte Tatin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cheesecake",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Red Velvet",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pavlova",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Victoria Sponge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Biskuitrolle",
+     "aliases": [
+      "Biskuitroulade"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Prinzessinnentorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spiegeleierkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kirsch-Streusel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Obstkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Obsttorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Buttercremetorte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mohnschnitte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bremer Klaben",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dresdner Eierschecke",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Muffin": "Ein Muffin ist (knapp) kein Kuchen im Ganzen 😉",
+    "Croissant": "Croissant ist Gebäck, kein Kuchen.",
+    "Berliner": "Ein Berliner ist ein Krapfen – kein Kuchen."
+   }
+  },
+  {
+   "q": "Eine Programmiersprache",
+   "x": "Programmier-, Skript- und Abfragesprachen. HTML und CSS zählen – wir sind ja nicht kleinlich.",
+   "answers": [
+    {
+     "name": "Python",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Java",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "JavaScript",
+     "aliases": [
+      "JS"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "C++",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "C",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "C#",
+     "aliases": [
+      "C Sharp"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "HTML",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "PHP",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "SQL",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Swift",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kotlin",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Go",
+     "aliases": [
+      "Golang"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Rust",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "TypeScript",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Ruby",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "R",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "CSS",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Scratch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Visual Basic",
+     "aliases": [
+      "VBA",
+      "VB"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Assembler",
+     "aliases": [
+      "Assembly"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "MATLAB",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Pascal",
+     "aliases": [
+      "Delphi"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Fortran",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "COBOL",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Perl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lua",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haskell",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lisp",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Scheme",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Clojure",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Prolog",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Erlang",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elixir",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Scala",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dart",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Julia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Objective-C",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bash",
+     "aliases": [
+      "Shell"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "PowerShell",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Groovy",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "F#",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "OCaml",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Smalltalk",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ada",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "BASIC",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Logo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brainfuck",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zig",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Crystal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Solidity",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elm",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Racket",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Apex",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "ABAP",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Simula",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Algol",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "APL",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Forth",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Modula-2",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oberon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eiffel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "LabVIEW",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Verilog",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "VHDL",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "AutoLISP",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "GDScript",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "AppleScript",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "CoffeeScript",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Visual Basic .NET",
+     "aliases": [
+      "VB.NET"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hack",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mojo",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Excel": "Excel ist eine Tabellenkalkulation – auch wenn manche darin programmieren.",
+    "Word": "Nein. Einfach nein.",
+    "Linux": "Linux ist ein Betriebssystem."
+   }
+  },
+  {
+   "q": "Ein Fußballverein aus Deutschland",
+   "x": "Aktuelle oder ehemalige Profi- und Traditionsvereine aus Deutschland, egal welche Liga.",
+   "answers": [
+    {
+     "name": "FC Bayern München",
+     "aliases": [
+      "Bayern",
+      "Bayern München",
+      "FCB"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Borussia Dortmund",
+     "aliases": [
+      "Dortmund",
+      "BVB"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Schalke 04",
+     "aliases": [
+      "Schalke",
+      "FC Schalke 04"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Hamburger SV",
+     "aliases": [
+      "HSV"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Werder Bremen",
+     "aliases": [
+      "Werder"
+     ],
+     "prior": 9
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "aliases": [
+      "Leverkusen"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "1. FC Köln",
+     "aliases": [
+      "FC Köln",
+      "Köln"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "aliases": [
+      "Frankfurt"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "VfB Stuttgart",
+     "aliases": [
+      "Stuttgart"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Borussia Mönchengladbach",
+     "aliases": [
+      "Gladbach",
+      "Mönchengladbach"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Hertha BSC",
+     "aliases": [
+      "Hertha"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Union Berlin",
+     "aliases": [
+      "1. FC Union Berlin",
+      "Union"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "RB Leipzig",
+     "aliases": [
+      "Leipzig"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "VfL Wolfsburg",
+     "aliases": [
+      "Wolfsburg"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "FC St. Pauli",
+     "aliases": [
+      "St. Pauli"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "SC Freiburg",
+     "aliases": [
+      "Freiburg"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "1. FC Kaiserslautern",
+     "aliases": [
+      "Kaiserslautern",
+      "FCK"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Hannover 96",
+     "aliases": [
+      "Hannover"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "1. FC Nürnberg",
+     "aliases": [
+      "Nürnberg",
+      "Club"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Fortuna Düsseldorf",
+     "aliases": [
+      "Düsseldorf"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "TSG Hoffenheim",
+     "aliases": [
+      "Hoffenheim"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "1. FSV Mainz 05",
+     "aliases": [
+      "Mainz",
+      "Mainz 05"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "FC Augsburg",
+     "aliases": [
+      "Augsburg"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "VfL Bochum",
+     "aliases": [
+      "Bochum"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "1. FC Heidenheim",
+     "aliases": [
+      "Heidenheim"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Dynamo Dresden",
+     "aliases": [
+      "Dresden"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Hansa Rostock",
+     "aliases": [
+      "Rostock"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Karlsruher SC",
+     "aliases": [
+      "KSC"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Arminia Bielefeld",
+     "aliases": [
+      "Bielefeld"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "MSV Duisburg",
+     "aliases": [
+      "Duisburg"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "1860 München",
+     "aliases": [
+      "TSV 1860",
+      "Sechzig"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Eintracht Braunschweig",
+     "aliases": [
+      "Braunschweig"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "1. FC Magdeburg",
+     "aliases": [
+      "Magdeburg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Holstein Kiel",
+     "aliases": [
+      "Kiel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "SV Darmstadt 98",
+     "aliases": [
+      "Darmstadt"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "SpVgg Greuther Fürth",
+     "aliases": [
+      "Fürth"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "SC Paderborn",
+     "aliases": [
+      "Paderborn"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "FC Energie Cottbus",
+     "aliases": [
+      "Energie Cottbus",
+      "Cottbus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Erzgebirge Aue",
+     "aliases": [
+      "Aue"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rot-Weiss Essen",
+     "aliases": [
+      "RWE"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Alemannia Aachen",
+     "aliases": [
+      "Aachen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Preußen Münster",
+     "aliases": [
+      "Münster"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Jahn Regensburg",
+     "aliases": [
+      "Regensburg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "SV Sandhausen",
+     "aliases": [
+      "Sandhausen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Waldhof Mannheim",
+     "aliases": [
+      "Mannheim"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kickers Offenbach",
+     "aliases": [
+      "Offenbach"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "FSV Frankfurt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stuttgarter Kickers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "SSV Ulm",
+     "aliases": [
+      "Ulm"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wehen Wiesbaden",
+     "aliases": [
+      "Wiesbaden"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "VfL Osnabrück",
+     "aliases": [
+      "Osnabrück"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "SV Meppen",
+     "aliases": [
+      "Meppen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hallescher FC",
+     "aliases": [
+      "Halle"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Carl Zeiss Jena",
+     "aliases": [
+      "Jena"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rot-Weiß Erfurt",
+     "aliases": [
+      "Erfurt"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Chemnitzer FC",
+     "aliases": [
+      "Chemnitz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "1. FC Lokomotive Leipzig",
+     "aliases": [
+      "Lok Leipzig"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "BSG Chemie Leipzig",
+     "aliases": [
+      "Chemie Leipzig"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "BFC Dynamo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tennis Borussia Berlin",
+     "aliases": [
+      "TeBe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Viktoria Berlin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Babelsberg 03",
+     "aliases": [
+      "Babelsberg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wuppertaler SV",
+     "aliases": [
+      "Wuppertal"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "KFC Uerdingen",
+     "aliases": [
+      "Uerdingen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rot-Weiß Oberhausen",
+     "aliases": [
+      "Oberhausen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schwarz-Weiß Essen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fortuna Köln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Viktoria Köln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "SC Verl",
+     "aliases": [
+      "Verl"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "SV Elversberg",
+     "aliases": [
+      "Elversberg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "1. FC Saarbrücken",
+     "aliases": [
+      "Saarbrücken"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "FC Ingolstadt",
+     "aliases": [
+      "Ingolstadt"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "SpVgg Unterhaching",
+     "aliases": [
+      "Unterhaching"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Würzburger Kickers",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eintracht Trier",
+     "aliases": [
+      "Trier"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "TuS Koblenz",
+     "aliases": [
+      "Koblenz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Borussia Neunkirchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "VfR Aalen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "SG Wattenscheid 09",
+     "aliases": [
+      "Wattenscheid"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kickers Emden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "FC Homburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blau-Weiß 90 Berlin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Altona 93",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eintracht Norderstedt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "VfB Lübeck",
+     "aliases": [
+      "Lübeck"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Turbine Potsdam",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "SGS Essen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "FSV Zwickau",
+     "aliases": [
+      "Zwickau"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "VfB Oldenburg",
+     "aliases": [
+      "Oldenburg"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Real Madrid": "Real Madrid spielt in Spanien.",
+    "Galatasaray": "Galatasaray spielt in der Türkei.",
+    "Hajduk Split": "Hajduk spielt in Kroatien – Hajduk živi vječno, aber hier zählt’s nicht."
+   }
+  }
+ ]
+}

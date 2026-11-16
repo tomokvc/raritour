@@ -1,0 +1,64 @@
+@ 2026-11-22
+
+# Ein Fisch
+> Echte Fische – Süßwasser, Salzwasser, Speisefisch oder Aquarium. Wale und Delfine sind Säugetiere.
+Lachs:22, Hai|Weißer Hai:18, Thunfisch:15, Forelle:15, Karpfen:12, Hering:10, Goldfisch:10, Kabeljau|Dorsch:8, Hecht:7, Aal:6, Zander:6, Barsch:6, Sardine:5, Makrele:5, Clownfisch|Nemo:5, Wels|Waller:4, Rochen:4, Seelachs|Köhler:4, Scholle:4, Piranha:4, Schwertfisch:3, Kugelfisch:3, Guppy:3
+Sprotte, Sardelle|Anchovis, Heilbutt, Steinbutt, Seezunge, Flunder, Rotbarsch, Dorade|Goldbrasse, Wolfsbarsch|Loup de mer, Seeteufel, Schellfisch, Seehecht, Pangasius, Tilapia, Stör, Schleie, Brasse|Brachse, Rotauge|Plötze, Rotfeder, Döbel, Barbe, Äsche, Saibling, Renke|Felchen|Maräne, Huchen, Quappe|Rutte, Stichling, Bitterling, Gründling, Neunauge, Mondfisch, Feuerfisch, Kofferfisch, Doktorfisch|Paletten-Doktorfisch|Dorie, Kaiserfisch, Falterfisch, Papageifisch, Barrakuda, Marlin, Segelfisch, Bonito, Muräne, Petersfisch, Knurrhahn, Seepferdchen, Seenadel, Anglerfisch, Laternenfisch, Quastenflosser, Lungenfisch, Zitteraal, Zitterrochen, Mantarochen|Manta, Walhai, Hammerhai, Tigerhai, Blauhai, Katzenhai, Dornhai, Grönlandhai, Neon|Neonsalmler, Skalar, Diskus, Molly, Platy, Schwertträger, Kampffisch, Black Molly, Koi, Goldorfe, Sonnenbarsch, Zwergbuntbarsch, Buntbarsch, Antennenwels, Schlammspringer, Fliegender Fisch, Hornhecht, Lodde, Stint
+! Wal = Wale sind Säugetiere.
+! Delfin = Delfine sind Säugetiere.
+! Qualle = Quallen sind keine Fische.
+! Fischstäbchen = Fischstäbchen schwimmen leider nicht wild 🐟
+
+# Ein Land in Asien
+> Alle Staaten Asiens laut UN-Liste, inklusive Naher Osten und Kaukasus. Russland und die Türkei zählen auch.
+China:25, Japan:22, Indien:18, Thailand:12, Vietnam:9, Südkorea|Korea:9, Indonesien:7, Türkei:6, Russland:6, Philippinen:5, Nordkorea:5, Pakistan:4, Malaysia:4, Singapur:4, Saudi-Arabien:4, Iran:4, Israel:4, Vereinigte Arabische Emirate|VAE|Emirate:4, Afghanistan:3, Irak:3, Mongolei:3, Nepal:3, Sri Lanka:3, Kasachstan:3, Bangladesch:2, Kambodscha:2, Taiwan:2, Katar:2
+Laos, Myanmar|Birma|Burma, Bhutan, Malediven, Brunei, Osttimor|Timor-Leste, Usbekistan, Turkmenistan, Tadschikistan, Kirgisistan, Aserbaidschan, Georgien, Armenien, Syrien, Libanon, Jordanien, Kuwait, Bahrain, Oman, Jemen, Zypern
+! Dubai = Dubai ist eine Stadt in den Vereinigten Arabischen Emiraten.
+! Tibet = Tibet gehört heute zu China.
+! Bali = Bali ist eine Insel in Indonesien.
+! Asien = Ein Kontinent, kein Land 😉
+
+# Ein Grund für Zugverspätung
+> Typische Durchsagen und Gründe, die man am Bahnsteig wirklich hört. Kuratierte Raritour-Liste.
+Signalstörung|Störung am Signal:20, Weichenstörung|Störung an der Weiche:18, Personen im Gleis|Personen auf dem Gleis:15, Verzögerung im Betriebsablauf|Störung im Betriebsablauf:15, Bauarbeiten|Baustelle:12, Notarzteinsatz am Gleis|Notarzteinsatz|Notarzt:10, Polizeieinsatz:8, Technische Störung|Störung am Zug:8, Reparatur am Zug:7, Verspätung aus vorheriger Fahrt:7, Oberleitungsstörung|Störung an der Oberleitung:7, Streik|Bahnstreik:7, Unwetter|Sturm|Sturmschaden:6, Baum auf dem Gleis|Baum im Gleis:6, Tiere im Gleis|Tiere auf dem Gleis:5, Kuh auf dem Gleis|Kühe im Gleis:4, Personalmangel|Fehlendes Personal:5, Warten auf Anschlussreisende|Anschlusszug:4
+Bahnübergangsstörung|Störung am Bahnübergang, Stellwerksstörung|Störung im Stellwerk, Kabeldiebstahl, Vandalismus, Schnee|Eis|Glätte, Hitze, Laub auf den Schienen|Laub, Überholung durch anderen Zug|Überholung, Vorfahrt eines anderen Zuges, Hohes Fahrgastaufkommen|Volle Züge, Türstörung, Defekte Klimaanlage|Klimaanlage, Reinigung, Bombenentschärfung|Fliegerbombe, Feuerwehreinsatz, Brand am Gleis|Böschungsbrand, Erkrankter Reisender|Erkrankte Person, Gegenstand im Gleis, Unbefugte im Gleis, Zugteilung|Kupplung, Umgekehrte Wagenreihung|Wagenreihung, Lokwechsel|Lokführerwechsel, Ersatzzug, Bremsprobe, Fahrzeugstörung, Stromausfall, Bahnhofsevakuierung|Evakuierung, Hochwasser, Gleisänderung|Gleiswechsel, Fahrplanänderung:0.3, Kinder im Gleis, Wildunfall, Rinder im Gleis:0.3, Schienenbruch, Eingeschränkte Verfügbarkeit, Zugausfall:0.3
+! pünktlich = Netter Versuch. Das wäre ja mal was.
+! Pünktlichkeit = Netter Versuch.
+
+# Eine Figur aus Entenhausen
+> Figuren aus den Disney-Comics und -Cartoons rund um Micky und Donald. Deutsche Namen bevorzugt.
+Donald Duck|Donald:30, Micky Maus|Micky|Mickey Mouse|Mickey:22, Dagobert Duck|Dagobert|Onkel Dagobert:18, Tick:8, Trick:8, Track:8, Goofy:10, Daisy Duck|Daisy:8, Minnie Maus|Minnie:8, Pluto:7, Gustav Gans|Gustav:6, Daniel Düsentrieb|Düsentrieb:6, Panzerknacker:6, Kater Karlo|Karlo:4, Gundel Gaukeley|Gundel:4, Helferlein:3, Klaas Klever:3, Oma Duck:3
+Kommissar Hunter|Hunter, Rudi Ross|Rudi, Klarabella Kuh|Klarabella, Mac Moneysac|Rockerduck:0.5, Phantomias, Primus von Quack|Primus, Franz Gans, Fähnlein Fieselschweif:0.5, Gitta Gans|Gitta, Dussel Duck|Dussel, Gladstone:0.3, Gamma, Plutos Freundin Fifi|Fifi, Emil Erpel, Indiana Goof, Max|Max Goof, Pete:0.3, Scrooge McDuck|Scrooge, Huey|Dewey|Louie, Fethry Duck:0.3, Moby Duck, Ede Wolf|Ede, Kleiner Wolf|Kleiner böser Wolf, Bürgermeister von Entenhausen|Bürgermeister, Chip und Chap|Chip|Chap
+! Bugs Bunny = Bugs Bunny ist von Warner Bros., nicht aus Entenhausen.
+! Spongebob = Spongebob wohnt in Bikini Bottom.
+
+# Ein Gewürz oder Küchenkraut
+> Gewürze, Kräuter und klassische Würzmittel. Salz zählt – Ketchup nicht.
+Pfeffer:25, Salz:22, Paprika|Paprikapulver:15, Basilikum:12, Oregano:10, Zimt:10, Petersilie:9, Curry|Currypulver:8, Knoblauch:7, Rosmarin:7, Thymian:7, Schnittlauch:6, Muskat|Muskatnuss:6, Chili|Cayennepfeffer:6, Kreuzkümmel|Cumin:5, Ingwer:5, Kurkuma:5, Dill:5, Minze|Pfefferminze:4, Lorbeer|Lorbeerblatt:4, Vanille:4, Koriander:4, Nelke|Gewürznelke:4, Kümmel:3, Salbei:3, Majoran:3
+Estragon, Kerbel, Liebstöckel|Maggikraut, Bohnenkraut, Zitronenmelisse|Melisse, Borretsch, Pimpinelle, Sauerampfer, Bärlauch, Kresse, Waldmeister, Wacholder|Wacholderbeeren, Piment, Kardamom, Anis, Sternanis, Fenchelsamen|Fenchel, Bockshornklee, Senfkörner|Senf, Safran, Sumach, Zatar|Za'atar, Garam Masala, Ras el Hanout, Fünf-Gewürze-Pulver, Pul Biber, Piment d'Espelette, Szechuanpfeffer, Rosa Pfeffer|Rosa Beeren, Schwarzkümmel, Sesam, Asafoetida|Asant, Galgant, Zitronengras, Kaffirlimettenblätter|Kaffirlimette, Wasabi, Meerrettich, Lavendel, Ysop, Herbes de Provence|Kräuter der Provence, Tonkabohne, Muskatblüte|Macis, Süßholz, Selleriesalz
+! Ketchup = Ketchup ist eine Soße, kein Gewürz.
+! Maggi = Maggi ist eine Marke – nimm Liebstöckel!
+! Zucker = Zucker süßt, gilt hier aber nicht als Gewürz.
+
+# Eine Stadt in Bayern
+> Städte, Märkte und Gemeinden im Freistaat Bayern.
+München:30, Nürnberg:20, Augsburg:12, Regensburg:10, Würzburg:9, Ingolstadt:7, Bamberg:7, Passau:6, Fürth:5, Erlangen:5, Bayreuth:5, Rosenheim:5, Landshut:4, Garmisch-Partenkirchen|Garmisch:4, Kempten:4, Aschaffenburg:3, Schweinfurt:3, Rothenburg ob der Tauber|Rothenburg:3, Berchtesgaden:3, Füssen:3, Lindau:3, Coburg:3, Straubing:2, Hof:2, Neu-Ulm:2, Dachau:2, Freising:2, Altötting:2, Erding:2
+Ansbach, Amberg, Weiden|Weiden in der Oberpfalz, Memmingen, Kaufbeuren, Kaufering:0.3, Landsberg am Lech|Landsberg, Starnberg, Fürstenfeldbruck, Germering, Unterschleißheim, Garching, Ismaning, Unterhaching, Ottobrunn, Pullach, Grünwald, Gauting, Herrsching, Tegernsee, Bad Tölz, Bad Reichenhall, Traunstein, Burghausen, Wasserburg am Inn|Wasserburg, Mühldorf am Inn|Mühldorf, Neuburg an der Donau|Neuburg, Eichstätt, Weißenburg, Gunzenhausen, Dinkelsbühl, Nördlingen, Donauwörth, Dillingen, Günzburg, Krumbach, Mindelheim, Sonthofen, Oberstdorf, Immenstadt, Oberammergau, Mittenwald, Murnau, Weilheim, Penzberg, Geretsried, Wolfratshausen, Holzkirchen, Miesbach, Schliersee, Bad Aibling, Prien am Chiemsee|Prien, Chieming:0.3, Freilassing, Deggendorf, Plattling, Dingolfing, Vilsbiburg, Kelheim, Abensberg, Neumarkt|Neumarkt in der Oberpfalz, Schwandorf, Cham, Furth im Wald, Zwiesel, Bodenmais, Bayerisch Eisenstein, Grafenau, Freyung, Vilshofen, Pfarrkirchen, Eggenfelden, Kulmbach, Lichtenfels, Kronach, Forchheim, Herzogenaurach, Schwabach, Roth, Lauf an der Pegnitz|Lauf, Hersbruck, Zirndorf, Stein, Oberasbach, Neustadt an der Aisch, Bad Windsheim, Kitzingen, Ochsenfurt, Marktheidenfeld, Lohr am Main|Lohr, Miltenberg, Amorbach, Bad Kissingen, Hammelburg, Haßfurt, Ebern, Selb, Marktredwitz, Wunsiedel, Tirschenreuth, Waldsassen, Sulzbach-Rosenberg, Pegnitz, Gräfenberg, Höchstadt
+! Salzburg = Salzburg liegt in Österreich – auch wenn’s nah ist.
+! Ulm = Ulm liegt in Baden-Württemberg – Neu-Ulm wäre bayerisch!
+! Allgäu = Das Allgäu ist eine Region.
+
+# Ein deutscher Raumfahrer
+> Deutsche Astronautinnen und Astronauten, die im All waren – Ost und West.
+Alexander Gerst|Gerst:35, Sigmund Jähn|Jähn:15, Matthias Maurer|Maurer:12, Thomas Reiter|Reiter:8, Ulf Merbold|Merbold:6, Ulrich Walter|Walter:5, Hans Schlegel|Schlegel:3, Reinhard Furrer|Furrer:3, Ernst Messerschmid|Messerschmid:3, Klaus-Dietrich Flade|Flade:2, Reinhold Ewald|Ewald:2, Gerhard Thiele|Thiele:2, Rabea Rogge|Rogge:2
+! Neil Armstrong = Armstrong war US-Amerikaner.
+! Juri Gagarin = Gagarin war sowjetischer Kosmonaut.
+! Insa Thiele-Eich = Insa Thiele-Eich ist ausgebildet, war aber (noch) nicht im All.
+
+# Eine Automarke
+> Pkw-Marken aus aller Welt, aktuelle und ehemalige.
+Volkswagen|VW:22, BMW:20, Mercedes-Benz|Mercedes:20, Audi:15, Porsche:10, Opel:8, Tesla:8, Ford:8, Toyota:7, Ferrari:7, Fiat:5, Renault:5, Peugeot:5, Skoda|Škoda:5, Seat:4, Lamborghini:4, Volvo:4, Hyundai:4, Kia:4, Mazda:3, Honda:3, Nissan:3, Citroën|Citroen:3, Dacia:3, Mini:3, Jeep:2, Bugatti:2, Bentley:2, Rolls-Royce:2, Aston Martin:2, Maserati:2, Alfa Romeo:2, Lada:2, Trabant|Trabi:2
+Chevrolet, Cadillac, Dodge, Chrysler, Lincoln, Buick, GMC, Ram, Pontiac, Hummer, Lexus, Infiniti, Acura, Subaru, Suzuki, Mitsubishi, Daihatsu, Isuzu, Genesis, SsangYong, BYD, Nio, Xpeng, Geely, Polestar, MG, Lotus, Jaguar, Land Rover, Range Rover, McLaren, Rover, Morgan, Lancia, Abarth, Pagani, Smart, Maybach, Cupra, DS, Alpine, Koenigsegg, Rimac, Wartburg, Borgward, Moskwitsch, Saab, Tata, Mahindra, Proton, Holden, Lucid, Rivian, Fisker, Lynk & Co|Lynk, Zastava, Yugo, Tatra, Daewoo, Spyker, Wiesmann, Artega, Ora, Leapmotor, Aiways, Microlino, Togg, Alpina, Brabus, Seres, Hongqi, Chery, Great Wall, Omoda
+! Harley-Davidson = Harley baut Motorräder.
+! MAN = MAN baut Lkw und Busse.
+! Ducati = Ducati baut Motorräder.

@@ -1,0 +1,63 @@
+@ 2026-11-20
+
+# Ein Gemüse
+> Gemüse im Sinne der Küche – auch Hülsenfrüchte und Pilze zählen.
+Karotte|Möhre|Mohrrübe|Gelbe Rübe|Karotten:25, Tomate|Paradeiser:18, Gurke:15, Brokkoli|Broccoli:12, Paprika:12, Kartoffel|Erdapfel:10, Zucchini:8, Blumenkohl|Karfiol:8, Zwiebel:8, Salat|Kopfsalat:7, Spinat:6, Erbse|Erbsen:6, Aubergine|Melanzani:5, Kohlrabi:5, Spargel:5, Kürbis:5, Lauch|Porree:4, Rosenkohl:4, Mais:4, Bohne|Bohnen|Grüne Bohnen:4, Radieschen:3, Rotkohl|Blaukraut|Rotkraut:3, Sellerie:3, Knoblauch:3
+Weißkohl|Weißkraut, Grünkohl, Wirsing, Spitzkohl, Chinakohl, Pak Choi, Mangold, Rucola|Rauke, Feldsalat|Rapunzel, Eisbergsalat, Endivie, Chicorée, Radicchio, Fenchel, Artischocke, Okra, Pastinake, Petersilienwurzel, Schwarzwurzel, Topinambur, Steckrübe, Rote Bete|Rote Rübe, Rettich, Meerrettich|Kren, Ingwer, Süßkartoffel, Yamswurzel, Maniok|Cassava, Linsen|Linse, Kichererbse|Kichererbsen, Kidneybohne, Sojabohne|Edamame, Zuckerschote, Saubohne|Dicke Bohne, Pilz|Champignon, Pfifferling, Steinpilz, Shiitake, Frühlingszwiebel|Lauchzwiebel, Schalotte, Bärlauch, Peperoni, Chili, Jalapeño, Gemüsepaprika, Romanesco, Kresse, Brunnenkresse, Stangensellerie|Staudensellerie, Knollensellerie, Navette|Mairübe, Teltower Rübchen, Butternut, Hokkaido, Spaghettikürbis, Kohl, Rhabarber
+! Apfel = Ein Apfel ist Obst.
+! Banane = Eine Banane ist Obst.
+! Pommes = Pommes sind Kartoffeln im Ausgehoutfit.
+
+# Eine Hauptstadt in Europa
+> Hauptstädte aller europäischen Staaten (inkl. Russland, Türkei, Kaukasus und Zypern).
+Berlin:30, Paris:25, Rom:18, London:18, Madrid:15, Wien:14, Amsterdam:8, Prag:8, Warschau:7, Brüssel:7, Lissabon:6, Athen:6, Bern:5, Kopenhagen:5, Stockholm:5, Oslo:5, Budapest:5, Moskau:4, Dublin:4, Helsinki:4, Zagreb:3, Kiew|Kyjiw:3, Belgrad:3, Bukarest:3, Sofia:3, Luxemburg:3
+Ljubljana|Laibach, Bratislava|Pressburg, Sarajevo, Podgorica, Skopje, Tirana, Chișinău|Chisinau, Minsk, Vilnius|Wilna, Riga, Tallinn|Reval, Reykjavík|Reykjavik, Valletta, Nikosia|Nicosia, Andorra la Vella, Monaco, San Marino, Vaduz, Vatikanstadt|Vatikan, Ankara, Tiflis|Tbilissi, Jerewan, Baku, Pristina, Edinburgh:0.5, Cardiff:0.3, Belfast:0.3
+! Istanbul = Istanbul ist groß, aber die Hauptstadt der Türkei ist Ankara.
+! Genf = Die Schweiz hat Bern als Bundesstadt.
+! Zürich = Die Schweiz hat Bern als Bundesstadt.
+! Bonn = Bonn war mal Hauptstadt – bis 1990.
+! Barcelona = Barcelona ist Hauptstadt Kataloniens, aber nicht Spaniens.
+
+# Ein deutsches Wort im Englischen
+> Deutsche Wörter, die so (oder fast so) im englischen Wortschatz stehen. Quelle: Oxford English Dictionary.
+Kindergarten:25, Angst:15, Zeitgeist:10, Wanderlust:9, Schadenfreude:9, Doppelgänger|Doppelganger:8, Gesundheit:8, Kitsch:6, Poltergeist:6, Rucksack:6, Hinterland:4, Wunderkind:4, Ersatz:4, Wiener|Wiener Schnitzel:3, Bratwurst:4, Sauerkraut:5, Pretzel|Brezel:4, Delicatessen|Feinkost:3, Diesel:3, Glockenspiel:2, Autobahn:4, Fahrvergnügen:2, Fest:2, Gemütlichkeit:3, Lederhosen|Lederhose:3
+Hamster, Strudel, Pumpernickel, Schnapps|Schnaps, Lager, Hamburger, Frankfurter, Muesli|Müsli, Quark, Kohlrabi, Noodle|Nudel, Pils, Bildungsroman, Leitmotiv|Leitmotif, Gestalt, Weltanschauung, Weltschmerz, Zeitgeber, Ostpolitik, Realpolitik, Kaputt, Verboten, Spiel, Abseil|abseilen, Dachshund, Rottweiler, Poodle|Pudel, Waltz|Walzer, Polka, Edelweiss|Edelweiß, Biergarten, Oktoberfest, Glühwein, Stollen, Lebkuchen, Spritzer, Wurst, Schnitzel, Bauhaus, Doppelbock, Ablaut, Umlaut, Zeppelin, U-Boot|U-boat, Kaiser, Diktat, Kobold, Nickel, Quartz|Quarz, Zinc|Zink, Cobalt|Kobalt, Feldspar|Feldspat, Gneiss|Gneis, Loess|Löss, Firn, Wanderjahr, Wunderbar, Achtung, Fingerspitzengefühl, Torschlusspanik, Sitzfleisch, Fernweh, Heimat, Gedankenexperiment, Eigenvalue|Eigenwert, Ansatz, Hausfrau, Kaffeeklatsch|Klatsch, Schuss, Langlauf
+! Handy = „Handy“ ist ein Scheinanglizismus – Engländer sagen „mobile phone“.
+! Beamer = „Beamer“ ist ein Scheinanglizismus – im Englischen heißt das „projector“.
+! Oldtimer = „Oldtimer“ ist ein Scheinanglizismus.
+
+# Eine Wurstsorte
+> Jede Wurstsorte – roh, gebrüht, gekocht, aus Deutschland oder anderswo.
+Bratwurst:25, Currywurst:18, Weißwurst:14, Wiener|Wiener Würstchen|Frankfurter:12, Salami:12, Leberwurst:10, Bockwurst:10, Blutwurst|Rotwurst:7, Mettwurst|Teewurst:6, Thüringer Rostbratwurst|Thüringer:6, Nürnberger|Nürnberger Rostbratwurst:6, Fleischwurst|Lyoner:6, Krakauer:4, Cervelat|Zervelatwurst:3, Bierwurst:3, Jagdwurst:3, Landjäger:3, Pfälzer:2, Debrecziner|Debreziner:2, Käsekrainer|Krainer:2, Knacker|Knackwurst:3
+Leberkäse|Fleischkäse:1, Regensburger, Gelbwurst|Hirnwurst, Bregenwurst|Brägenwurst, Pinkel|Pinkelwurst, Kohlwurst, Grützwurst, Stracke|Ahle Wurscht, Mortadella, Chorizo, Merguez, Kabanos|Kabanossi, Chipolata, Sucuk, Bierschinken, Schinkenwurst, Zungenwurst, Sülzwurst, Presskopf|Presssack, Schwartenmagen, Plockwurst, Peitschenstecken|Peitschenstecker, Wollwurst, Stadtwurst, Polnische, Kochwurst, Rauchwurst, Rindswurst, Geflügelwurst, Pfefferbeißer, Salsiccia, Andouille, Boudin, Hirtenwurst, Weißer Presssack, Schüblig|Schübling, Kalbsbratwurst, Grillwurst, Rote Wurst, Coburger Bratwurst|Coburger, Sonneberger, Lungenwurst, Frankfurter Rindswurst, Bauernwurst
+! Tofu = Tofu-Wurst? Mutig – zählt aber nicht.
+
+# Eine Figur aus „Harry Potter“
+> Personen, Geister und Tiere aus Büchern und Filmen. Vor- oder Nachname reicht.
+Harry Potter|Harry:30, Hermine Granger|Hermine|Hermione:22, Ron Weasley|Ron:18, Dumbledore|Albus Dumbledore:15, Voldemort|Lord Voldemort|Tom Riddle:14, Snape|Severus Snape:12, Hagrid:12, Draco Malfoy|Draco|Malfoy:10, Dobby:8, Sirius Black|Sirius:6, McGonagall|Minerva McGonagall:5, Hedwig:5, Ginny Weasley|Ginny:4, Neville Longbottom|Neville:4, Luna Lovegood|Luna:4, Bellatrix Lestrange|Bellatrix:3, Dolores Umbridge|Umbridge:3, Lupin|Remus Lupin:3, Fred Weasley|Fred:3, George Weasley|George:3
+Molly Weasley|Molly, Arthur Weasley|Arthur, Percy Weasley|Percy, Bill Weasley|Bill, Charlie Weasley|Charlie, Lucius Malfoy|Lucius, Narzissa Malfoy|Narcissa, Peter Pettigrew|Wurmschwanz|Pettigrew, Cedric Diggory|Cedric, Cho Chang|Cho, Seamus Finnigan|Seamus, Dean Thomas, Lavender Brown, Oliver Wood, Gilderoy Lockhart|Lockhart, Quirrell, Slughorn|Horace Slughorn, Moody|Mad-Eye Moody|Alastor Moody, Tonks|Nymphadora Tonks, Kingsley Shacklebolt|Kingsley, Filch|Argus Filch, Mrs. Norris, Madam Pomfrey|Pomfrey, Madam Hooch, Professor Sprout|Sprout, Flitwick, Trelawney|Sybill Trelawney, Binns, Fawkes, Krummbein|Crookshanks, Scabbers|Krätze, Nagini, Seidenschnabel|Buckbeak, Fluffy, Aragog, Kreacher|Kreacher, Winky, Dudley Dursley|Dudley, Vernon Dursley|Vernon, Petunia Dursley|Petunia, Lily Potter|Lily, James Potter|James, Fleur Delacour|Fleur, Viktor Krum|Krum, Cornelius Fudge|Fudge, Rita Kimmkorn|Rita Skeeter, Grindelwald|Gellert Grindelwald, Fenrir Greyback, Crabbe, Goyle, Pansy Parkinson, Blaise Zabini, Maulende Myrte|Myrte|Moaning Myrtle, Fast Kopfloser Nick|Nick, Peeves, Der Fette Mönch, Die Graue Dame, Der Blutige Baron, Ollivander, Aberforth Dumbledore|Aberforth, Griphook, Dennis Creevey, Colin Creevey, Ernie Macmillan, Hannah Abbott, Susan Bones, Bartemius Crouch|Barty Crouch, Ludo Bagman, Xenophilius Lovegood, Teddy Lupin, Scorpius Malfoy, Albus Severus Potter, Hugo, Rose Weasley, Hufflepuff|Helga Hufflepuff, Ravenclaw|Rowena Ravenclaw, Gryffindor|Godric Gryffindor, Slytherin|Salazar Slytherin
+! Gandalf = Gandalf ist aus „Der Herr der Ringe“.
+! Frodo = Falsches Universum – Frodo ist aus Mittelerde.
+
+# Ein Ort in Brandenburg
+> Städte, Gemeinden und bekannte Ortsteile im Land Brandenburg. Berlin zählt nicht!
+Potsdam:25, Cottbus:15, Frankfurt (Oder)|Frankfurt Oder|Frankfurt an der Oder:12, Brandenburg an der Havel|Brandenburg:10, Oranienburg:8, Falkensee:7, Bernau|Bernau bei Berlin:6, Eberswalde:6, Königs Wusterhausen:5, Schönefeld:5, Neuruppin:5, Fürstenwalde:4, Strausberg:4, Senftenberg:4, Schwedt|Schwedt/Oder:4, Ludwigsfelde:3, Hennigsdorf:3, Teltow:3, Kleinmachnow:3, Werder|Werder (Havel):3, Rathenow:3, Luckenwalde:3, Prenzlau:3, Lübbenau:3, Lübben:3, Spremberg:2, Guben:2, Forst|Forst (Lausitz):2
+Hohen Neuendorf, Stahnsdorf, Nauen, Panketal, Wandlitz, Velten, Birkenwerder, Glienicke|Glienicke/Nordbahn, Mühlenbecker Land, Zeuthen, Eichwalde, Wildau, Schulzendorf, Blankenfelde-Mahlow|Blankenfelde|Mahlow, Rangsdorf, Zossen, Wünsdorf, Jüterbog, Trebbin, Beelitz, Michendorf, Schwielowsee, Caputh, Bad Belzig|Belzig, Treuenbrietzen, Wiesenburg, Premnitz, Kloster Lehnin, Ketzin, Dallgow-Döberitz|Dallgow, Wustermark, Brieselang, Schönwalde-Glien|Schönwalde, Kremmen, Fehrbellin, Rheinsberg, Wittstock|Wittstock/Dosse, Kyritz, Wusterhausen, Neustadt (Dosse), Pritzwalk, Perleberg, Wittenberge, Bad Wilsnack, Lenzen, Templin, Angermünde, Schorfheide, Joachimsthal, Zehdenick, Gransee, Fürstenberg|Fürstenberg/Havel, Lychen, Boitzenburg, Eisenhüttenstadt, Beeskow, Storkow, Erkner, Grünheide, Woltersdorf, Schöneiche, Rüdersdorf, Neuenhagen, Hoppegarten, Petershagen/Eggersdorf|Petershagen, Fredersdorf-Vogelsdorf|Fredersdorf, Altlandsberg, Müncheberg, Seelow, Bad Freienwalde, Wriezen, Letschin, Buckow, Bad Saarow, Calau, Vetschau, Finsterwalde, Doberlug-Kirchhain, Herzberg|Herzberg (Elster), Bad Liebenwerda, Elsterwerda, Lauchhammer, Schwarzheide, Großräschen, Ruhland, Burg|Burg (Spreewald), Peitz, Drebkau, Welzow, Döbern, Luckau, Golßen, Dahme|Dahme/Mark, Baruth|Baruth/Mark, Mittenwalde, Bestensee, Märkisch Buchholz, Friesack, Rhinow, Biesenthal, Werneuchen, Oderberg, Gartz, Gramzow, Brüssow, Lieberose, Ortrand, Mühlberg, Uebigau-Wahrenbrück, Sonnewalde, Kolkwitz, Neuhausen/Spree, Schwielochsee, Friedland, Neuzelle, Müllrose, Briesen, Großbeeren, Nuthetal, Seddiner See, Groß Kreutz, Liebenwalde, Oberkrämer, Löwenberger Land, Leegebruch, Mühlenberge, Nennhausen, Milower Land, Havelaue
+! Berlin = Berlin ist von Brandenburg umzingelt, gehört aber nicht dazu.
+! Frankfurt am Main = Falsches Frankfurt – gesucht ist das an der Oder.
+! Spreewald = Der Spreewald ist eine Region – nimm einen Ort, z. B. Lübbenau.
+
+# Ein Edelstein oder Schmuckstein
+> Edel- und Schmucksteine, auch organische wie Bernstein und Perle.
+Diamant:25, Rubin:18, Smaragd:15, Saphir:14, Amethyst:8, Bernstein:7, Perle:6, Topas:6, Opal:6, Aquamarin:5, Bergkristall:4, Jade:4, Türkis:4, Granat:4, Onyx:3, Lapislazuli:3, Achat:3, Rosenquarz:3, Citrin:2
+Peridot|Olivin, Tansanit, Turmalin, Spinell, Alexandrit, Mondstein, Malachit, Tigerauge, Jaspis, Karneol, Obsidian, Hämatit, Chalcedon, Rauchquarz, Sodalith, Labradorit, Morganit, Zirkon, Koralle, Heliodor, Beryll, Chrysopras, Aventurin, Amazonit, Rhodochrosit, Fluorit, Kunzit, Iolith, Tsavorit, Tigereisen, Larimar, Charoit, Sugilith, Rubellit, Indigolith, Chrysoberyll, Katzenauge, Falkenauge, Moosachat, Blutstein, Feueropal, Ametrin, Prasiolith, Demantoid
+! Gold = Gold ist ein Edelmetall, kein Edelstein.
+! Kristall = Bergkristall zählt – „Kristall“ allein ist zu allgemein.
+! Swarovski = Swarovski-Kristalle sind geschliffenes Glas.
+
+# Ein Brett- oder Kartenspiel
+> Brettspiele, Kartenspiele, Würfelspiele – Klassiker und Moderne. Videospiele zählen nicht.
+Monopoly:25, Mensch ärgere Dich nicht|Mensch ärgere dich nicht:22, Schach:18, Uno:15, Skat:10, Catan|Die Siedler von Catan|Siedler:10, Scrabble:8, Mau-Mau|Mau Mau:7, Kniffel|Yahtzee:7, Dame:6, Poker:6, Doppelkopf:5, Activity:4, Tabu:4, Risiko:4, Halma:4, Memory:4, Rommé|Rommee:4, Cluedo:3, Mühle:3, Backgammon:3, Phase 10:3, Carcassonne:3, Schafkopf:3, Solitär|Patience:2, Quartett:2, Schwarzer Peter:2
+Go, Mikado, Dominostein|Domino, Stadt Land Fluss, Spiel des Lebens, Malefiz, Fang den Hut, Labyrinth|Das verrückte Labyrinth, Sagaland, Hase und Igel, Scotland Yard, Trivial Pursuit, Pictionary, Dixit, Codenames, Wizard, Skip-Bo, Ligretto, Dobble, Exploding Kittens, Kakerlakenpoker, Bohnanza, Ticket to Ride|Zug um Zug, Azul, Wingspan|Flügelschlag, Agricola, Puerto Rico, Dominion, 7 Wonders, Pandemie|Pandemic, Kingdomino, Splendor, Qwirkle, Rummikub, Blokus, Stratego, Vier gewinnt, Schiffe versenken, Jenga, Twister, Spitz pass auf, Tempo kleine Schnecke, Obstgarten, Elfer raus, Watten, Jass|Jassen, Tarock, Bridge, Canasta, Black Jack|Blackjack, Schnapsen, Binokel, Gaigel, Durak, Schwimmen|31, Quixx|Qwixx, Heckmeck, Kuhhandel, Werwolf|Die Werwölfe von Düsterwald, Mafia, Wikinger Schach|Kubb, Pachisi, Ludo, Parcheesi, Mahjong
+! Fortnite = Videospiele zählen nicht.
+! Minecraft = Videospiele zählen nicht.

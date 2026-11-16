@@ -1,0 +1,3973 @@
+{
+ "date": "2026-11-20",
+ "route": "hamburg-frankfurt",
+ "categories": [
+  {
+   "q": "Ein Gemüse",
+   "x": "Gemüse im Sinne der Küche – auch Hülsenfrüchte und Pilze zählen.",
+   "answers": [
+    {
+     "name": "Karotte",
+     "aliases": [
+      "Möhre",
+      "Mohrrübe",
+      "Gelbe Rübe",
+      "Karotten"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "Tomate",
+     "aliases": [
+      "Paradeiser"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "Gurke",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Brokkoli",
+     "aliases": [
+      "Broccoli"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Paprika",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Kartoffel",
+     "aliases": [
+      "Erdapfel"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Zucchini",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Blumenkohl",
+     "aliases": [
+      "Karfiol"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Zwiebel",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Salat",
+     "aliases": [
+      "Kopfsalat"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Spinat",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Erbse",
+     "aliases": [
+      "Erbsen"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Aubergine",
+     "aliases": [
+      "Melanzani"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Kohlrabi",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Spargel",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Kürbis",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Lauch",
+     "aliases": [
+      "Porree"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Rosenkohl",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Mais",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Bohne",
+     "aliases": [
+      "Bohnen",
+      "Grüne Bohnen"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Radieschen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rotkohl",
+     "aliases": [
+      "Blaukraut",
+      "Rotkraut"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Sellerie",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Knoblauch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Weißkohl",
+     "aliases": [
+      "Weißkraut"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Grünkohl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wirsing",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spitzkohl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chinakohl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pak Choi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mangold",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rucola",
+     "aliases": [
+      "Rauke"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Feldsalat",
+     "aliases": [
+      "Rapunzel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Eisbergsalat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Endivie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chicorée",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Radicchio",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fenchel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Artischocke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Okra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pastinake",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Petersilienwurzel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwarzwurzel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Topinambur",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Steckrübe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rote Bete",
+     "aliases": [
+      "Rote Rübe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rettich",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Meerrettich",
+     "aliases": [
+      "Kren"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ingwer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Süßkartoffel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Yamswurzel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maniok",
+     "aliases": [
+      "Cassava"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Linsen",
+     "aliases": [
+      "Linse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kichererbse",
+     "aliases": [
+      "Kichererbsen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kidneybohne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sojabohne",
+     "aliases": [
+      "Edamame"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Zuckerschote",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saubohne",
+     "aliases": [
+      "Dicke Bohne"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pilz",
+     "aliases": [
+      "Champignon"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pfifferling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Steinpilz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Shiitake",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Frühlingszwiebel",
+     "aliases": [
+      "Lauchzwiebel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schalotte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bärlauch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Peperoni",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chili",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jalapeño",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gemüsepaprika",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Romanesco",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kresse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brunnenkresse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stangensellerie",
+     "aliases": [
+      "Staudensellerie"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Knollensellerie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Navette",
+     "aliases": [
+      "Mairübe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Teltower Rübchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Butternut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hokkaido",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spaghettikürbis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kohl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rhabarber",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Apfel": "Ein Apfel ist Obst.",
+    "Banane": "Eine Banane ist Obst.",
+    "Pommes": "Pommes sind Kartoffeln im Ausgehoutfit."
+   }
+  },
+  {
+   "q": "Eine Hauptstadt in Europa",
+   "x": "Hauptstädte aller europäischen Staaten (inkl. Russland, Türkei, Kaukasus und Zypern).",
+   "answers": [
+    {
+     "name": "Berlin",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Paris",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Rom",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "London",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Madrid",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Wien",
+     "aliases": [],
+     "prior": 14
+    },
+    {
+     "name": "Amsterdam",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Prag",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Warschau",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Brüssel",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Lissabon",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Athen",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Bern",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Kopenhagen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Stockholm",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Oslo",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Budapest",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Moskau",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Dublin",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Helsinki",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Zagreb",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kiew",
+     "aliases": [
+      "Kyjiw"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Belgrad",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Bukarest",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Sofia",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Luxemburg",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Ljubljana",
+     "aliases": [
+      "Laibach"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bratislava",
+     "aliases": [
+      "Pressburg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sarajevo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Podgorica",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Skopje",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tirana",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chișinău",
+     "aliases": [
+      "Chisinau"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Minsk",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vilnius",
+     "aliases": [
+      "Wilna"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Riga",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tallinn",
+     "aliases": [
+      "Reval"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Reykjavík",
+     "aliases": [
+      "Reykjavik"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Valletta",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nikosia",
+     "aliases": [
+      "Nicosia"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Andorra la Vella",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Monaco",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "San Marino",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vaduz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vatikanstadt",
+     "aliases": [
+      "Vatikan"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ankara",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tiflis",
+     "aliases": [
+      "Tbilissi"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Jerewan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Baku",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pristina",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Edinburgh",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Cardiff",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Belfast",
+     "aliases": [],
+     "prior": 0.3
+    }
+   ],
+   "hints": {
+    "Istanbul": "Istanbul ist groß, aber die Hauptstadt der Türkei ist Ankara.",
+    "Genf": "Die Schweiz hat Bern als Bundesstadt.",
+    "Zürich": "Die Schweiz hat Bern als Bundesstadt.",
+    "Bonn": "Bonn war mal Hauptstadt – bis 1990.",
+    "Barcelona": "Barcelona ist Hauptstadt Kataloniens, aber nicht Spaniens."
+   }
+  },
+  {
+   "q": "Ein deutsches Wort im Englischen",
+   "x": "Deutsche Wörter, die so (oder fast so) im englischen Wortschatz stehen. Quelle: Oxford English Dictionary.",
+   "answers": [
+    {
+     "name": "Kindergarten",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Angst",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Zeitgeist",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Wanderlust",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Schadenfreude",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Doppelgänger",
+     "aliases": [
+      "Doppelganger"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Gesundheit",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Kitsch",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Poltergeist",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Rucksack",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Hinterland",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Wunderkind",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Ersatz",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Wiener",
+     "aliases": [
+      "Wiener Schnitzel"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Bratwurst",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Sauerkraut",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Pretzel",
+     "aliases": [
+      "Brezel"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Delicatessen",
+     "aliases": [
+      "Feinkost"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Diesel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Glockenspiel",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Autobahn",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Fahrvergnügen",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Fest",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Gemütlichkeit",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Lederhosen",
+     "aliases": [
+      "Lederhose"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Hamster",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Strudel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pumpernickel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schnapps",
+     "aliases": [
+      "Schnaps"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lager",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hamburger",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Frankfurter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Muesli",
+     "aliases": [
+      "Müsli"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Quark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kohlrabi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Noodle",
+     "aliases": [
+      "Nudel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pils",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bildungsroman",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leitmotiv",
+     "aliases": [
+      "Leitmotif"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gestalt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weltanschauung",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weltschmerz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zeitgeber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ostpolitik",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Realpolitik",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaputt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Verboten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spiel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Abseil",
+     "aliases": [
+      "abseilen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Dachshund",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rottweiler",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Poodle",
+     "aliases": [
+      "Pudel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Waltz",
+     "aliases": [
+      "Walzer"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Polka",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Edelweiss",
+     "aliases": [
+      "Edelweiß"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Biergarten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oktoberfest",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glühwein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stollen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lebkuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spritzer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schnitzel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bauhaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Doppelbock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ablaut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Umlaut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zeppelin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "U-Boot",
+     "aliases": [
+      "U-boat"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kaiser",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Diktat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kobold",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nickel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quartz",
+     "aliases": [
+      "Quarz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Zinc",
+     "aliases": [
+      "Zink"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Cobalt",
+     "aliases": [
+      "Kobalt"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Feldspar",
+     "aliases": [
+      "Feldspat"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gneiss",
+     "aliases": [
+      "Gneis"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Loess",
+     "aliases": [
+      "Löss"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Firn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wanderjahr",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wunderbar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Achtung",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fingerspitzengefühl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Torschlusspanik",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sitzfleisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fernweh",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heimat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gedankenexperiment",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eigenvalue",
+     "aliases": [
+      "Eigenwert"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ansatz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hausfrau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaffeeklatsch",
+     "aliases": [
+      "Klatsch"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schuss",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Langlauf",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Handy": "„Handy“ ist ein Scheinanglizismus – Engländer sagen „mobile phone“.",
+    "Beamer": "„Beamer“ ist ein Scheinanglizismus – im Englischen heißt das „projector“.",
+    "Oldtimer": "„Oldtimer“ ist ein Scheinanglizismus."
+   }
+  },
+  {
+   "q": "Eine Wurstsorte",
+   "x": "Jede Wurstsorte – roh, gebrüht, gekocht, aus Deutschland oder anderswo.",
+   "answers": [
+    {
+     "name": "Bratwurst",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Currywurst",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Weißwurst",
+     "aliases": [],
+     "prior": 14
+    },
+    {
+     "name": "Wiener",
+     "aliases": [
+      "Wiener Würstchen",
+      "Frankfurter"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Salami",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Leberwurst",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Bockwurst",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Blutwurst",
+     "aliases": [
+      "Rotwurst"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Mettwurst",
+     "aliases": [
+      "Teewurst"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Thüringer Rostbratwurst",
+     "aliases": [
+      "Thüringer"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Nürnberger",
+     "aliases": [
+      "Nürnberger Rostbratwurst"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Fleischwurst",
+     "aliases": [
+      "Lyoner"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Krakauer",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Cervelat",
+     "aliases": [
+      "Zervelatwurst"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Bierwurst",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Jagdwurst",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Landjäger",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pfälzer",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Debrecziner",
+     "aliases": [
+      "Debreziner"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Käsekrainer",
+     "aliases": [
+      "Krainer"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Knacker",
+     "aliases": [
+      "Knackwurst"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Leberkäse",
+     "aliases": [
+      "Fleischkäse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Regensburger",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gelbwurst",
+     "aliases": [
+      "Hirnwurst"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bregenwurst",
+     "aliases": [
+      "Brägenwurst"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pinkel",
+     "aliases": [
+      "Pinkelwurst"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kohlwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grützwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stracke",
+     "aliases": [
+      "Ahle Wurscht"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mortadella",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chorizo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Merguez",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kabanos",
+     "aliases": [
+      "Kabanossi"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Chipolata",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sucuk",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bierschinken",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schinkenwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zungenwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sülzwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Presskopf",
+     "aliases": [
+      "Presssack"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schwartenmagen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plockwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Peitschenstecken",
+     "aliases": [
+      "Peitschenstecker"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wollwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stadtwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Polnische",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kochwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rauchwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rindswurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Geflügelwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfefferbeißer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Salsiccia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Andouille",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Boudin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hirtenwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weißer Presssack",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schüblig",
+     "aliases": [
+      "Schübling"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kalbsbratwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grillwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rote Wurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Coburger Bratwurst",
+     "aliases": [
+      "Coburger"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sonneberger",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lungenwurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Frankfurter Rindswurst",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bauernwurst",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Tofu": "Tofu-Wurst? Mutig – zählt aber nicht."
+   }
+  },
+  {
+   "q": "Eine Figur aus „Harry Potter“",
+   "x": "Personen, Geister und Tiere aus Büchern und Filmen. Vor- oder Nachname reicht.",
+   "answers": [
+    {
+     "name": "Harry Potter",
+     "aliases": [
+      "Harry"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Hermine Granger",
+     "aliases": [
+      "Hermine",
+      "Hermione"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Ron Weasley",
+     "aliases": [
+      "Ron"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "Dumbledore",
+     "aliases": [
+      "Albus Dumbledore"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Voldemort",
+     "aliases": [
+      "Lord Voldemort",
+      "Tom Riddle"
+     ],
+     "prior": 14
+    },
+    {
+     "name": "Snape",
+     "aliases": [
+      "Severus Snape"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Hagrid",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Draco Malfoy",
+     "aliases": [
+      "Draco",
+      "Malfoy"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Dobby",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Sirius Black",
+     "aliases": [
+      "Sirius"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "McGonagall",
+     "aliases": [
+      "Minerva McGonagall"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Hedwig",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Ginny Weasley",
+     "aliases": [
+      "Ginny"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Neville Longbottom",
+     "aliases": [
+      "Neville"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Luna Lovegood",
+     "aliases": [
+      "Luna"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Bellatrix Lestrange",
+     "aliases": [
+      "Bellatrix"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Dolores Umbridge",
+     "aliases": [
+      "Umbridge"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Lupin",
+     "aliases": [
+      "Remus Lupin"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Fred Weasley",
+     "aliases": [
+      "Fred"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "George Weasley",
+     "aliases": [
+      "George"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Molly Weasley",
+     "aliases": [
+      "Molly"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Arthur Weasley",
+     "aliases": [
+      "Arthur"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Percy Weasley",
+     "aliases": [
+      "Percy"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bill Weasley",
+     "aliases": [
+      "Bill"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Charlie Weasley",
+     "aliases": [
+      "Charlie"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lucius Malfoy",
+     "aliases": [
+      "Lucius"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Narzissa Malfoy",
+     "aliases": [
+      "Narcissa"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Peter Pettigrew",
+     "aliases": [
+      "Wurmschwanz",
+      "Pettigrew"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Cedric Diggory",
+     "aliases": [
+      "Cedric"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Cho Chang",
+     "aliases": [
+      "Cho"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Seamus Finnigan",
+     "aliases": [
+      "Seamus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Dean Thomas",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lavender Brown",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oliver Wood",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gilderoy Lockhart",
+     "aliases": [
+      "Lockhart"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Quirrell",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Slughorn",
+     "aliases": [
+      "Horace Slughorn"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Moody",
+     "aliases": [
+      "Mad-Eye Moody",
+      "Alastor Moody"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tonks",
+     "aliases": [
+      "Nymphadora Tonks"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kingsley Shacklebolt",
+     "aliases": [
+      "Kingsley"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Filch",
+     "aliases": [
+      "Argus Filch"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mrs. Norris",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Madam Pomfrey",
+     "aliases": [
+      "Pomfrey"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Madam Hooch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Professor Sprout",
+     "aliases": [
+      "Sprout"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Flitwick",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trelawney",
+     "aliases": [
+      "Sybill Trelawney"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Binns",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fawkes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Krummbein",
+     "aliases": [
+      "Crookshanks"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Scabbers",
+     "aliases": [
+      "Krätze"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Nagini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seidenschnabel",
+     "aliases": [
+      "Buckbeak"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fluffy",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aragog",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kreacher",
+     "aliases": [
+      "Kreacher"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Winky",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dudley Dursley",
+     "aliases": [
+      "Dudley"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Vernon Dursley",
+     "aliases": [
+      "Vernon"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Petunia Dursley",
+     "aliases": [
+      "Petunia"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lily Potter",
+     "aliases": [
+      "Lily"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "James Potter",
+     "aliases": [
+      "James"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fleur Delacour",
+     "aliases": [
+      "Fleur"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Viktor Krum",
+     "aliases": [
+      "Krum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Cornelius Fudge",
+     "aliases": [
+      "Fudge"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rita Kimmkorn",
+     "aliases": [
+      "Rita Skeeter"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Grindelwald",
+     "aliases": [
+      "Gellert Grindelwald"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fenrir Greyback",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Crabbe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Goyle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pansy Parkinson",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blaise Zabini",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maulende Myrte",
+     "aliases": [
+      "Myrte",
+      "Moaning Myrtle"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fast Kopfloser Nick",
+     "aliases": [
+      "Nick"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Peeves",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Fette Mönch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Graue Dame",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Blutige Baron",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ollivander",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aberforth Dumbledore",
+     "aliases": [
+      "Aberforth"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Griphook",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dennis Creevey",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Colin Creevey",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ernie Macmillan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hannah Abbott",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Susan Bones",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bartemius Crouch",
+     "aliases": [
+      "Barty Crouch"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ludo Bagman",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Xenophilius Lovegood",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Teddy Lupin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Scorpius Malfoy",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Albus Severus Potter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hugo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rose Weasley",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hufflepuff",
+     "aliases": [
+      "Helga Hufflepuff"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ravenclaw",
+     "aliases": [
+      "Rowena Ravenclaw"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gryffindor",
+     "aliases": [
+      "Godric Gryffindor"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Slytherin",
+     "aliases": [
+      "Salazar Slytherin"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Gandalf": "Gandalf ist aus „Der Herr der Ringe“.",
+    "Frodo": "Falsches Universum – Frodo ist aus Mittelerde."
+   }
+  },
+  {
+   "q": "Ein Ort in Brandenburg",
+   "x": "Städte, Gemeinden und bekannte Ortsteile im Land Brandenburg. Berlin zählt nicht!",
+   "answers": [
+    {
+     "name": "Potsdam",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Cottbus",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Frankfurt (Oder)",
+     "aliases": [
+      "Frankfurt Oder",
+      "Frankfurt an der Oder"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Brandenburg an der Havel",
+     "aliases": [
+      "Brandenburg"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Oranienburg",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Falkensee",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Bernau",
+     "aliases": [
+      "Bernau bei Berlin"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Eberswalde",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Königs Wusterhausen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Schönefeld",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Neuruppin",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Fürstenwalde",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Strausberg",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Senftenberg",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schwedt",
+     "aliases": [
+      "Schwedt/Oder"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Ludwigsfelde",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Hennigsdorf",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Teltow",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kleinmachnow",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Werder",
+     "aliases": [
+      "Werder (Havel)"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Rathenow",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Luckenwalde",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Prenzlau",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Lübbenau",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Lübben",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Spremberg",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Guben",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Forst",
+     "aliases": [
+      "Forst (Lausitz)"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Hohen Neuendorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stahnsdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nauen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Panketal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wandlitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Velten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Birkenwerder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Glienicke",
+     "aliases": [
+      "Glienicke/Nordbahn"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mühlenbecker Land",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zeuthen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eichwalde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wildau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schulzendorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blankenfelde-Mahlow",
+     "aliases": [
+      "Blankenfelde",
+      "Mahlow"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rangsdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zossen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wünsdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jüterbog",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trebbin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beelitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Michendorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwielowsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Caputh",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Belzig",
+     "aliases": [
+      "Belzig"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Treuenbrietzen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wiesenburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Premnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kloster Lehnin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ketzin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dallgow-Döberitz",
+     "aliases": [
+      "Dallgow"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wustermark",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brieselang",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schönwalde-Glien",
+     "aliases": [
+      "Schönwalde"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kremmen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fehrbellin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rheinsberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wittstock",
+     "aliases": [
+      "Wittstock/Dosse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kyritz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wusterhausen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neustadt (Dosse)",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pritzwalk",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Perleberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wittenberge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Wilsnack",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lenzen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Templin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Angermünde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schorfheide",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Joachimsthal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zehdenick",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gransee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fürstenberg",
+     "aliases": [
+      "Fürstenberg/Havel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lychen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Boitzenburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eisenhüttenstadt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beeskow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Storkow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Erkner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grünheide",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Woltersdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schöneiche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rüdersdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neuenhagen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hoppegarten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Petershagen/Eggersdorf",
+     "aliases": [
+      "Petershagen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fredersdorf-Vogelsdorf",
+     "aliases": [
+      "Fredersdorf"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Altlandsberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Müncheberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seelow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Freienwalde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wriezen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Letschin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Buckow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Saarow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Calau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vetschau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Finsterwalde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Doberlug-Kirchhain",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herzberg",
+     "aliases": [
+      "Herzberg (Elster)"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bad Liebenwerda",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elsterwerda",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lauchhammer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwarzheide",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Großräschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ruhland",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Burg",
+     "aliases": [
+      "Burg (Spreewald)"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Peitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Drebkau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Welzow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Döbern",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Luckau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Golßen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dahme",
+     "aliases": [
+      "Dahme/Mark"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Baruth",
+     "aliases": [
+      "Baruth/Mark"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mittenwalde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bestensee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Märkisch Buchholz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Friesack",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rhinow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Biesenthal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Werneuchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oderberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gartz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gramzow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brüssow",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lieberose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ortrand",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mühlberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Uebigau-Wahrenbrück",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sonnewalde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kolkwitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neuhausen/Spree",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwielochsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Friedland",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neuzelle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Müllrose",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Briesen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Großbeeren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nuthetal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seddiner See",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Groß Kreutz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Liebenwalde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oberkrämer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Löwenberger Land",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leegebruch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mühlenberge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nennhausen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Milower Land",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Havelaue",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Berlin": "Berlin ist von Brandenburg umzingelt, gehört aber nicht dazu.",
+    "Frankfurt am Main": "Falsches Frankfurt – gesucht ist das an der Oder.",
+    "Spreewald": "Der Spreewald ist eine Region – nimm einen Ort, z. B. Lübbenau."
+   }
+  },
+  {
+   "q": "Ein Edelstein oder Schmuckstein",
+   "x": "Edel- und Schmucksteine, auch organische wie Bernstein und Perle.",
+   "answers": [
+    {
+     "name": "Diamant",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Rubin",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Smaragd",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Saphir",
+     "aliases": [],
+     "prior": 14
+    },
+    {
+     "name": "Amethyst",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Bernstein",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Perle",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Topas",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Opal",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Aquamarin",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Bergkristall",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Jade",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Türkis",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Granat",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Onyx",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Lapislazuli",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Achat",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rosenquarz",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Citrin",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Peridot",
+     "aliases": [
+      "Olivin"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tansanit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Turmalin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spinell",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alexandrit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mondstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Malachit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tigerauge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jaspis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Karneol",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Obsidian",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hämatit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chalcedon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rauchquarz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sodalith",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Labradorit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Morganit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zirkon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Koralle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heliodor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beryll",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chrysopras",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aventurin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amazonit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rhodochrosit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fluorit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kunzit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Iolith",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tsavorit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tigereisen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Larimar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Charoit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sugilith",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rubellit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Indigolith",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chrysoberyll",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Katzenauge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Falkenauge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Moosachat",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blutstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Feueropal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ametrin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Prasiolith",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Demantoid",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Gold": "Gold ist ein Edelmetall, kein Edelstein.",
+    "Kristall": "Bergkristall zählt – „Kristall“ allein ist zu allgemein.",
+    "Swarovski": "Swarovski-Kristalle sind geschliffenes Glas."
+   }
+  },
+  {
+   "q": "Ein Brett- oder Kartenspiel",
+   "x": "Brettspiele, Kartenspiele, Würfelspiele – Klassiker und Moderne. Videospiele zählen nicht.",
+   "answers": [
+    {
+     "name": "Monopoly",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Mensch ärgere Dich nicht",
+     "aliases": [
+      "Mensch ärgere dich nicht"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Schach",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Uno",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Skat",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Catan",
+     "aliases": [
+      "Die Siedler von Catan",
+      "Siedler"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Scrabble",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Mau-Mau",
+     "aliases": [
+      "Mau Mau"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Kniffel",
+     "aliases": [
+      "Yahtzee"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Dame",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Poker",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Doppelkopf",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Activity",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Tabu",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Risiko",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Halma",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Memory",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Rommé",
+     "aliases": [
+      "Rommee"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Cluedo",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mühle",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Backgammon",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Phase 10",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Carcassonne",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Schafkopf",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Solitär",
+     "aliases": [
+      "Patience"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Quartett",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Schwarzer Peter",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Go",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mikado",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dominostein",
+     "aliases": [
+      "Domino"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Stadt Land Fluss",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spiel des Lebens",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Malefiz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fang den Hut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Labyrinth",
+     "aliases": [
+      "Das verrückte Labyrinth"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sagaland",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hase und Igel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Scotland Yard",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trivial Pursuit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pictionary",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dixit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Codenames",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wizard",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Skip-Bo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ligretto",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dobble",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Exploding Kittens",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kakerlakenpoker",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bohnanza",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ticket to Ride",
+     "aliases": [
+      "Zug um Zug"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Azul",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wingspan",
+     "aliases": [
+      "Flügelschlag"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Agricola",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Puerto Rico",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dominion",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "7 Wonders",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pandemie",
+     "aliases": [
+      "Pandemic"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kingdomino",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Splendor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Qwirkle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rummikub",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blokus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stratego",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vier gewinnt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schiffe versenken",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jenga",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Twister",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spitz pass auf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tempo kleine Schnecke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Obstgarten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elfer raus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Watten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jass",
+     "aliases": [
+      "Jassen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tarock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bridge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Canasta",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Black Jack",
+     "aliases": [
+      "Blackjack"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schnapsen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Binokel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gaigel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Durak",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwimmen",
+     "aliases": [
+      "31"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Quixx",
+     "aliases": [
+      "Qwixx"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Heckmeck",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kuhhandel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Werwolf",
+     "aliases": [
+      "Die Werwölfe von Düsterwald"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mafia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wikinger Schach",
+     "aliases": [
+      "Kubb"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pachisi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ludo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Parcheesi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mahjong",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Fortnite": "Videospiele zählen nicht.",
+    "Minecraft": "Videospiele zählen nicht."
+   }
+  }
+ ]
+}

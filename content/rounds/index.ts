@@ -3,5 +3,8 @@ import r0 from "./2026-11-16.json";
 import r1 from "./2026-11-17.json";
 import r2 from "./2026-11-18.json";
 import r3 from "./2026-11-19.json";
+import r4 from "./2026-11-20.json";
+import r5 from "./2026-11-21.json";
+import r6 from "./2026-11-22.json";
 
-export const ROUND_DATA = [r0, r1, r2, r3];
+export const ROUND_DATA = [r0, r1, r2, r3, r4, r5, r6];

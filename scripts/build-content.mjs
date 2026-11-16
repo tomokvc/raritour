@@ -9,7 +9,7 @@ import fs from "fs";
 import path from "path";
 
 const SRC = "content/src", OUT = "content/rounds";
-const norm = (s) => s.toLowerCase().trim().replace(/ß/g, "ss").replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue")
+const norm = (s) => s.toLowerCase().trim().replace(/ß/g, "ss").replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/\+/g, "plus").replace(/#/g, "sharp")
   .normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]/g, "");
 let errors = 0;
 const err = (f, m) => { console.error(`✗ ${f}: ${m}`); errors++; };

@@ -1,0 +1,62 @@
+@ 2026-11-21
+
+# Eine Obstsorte
+> Obst im Sinne der Küche, heimisch oder exotisch. Nüsse zählen nicht.
+Apfel:30, Banane:22, Erdbeere:15, Birne:12, Kirsche:10, Orange|Apfelsine:10, Weintraube|Traube|Trauben:8, Ananas:8, Mango:7, Kiwi:7, Pfirsich:6, Pflaume|Zwetschge|Zwetschke:6, Himbeere:6, Wassermelone|Melone:6, Zitrone:5, Heidelbeere|Blaubeere:5, Aprikose|Marille:4, Mandarine:4, Johannisbeere|Ribisel:3, Brombeere:3, Grapefruit:3, Granatapfel:3, Kokosnuss:2, Feige:2
+Nektarine, Mirabelle, Reneklode, Quitte, Stachelbeere, Preiselbeere, Cranberry|Moosbeere, Holunderbeere, Sanddornbeere|Sanddorn, Hagebutte, Maulbeere, Kaki|Sharonfrucht, Papaya, Maracuja|Passionsfrucht, Litschi, Physalis|Kapstachelbeere, Guave, Drachenfrucht|Pitahaya, Sternfrucht|Karambole, Avocado, Dattel, Limette, Clementine, Pomelo, Kumquat, Blutorange, Honigmelone, Cantaloupe, Galiamelone, Kaktusfeige, Rambutan, Mangostane, Durian, Jackfrucht, Brotfrucht, Kochbanane, Cherimoya, Pepino, Tamarillo, Kiwano, Feijoa, Jabuticaba, Aronia|Apfelbeere, Jostabeere, Goji|Gojibeere, Acai, Schlehe, Mispel, Elsbeere, Kornelkirsche, Wildkirsche, Sauerkirsche|Weichsel, Rhabarber:0.3
+! Tomate = Botanisch eine Beere – in der Küche aber Gemüse. Nimm was Süßeres!
+! Walnuss = Nüsse zählen nicht.
+! Rosine = Rosinen sind getrocknete Trauben – nimm die frische Version.
+
+# Eine Stadt in Frankreich
+> Jede französische Stadt oder Gemeinde im europäischen Frankreich.
+Paris:30, Marseille:15, Lyon:12, Nizza|Nice:10, Straßburg|Strasbourg:10, Bordeaux:8, Toulouse:7, Lille:5, Nantes:4, Cannes:5, Montpellier:4, Avignon:3, Reims:3, Metz:3, Le Mans:3, Calais:3, Colmar:3, Saint-Tropez:3, Rennes:2, Dijon:2, Grenoble:2
+Le Havre, Rouen, Caen, Cherbourg, Brest, Saint-Malo, Mont-Saint-Michel, Tours, Orléans, Blois, Amboise, Angers, Poitiers, La Rochelle, Biarritz, Bayonne, Lourdes, Pau, Perpignan, Carcassonne, Nîmes|Nimes, Arles, Aix-en-Provence, Toulon, Antibes, Menton, Saint-Raphaël, Fréjus, Grasse, Chamonix, Annecy, Chambéry, Clermont-Ferrand, Limoges, Saint-Étienne, Besançon, Mülhausen|Mulhouse, Nancy, Verdun, Amiens, Dunkerque|Dünkirchen, Boulogne-sur-Mer, Le Touquet, Deauville, Honfleur, Étretat, Versailles, Fontainebleau, Chartres, Épernay, Troyes, Sedan, Saint-Denis, Nanterre, Ajaccio, Bastia, Calvi, Bonifacio, Vichy, Cognac, Arcachon, Sète, Narbonne, Béziers, Albi, Montauban, Agen, Bergerac, Sarlat, Périgueux, Angoulême, Niort, Vannes, Lorient, Quimper, Saint-Nazaire, Laval, Évian|Évian-les-Bains, Haguenau, Saverne, Sélestat, Obernai, Wissembourg|Weißenburg, Forbach, Sarreguemines|Saargemünd, Thionville|Diedenhofen, Lunéville, Épinal, Belfort, Montbéliard, Mâcon, Beaune, Auxerre, Nevers, Bourges, Vienne, Valence, Montélimar, Orange, Gap, Briançon, Digne-les-Bains, Saint-Paul-de-Vence, Èze, Villefranche-sur-Mer
+! Monaco = Monaco ist ein eigener Stadtstaat.
+! Brüssel = Brüssel liegt in Belgien.
+! Genf = Genf liegt in der Schweiz – auch wenn man dort Französisch spricht.
+
+# Ein Wort für Hausschuhe
+> Regional, umgangssprachlich oder Hochdeutsch – Hauptsache, man trägt’s an den Füßen in der Bude.
+Hausschuhe|Hausschuh:25, Pantoffeln|Pantoffel:20, Latschen:15, Schlappen:12, Puschen|Puschel:10, Filzpantoffeln:4, Schluffen:4, Patschen:4, Finken:3, Schlarpen:3, Slipper:3, Pantoletten:2
+Schlurren, Schlorren, Badelatschen, Hauslatschen, Laatschen, Babuschen|Babouches, Puschen-Socken|Stoppersocken, Hüttenschuhe, Filzlatschen, Schlappe, Patschn, Hausschlappen, Bettschuhe, Pampuschen, Tappen, Schluppen, Pantinen, Kuschelschuhe, Hausschlapfen|Schlapfen, Hauspatschen
+! Crocs = Crocs sind Crocs – und eine Lebensentscheidung.
+! Socken = Socken sind keine Schuhe, egal wie lange man sie trägt.
+! Schlüpfer = Bitte nicht mit Hausschuhen verwechseln 😄
+
+# Ein Organ des Menschen
+> Organe im medizinischen Sinn, inklusive Haut und Sinnesorgane.
+Herz:30, Lunge:20, Leber:18, Niere:15, Gehirn|Hirn:14, Magen:10, Haut:8, Darm|Dünndarm|Dickdarm:8, Milz:6, Bauchspeicheldrüse|Pankreas:6, Galle|Gallenblase:5, Blase|Harnblase:4, Auge:4, Schilddrüse:3, Gebärmutter|Uterus:3, Blinddarm|Wurmfortsatz:3
+Speiseröhre, Luftröhre, Kehlkopf, Zunge, Ohr, Nase, Thymus, Hypophyse|Hirnanhangsdrüse, Zirbeldrüse, Nebenniere, Eierstock|Eierstöcke, Hoden, Prostata, Penis, Vagina|Scheide, Harnleiter, Harnröhre, Mandeln|Gaumenmandeln, Rückenmark, Kleinhirn, Großhirn, Zwerchfell, Zwölffingerdarm, Mastdarm|Rektum, Lymphknoten, Knochenmark, Plazenta|Mutterkuchen, Brustdrüse, Speicheldrüse, Tränendrüse, Schweißdrüse
+! Herzschrittmacher = Der zählt nicht – den hat man nicht von Natur aus.
+
+# Ein Feld beim deutschen Monopoly
+> Alle 40 Felder der klassischen deutschen Ausgabe – Straßen, Bahnhöfe, Werke und Sonderfelder.
+Schlossallee:30, Badstraße:25, Parkstraße:18, Los:10, Gefängnis|Im Gefängnis|Nur zu Besuch:10, Frei Parken:8, Gehe ins Gefängnis:6, Opernplatz:5, Turmstraße:5, Hauptbahnhof:5, Bahnhofstraße:4, Goethestraße:4, Schillerstraße:3, Elektrizitätswerk:3, Wasserwerk:3, Südbahnhof:3, Westbahnhof:2, Nordbahnhof:2, Rathausplatz:2, Hauptstraße:2
+Chausseestraße, Elisenstraße, Poststraße, Seestraße, Hafenstraße, Neue Straße, Münchner Straße|Münchener Straße, Wiener Straße, Berliner Straße, Theaterstraße, Museumstraße, Lessingstraße, Ereignisfeld, Gemeinschaftsfeld, Einkommensteuer, Zusatzsteuer
+! Boardwalk = Das ist die US-Ausgabe – bei uns heißt sie Schlossallee.
+! Hotel = Hotels baut man auf Felder – gesucht ist ein Feld.
+
+# Ein Kuchen oder eine Torte
+> Kuchen, Torten und Blechkuchen aus aller Welt.
+Käsekuchen|Käsetorte:22, Schwarzwälder Kirschtorte|Schwarzwälder Kirsch:20, Apfelkuchen:18, Marmorkuchen:12, Streuselkuchen:10, Bienenstich:9, Zitronenkuchen:7, Schokoladenkuchen|Schokokuchen:7, Erdbeerkuchen:7, Sachertorte:7, Frankfurter Kranz:6, Pflaumenkuchen|Zwetschgenkuchen|Zwetschgendatschi|Datschi:6, Rührkuchen:5, Gugelhupf|Napfkuchen:5, Donauwelle:5, Butterkuchen|Zuckerkuchen:5, Brownie|Brownies:4, Käse-Sahne-Torte:4, Linzer Torte:3, Baumkuchen:3, Rhabarberkuchen:3, Mohnkuchen:3, Russischer Zupfkuchen|Zupfkuchen:3
+Kirschkuchen, Stachelbeerkuchen, Johannisbeerkuchen, Heidelbeerkuchen, Eierschecke, Prinzregententorte, Herrentorte, Friesentorte, Holländer Kirschtorte, Esterházy-Torte, Dobostorte, Malakofftorte, Panama-Torte|Panamatorte, Nusskuchen, Möhrenkuchen|Rüblikuchen|Karottenkuchen|Carrot Cake, Fantakuchen, Kalter Hund|Kalte Schnauze, Sandkuchen, Eierlikörkuchen, Rotweinkuchen, Kokoskuchen, Mandarinen-Schmand-Kuchen|Schmandkuchen, Quarkkuchen, Christstollen|Stollen, Apfelstrudel|Strudel, Tarte Tatin, Cheesecake, Red Velvet, Pavlova, Victoria Sponge, Biskuitrolle|Biskuitroulade, Prinzessinnentorte, Spiegeleierkuchen, Kirsch-Streusel, Obstkuchen, Obsttorte, Buttercremetorte, Mohnschnitte, Bremer Klaben, Dresdner Eierschecke
+! Muffin = Ein Muffin ist (knapp) kein Kuchen im Ganzen 😉
+! Croissant = Croissant ist Gebäck, kein Kuchen.
+! Berliner = Ein Berliner ist ein Krapfen – kein Kuchen.
+
+# Eine Programmiersprache
+> Programmier-, Skript- und Abfragesprachen. HTML und CSS zählen – wir sind ja nicht kleinlich.
+Python:30, Java:20, JavaScript|JS:18, C++:12, C:10, C#|C Sharp:8, HTML:8, PHP:6, SQL:6, Swift:4, Kotlin:4, Go|Golang:4, Rust:4, TypeScript:4, Ruby:3, R:3, CSS:3, Scratch:3, Visual Basic|VBA|VB:3, Assembler|Assembly:2, MATLAB:2, Pascal|Delphi:2
+Fortran, COBOL, Perl, Lua, Haskell, Lisp, Scheme, Clojure, Prolog, Erlang, Elixir, Scala, Dart, Julia, Objective-C, Bash|Shell, PowerShell, Groovy, F#, OCaml, Smalltalk, Ada, BASIC, Logo, Brainfuck, Zig, Nim, Crystal, Solidity, Elm, Racket, Apex, ABAP, Simula, Algol, APL, Forth, Modula-2, Oberon, Eiffel, LabVIEW, Verilog, VHDL, AutoLISP:0.5, GDScript, AppleScript, CoffeeScript, Visual Basic .NET|VB.NET, Hack, Mojo
+! Excel = Excel ist eine Tabellenkalkulation – auch wenn manche darin programmieren.
+! Word = Nein. Einfach nein.
+! Linux = Linux ist ein Betriebssystem.
+
+# Ein Fußballverein aus Deutschland
+> Aktuelle oder ehemalige Profi- und Traditionsvereine aus Deutschland, egal welche Liga.
+FC Bayern München|Bayern|Bayern München|FCB:30, Borussia Dortmund|Dortmund|BVB:22, Schalke 04|Schalke|FC Schalke 04:12, Hamburger SV|HSV:10, Werder Bremen|Werder:9, Bayer Leverkusen|Leverkusen:8, 1. FC Köln|FC Köln|Köln:8, Eintracht Frankfurt|Frankfurt:7, VfB Stuttgart|Stuttgart:7, Borussia Mönchengladbach|Gladbach|Mönchengladbach:6, Hertha BSC|Hertha:6, Union Berlin|1. FC Union Berlin|Union:6, RB Leipzig|Leipzig:5, VfL Wolfsburg|Wolfsburg:4, FC St. Pauli|St. Pauli:4, SC Freiburg|Freiburg:3, 1. FC Kaiserslautern|Kaiserslautern|FCK:3, Hannover 96|Hannover:3, 1. FC Nürnberg|Nürnberg|Club:3, Fortuna Düsseldorf|Düsseldorf:3, TSG Hoffenheim|Hoffenheim:2, 1. FSV Mainz 05|Mainz|Mainz 05:2, FC Augsburg|Augsburg:2, VfL Bochum|Bochum:2, 1. FC Heidenheim|Heidenheim:2, Dynamo Dresden|Dresden:2, Hansa Rostock|Rostock:2, Karlsruher SC|KSC:2, Arminia Bielefeld|Bielefeld:2, MSV Duisburg|Duisburg:2
+1860 München|TSV 1860|Sechzig, Eintracht Braunschweig|Braunschweig, 1. FC Magdeburg|Magdeburg, Holstein Kiel|Kiel, SV Darmstadt 98|Darmstadt, SpVgg Greuther Fürth|Fürth, SC Paderborn|Paderborn, FC Energie Cottbus|Energie Cottbus|Cottbus, Erzgebirge Aue|Aue, Rot-Weiss Essen|RWE, Alemannia Aachen|Aachen, Preußen Münster|Münster, Jahn Regensburg|Regensburg, SV Sandhausen|Sandhausen, Waldhof Mannheim|Mannheim, Kickers Offenbach|Offenbach, FSV Frankfurt, Stuttgarter Kickers, SSV Ulm|Ulm, Wehen Wiesbaden|Wiesbaden, VfL Osnabrück|Osnabrück, SV Meppen|Meppen, Hallescher FC|Halle, Carl Zeiss Jena|Jena, Rot-Weiß Erfurt|Erfurt, Chemnitzer FC|Chemnitz, 1. FC Lokomotive Leipzig|Lok Leipzig, BSG Chemie Leipzig|Chemie Leipzig, BFC Dynamo, Tennis Borussia Berlin|TeBe, Viktoria Berlin, Babelsberg 03|Babelsberg, Wuppertaler SV|Wuppertal, KFC Uerdingen|Uerdingen, Rot-Weiß Oberhausen|Oberhausen, Schwarz-Weiß Essen, Fortuna Köln, Viktoria Köln, SC Verl|Verl, SV Elversberg|Elversberg, 1. FC Saarbrücken|Saarbrücken, FC Ingolstadt|Ingolstadt, SpVgg Unterhaching|Unterhaching, Würzburger Kickers, Eintracht Trier|Trier, TuS Koblenz|Koblenz, Borussia Neunkirchen, VfR Aalen, SG Wattenscheid 09|Wattenscheid, Kickers Emden, FC Homburg, Blau-Weiß 90 Berlin, Altona 93, Eintracht Norderstedt, VfB Lübeck|Lübeck, Turbine Potsdam, SGS Essen, FSV Zwickau|Zwickau, VfB Oldenburg|Oldenburg
+! Real Madrid = Real Madrid spielt in Spanien.
+! Galatasaray = Galatasaray spielt in der Türkei.
+! Hajduk Split = Hajduk spielt in Kroatien – Hajduk živi vječno, aber hier zählt’s nicht.

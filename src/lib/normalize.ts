@@ -7,6 +7,8 @@ export function norm(s: string): string {
     .replace(/ä/g, "ae")
     .replace(/ö/g, "oe")
     .replace(/ü/g, "ue")
+    .replace(/\+/g, "plus")
+    .replace(/#/g, "sharp")
     .normalize("NFD")
     .replace(/[̀-ͯ]/g, "")
     .replace(/[^a-z0-9]/g, "");

@@ -1,0 +1,3215 @@
+{
+ "date": "2026-11-22",
+ "route": "hamburg-frankfurt",
+ "categories": [
+  {
+   "q": "Ein Fisch",
+   "x": "Echte Fische – Süßwasser, Salzwasser, Speisefisch oder Aquarium. Wale und Delfine sind Säugetiere.",
+   "answers": [
+    {
+     "name": "Lachs",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Hai",
+     "aliases": [
+      "Weißer Hai"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "Thunfisch",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Forelle",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Karpfen",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Hering",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Goldfisch",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Kabeljau",
+     "aliases": [
+      "Dorsch"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Hecht",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Aal",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Zander",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Barsch",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Sardine",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Makrele",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Clownfisch",
+     "aliases": [
+      "Nemo"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Wels",
+     "aliases": [
+      "Waller"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Rochen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Seelachs",
+     "aliases": [
+      "Köhler"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Scholle",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Piranha",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schwertfisch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kugelfisch",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Guppy",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Sprotte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sardelle",
+     "aliases": [
+      "Anchovis"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Heilbutt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Steinbutt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seezunge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Flunder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rotbarsch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dorade",
+     "aliases": [
+      "Goldbrasse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wolfsbarsch",
+     "aliases": [
+      "Loup de mer"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Seeteufel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schellfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seehecht",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pangasius",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tilapia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stör",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schleie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brasse",
+     "aliases": [
+      "Brachse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rotauge",
+     "aliases": [
+      "Plötze"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rotfeder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Döbel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Barbe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Äsche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saibling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Renke",
+     "aliases": [
+      "Felchen",
+      "Maräne"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Huchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quappe",
+     "aliases": [
+      "Rutte"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Stichling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bitterling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gründling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neunauge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mondfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Feuerfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kofferfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Doktorfisch",
+     "aliases": [
+      "Paletten-Doktorfisch",
+      "Dorie"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kaiserfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Falterfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Papageifisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Barrakuda",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marlin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Segelfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bonito",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Muräne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Petersfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Knurrhahn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seepferdchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seenadel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Anglerfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Laternenfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quastenflosser",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lungenfisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zitteraal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zitterrochen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mantarochen",
+     "aliases": [
+      "Manta"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Walhai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hammerhai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tigerhai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blauhai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Katzenhai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dornhai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grönlandhai",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neon",
+     "aliases": [
+      "Neonsalmler"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Skalar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Diskus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Molly",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Platy",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwertträger",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kampffisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Black Molly",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Koi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Goldorfe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sonnenbarsch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zwergbuntbarsch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Buntbarsch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Antennenwels",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schlammspringer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fliegender Fisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hornhecht",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lodde",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stint",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Wal": "Wale sind Säugetiere.",
+    "Delfin": "Delfine sind Säugetiere.",
+    "Qualle": "Quallen sind keine Fische.",
+    "Fischstäbchen": "Fischstäbchen schwimmen leider nicht wild 🐟"
+   }
+  },
+  {
+   "q": "Ein Land in Asien",
+   "x": "Alle Staaten Asiens laut UN-Liste, inklusive Naher Osten und Kaukasus. Russland und die Türkei zählen auch.",
+   "answers": [
+    {
+     "name": "China",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Japan",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Indien",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Thailand",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Vietnam",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Südkorea",
+     "aliases": [
+      "Korea"
+     ],
+     "prior": 9
+    },
+    {
+     "name": "Indonesien",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Türkei",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Russland",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Philippinen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Nordkorea",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Pakistan",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Malaysia",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Singapur",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Saudi-Arabien",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Iran",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Israel",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Vereinigte Arabische Emirate",
+     "aliases": [
+      "VAE",
+      "Emirate"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Afghanistan",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Irak",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mongolei",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Nepal",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Sri Lanka",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kasachstan",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Bangladesch",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Kambodscha",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Taiwan",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Katar",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Laos",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Myanmar",
+     "aliases": [
+      "Birma",
+      "Burma"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bhutan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Malediven",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brunei",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Osttimor",
+     "aliases": [
+      "Timor-Leste"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Usbekistan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Turkmenistan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tadschikistan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kirgisistan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aserbaidschan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Georgien",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Armenien",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Syrien",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Libanon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jordanien",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kuwait",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bahrain",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oman",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jemen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zypern",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Dubai": "Dubai ist eine Stadt in den Vereinigten Arabischen Emiraten.",
+    "Tibet": "Tibet gehört heute zu China.",
+    "Bali": "Bali ist eine Insel in Indonesien.",
+    "Asien": "Ein Kontinent, kein Land 😉"
+   }
+  },
+  {
+   "q": "Ein Grund für Zugverspätung",
+   "x": "Typische Durchsagen und Gründe, die man am Bahnsteig wirklich hört. Kuratierte Raritour-Liste.",
+   "answers": [
+    {
+     "name": "Signalstörung",
+     "aliases": [
+      "Störung am Signal"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Weichenstörung",
+     "aliases": [
+      "Störung an der Weiche"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "Personen im Gleis",
+     "aliases": [
+      "Personen auf dem Gleis"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Verzögerung im Betriebsablauf",
+     "aliases": [
+      "Störung im Betriebsablauf"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Bauarbeiten",
+     "aliases": [
+      "Baustelle"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Notarzteinsatz am Gleis",
+     "aliases": [
+      "Notarzteinsatz",
+      "Notarzt"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Polizeieinsatz",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Technische Störung",
+     "aliases": [
+      "Störung am Zug"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Reparatur am Zug",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Verspätung aus vorheriger Fahrt",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Oberleitungsstörung",
+     "aliases": [
+      "Störung an der Oberleitung"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Streik",
+     "aliases": [
+      "Bahnstreik"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Unwetter",
+     "aliases": [
+      "Sturm",
+      "Sturmschaden"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Baum auf dem Gleis",
+     "aliases": [
+      "Baum im Gleis"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Tiere im Gleis",
+     "aliases": [
+      "Tiere auf dem Gleis"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Kuh auf dem Gleis",
+     "aliases": [
+      "Kühe im Gleis"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Personalmangel",
+     "aliases": [
+      "Fehlendes Personal"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Warten auf Anschlussreisende",
+     "aliases": [
+      "Anschlusszug"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Bahnübergangsstörung",
+     "aliases": [
+      "Störung am Bahnübergang"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Stellwerksstörung",
+     "aliases": [
+      "Störung im Stellwerk"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kabeldiebstahl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vandalismus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schnee",
+     "aliases": [
+      "Eis",
+      "Glätte"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hitze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Laub auf den Schienen",
+     "aliases": [
+      "Laub"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Überholung durch anderen Zug",
+     "aliases": [
+      "Überholung"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Vorfahrt eines anderen Zuges",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hohes Fahrgastaufkommen",
+     "aliases": [
+      "Volle Züge"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Türstörung",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Defekte Klimaanlage",
+     "aliases": [
+      "Klimaanlage"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Reinigung",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bombenentschärfung",
+     "aliases": [
+      "Fliegerbombe"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Feuerwehreinsatz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brand am Gleis",
+     "aliases": [
+      "Böschungsbrand"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Erkrankter Reisender",
+     "aliases": [
+      "Erkrankte Person"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gegenstand im Gleis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Unbefugte im Gleis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zugteilung",
+     "aliases": [
+      "Kupplung"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Umgekehrte Wagenreihung",
+     "aliases": [
+      "Wagenreihung"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Lokwechsel",
+     "aliases": [
+      "Lokführerwechsel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ersatzzug",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bremsprobe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fahrzeugstörung",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stromausfall",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bahnhofsevakuierung",
+     "aliases": [
+      "Evakuierung"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hochwasser",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gleisänderung",
+     "aliases": [
+      "Gleiswechsel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fahrplanänderung",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Kinder im Gleis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wildunfall",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rinder im Gleis",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Schienenbruch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eingeschränkte Verfügbarkeit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zugausfall",
+     "aliases": [],
+     "prior": 0.3
+    }
+   ],
+   "hints": {
+    "pünktlich": "Netter Versuch. Das wäre ja mal was.",
+    "Pünktlichkeit": "Netter Versuch."
+   }
+  },
+  {
+   "q": "Eine Figur aus Entenhausen",
+   "x": "Figuren aus den Disney-Comics und -Cartoons rund um Micky und Donald. Deutsche Namen bevorzugt.",
+   "answers": [
+    {
+     "name": "Donald Duck",
+     "aliases": [
+      "Donald"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Micky Maus",
+     "aliases": [
+      "Micky",
+      "Mickey Mouse",
+      "Mickey"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Dagobert Duck",
+     "aliases": [
+      "Dagobert",
+      "Onkel Dagobert"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "Tick",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Trick",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Track",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Goofy",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Daisy Duck",
+     "aliases": [
+      "Daisy"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Minnie Maus",
+     "aliases": [
+      "Minnie"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Pluto",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Gustav Gans",
+     "aliases": [
+      "Gustav"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Daniel Düsentrieb",
+     "aliases": [
+      "Düsentrieb"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Panzerknacker",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Kater Karlo",
+     "aliases": [
+      "Karlo"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Gundel Gaukeley",
+     "aliases": [
+      "Gundel"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Helferlein",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Klaas Klever",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Oma Duck",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kommissar Hunter",
+     "aliases": [
+      "Hunter"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rudi Ross",
+     "aliases": [
+      "Rudi"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Klarabella Kuh",
+     "aliases": [
+      "Klarabella"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mac Moneysac",
+     "aliases": [
+      "Rockerduck"
+     ],
+     "prior": 0.5
+    },
+    {
+     "name": "Phantomias",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Primus von Quack",
+     "aliases": [
+      "Primus"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Franz Gans",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fähnlein Fieselschweif",
+     "aliases": [],
+     "prior": 0.5
+    },
+    {
+     "name": "Gitta Gans",
+     "aliases": [
+      "Gitta"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Dussel Duck",
+     "aliases": [
+      "Dussel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gladstone",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Gamma",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plutos Freundin Fifi",
+     "aliases": [
+      "Fifi"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Emil Erpel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Indiana Goof",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Max",
+     "aliases": [
+      "Max Goof"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pete",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Scrooge McDuck",
+     "aliases": [
+      "Scrooge"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Huey",
+     "aliases": [
+      "Dewey",
+      "Louie"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fethry Duck",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Moby Duck",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ede Wolf",
+     "aliases": [
+      "Ede"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kleiner Wolf",
+     "aliases": [
+      "Kleiner böser Wolf"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bürgermeister von Entenhausen",
+     "aliases": [
+      "Bürgermeister"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Chip und Chap",
+     "aliases": [
+      "Chip",
+      "Chap"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Bugs Bunny": "Bugs Bunny ist von Warner Bros., nicht aus Entenhausen.",
+    "Spongebob": "Spongebob wohnt in Bikini Bottom."
+   }
+  },
+  {
+   "q": "Ein Gewürz oder Küchenkraut",
+   "x": "Gewürze, Kräuter und klassische Würzmittel. Salz zählt – Ketchup nicht.",
+   "answers": [
+    {
+     "name": "Pfeffer",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Salz",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Paprika",
+     "aliases": [
+      "Paprikapulver"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Basilikum",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Oregano",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Zimt",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Petersilie",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Curry",
+     "aliases": [
+      "Currypulver"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Knoblauch",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Rosmarin",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Thymian",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Schnittlauch",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Muskat",
+     "aliases": [
+      "Muskatnuss"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Chili",
+     "aliases": [
+      "Cayennepfeffer"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Kreuzkümmel",
+     "aliases": [
+      "Cumin"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Ingwer",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Kurkuma",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Dill",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Minze",
+     "aliases": [
+      "Pfefferminze"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Lorbeer",
+     "aliases": [
+      "Lorbeerblatt"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Vanille",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Koriander",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Nelke",
+     "aliases": [
+      "Gewürznelke"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Kümmel",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Salbei",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Majoran",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Estragon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kerbel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Liebstöckel",
+     "aliases": [
+      "Maggikraut"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bohnenkraut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zitronenmelisse",
+     "aliases": [
+      "Melisse"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Borretsch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pimpinelle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sauerampfer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bärlauch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kresse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Waldmeister",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wacholder",
+     "aliases": [
+      "Wacholderbeeren"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Piment",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kardamom",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Anis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sternanis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fenchelsamen",
+     "aliases": [
+      "Fenchel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Bockshornklee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Senfkörner",
+     "aliases": [
+      "Senf"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Safran",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sumach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zatar",
+     "aliases": [
+      "Za'atar"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Garam Masala",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ras el Hanout",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fünf-Gewürze-Pulver",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pul Biber",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Piment d'Espelette",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Szechuanpfeffer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rosa Pfeffer",
+     "aliases": [
+      "Rosa Beeren"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schwarzkümmel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sesam",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Asafoetida",
+     "aliases": [
+      "Asant"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Galgant",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zitronengras",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaffirlimettenblätter",
+     "aliases": [
+      "Kaffirlimette"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wasabi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Meerrettich",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lavendel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ysop",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herbes de Provence",
+     "aliases": [
+      "Kräuter der Provence"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Tonkabohne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Muskatblüte",
+     "aliases": [
+      "Macis"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Süßholz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Selleriesalz",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Ketchup": "Ketchup ist eine Soße, kein Gewürz.",
+    "Maggi": "Maggi ist eine Marke – nimm Liebstöckel!",
+    "Zucker": "Zucker süßt, gilt hier aber nicht als Gewürz."
+   }
+  },
+  {
+   "q": "Eine Stadt in Bayern",
+   "x": "Städte, Märkte und Gemeinden im Freistaat Bayern.",
+   "answers": [
+    {
+     "name": "München",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Nürnberg",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Augsburg",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Regensburg",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Würzburg",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Ingolstadt",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Bamberg",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Passau",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Fürth",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Erlangen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Bayreuth",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Rosenheim",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Landshut",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Garmisch-Partenkirchen",
+     "aliases": [
+      "Garmisch"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Kempten",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Aschaffenburg",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Schweinfurt",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rothenburg ob der Tauber",
+     "aliases": [
+      "Rothenburg"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Berchtesgaden",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Füssen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Lindau",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Coburg",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Straubing",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Hof",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Neu-Ulm",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Dachau",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Freising",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Altötting",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Erding",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Ansbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weiden",
+     "aliases": [
+      "Weiden in der Oberpfalz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Memmingen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaufbeuren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kaufering",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Landsberg am Lech",
+     "aliases": [
+      "Landsberg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Starnberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fürstenfeldbruck",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Germering",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Unterschleißheim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Garching",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ismaning",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Unterhaching",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ottobrunn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pullach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grünwald",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gauting",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herrsching",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tegernsee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Tölz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Reichenhall",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Traunstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Burghausen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wasserburg am Inn",
+     "aliases": [
+      "Wasserburg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mühldorf am Inn",
+     "aliases": [
+      "Mühldorf"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Neuburg an der Donau",
+     "aliases": [
+      "Neuburg"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Eichstätt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weißenburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gunzenhausen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dinkelsbühl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nördlingen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Donauwörth",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dillingen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Günzburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Krumbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mindelheim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sonthofen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oberstdorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Immenstadt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oberammergau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mittenwald",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Murnau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weilheim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Penzberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Geretsried",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wolfratshausen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Holzkirchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Miesbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schliersee",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Aibling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Prien am Chiemsee",
+     "aliases": [
+      "Prien"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Chieming",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Freilassing",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Deggendorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plattling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dingolfing",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vilsbiburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kelheim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Abensberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neumarkt",
+     "aliases": [
+      "Neumarkt in der Oberpfalz"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schwandorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cham",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Furth im Wald",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zwiesel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bodenmais",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bayerisch Eisenstein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grafenau",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Freyung",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vilshofen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfarrkirchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eggenfelden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kulmbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lichtenfels",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kronach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Forchheim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herzogenaurach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schwabach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Roth",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lauf an der Pegnitz",
+     "aliases": [
+      "Lauf"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Hersbruck",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zirndorf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oberasbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Neustadt an der Aisch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Windsheim",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kitzingen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ochsenfurt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marktheidenfeld",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lohr am Main",
+     "aliases": [
+      "Lohr"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Miltenberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amorbach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bad Kissingen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hammelburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Haßfurt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ebern",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Selb",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marktredwitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wunsiedel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tirschenreuth",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Waldsassen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sulzbach-Rosenberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pegnitz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gräfenberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Höchstadt",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Salzburg": "Salzburg liegt in Österreich – auch wenn’s nah ist.",
+    "Ulm": "Ulm liegt in Baden-Württemberg – Neu-Ulm wäre bayerisch!",
+    "Allgäu": "Das Allgäu ist eine Region."
+   }
+  },
+  {
+   "q": "Ein deutscher Raumfahrer",
+   "x": "Deutsche Astronautinnen und Astronauten, die im All waren – Ost und West.",
+   "answers": [
+    {
+     "name": "Alexander Gerst",
+     "aliases": [
+      "Gerst"
+     ],
+     "prior": 35
+    },
+    {
+     "name": "Sigmund Jähn",
+     "aliases": [
+      "Jähn"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Matthias Maurer",
+     "aliases": [
+      "Maurer"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Thomas Reiter",
+     "aliases": [
+      "Reiter"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Ulf Merbold",
+     "aliases": [
+      "Merbold"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Ulrich Walter",
+     "aliases": [
+      "Walter"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Hans Schlegel",
+     "aliases": [
+      "Schlegel"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Reinhard Furrer",
+     "aliases": [
+      "Furrer"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Ernst Messerschmid",
+     "aliases": [
+      "Messerschmid"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Klaus-Dietrich Flade",
+     "aliases": [
+      "Flade"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Reinhold Ewald",
+     "aliases": [
+      "Ewald"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Gerhard Thiele",
+     "aliases": [
+      "Thiele"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Rabea Rogge",
+     "aliases": [
+      "Rogge"
+     ],
+     "prior": 2
+    }
+   ],
+   "hints": {
+    "Neil Armstrong": "Armstrong war US-Amerikaner.",
+    "Juri Gagarin": "Gagarin war sowjetischer Kosmonaut.",
+    "Insa Thiele-Eich": "Insa Thiele-Eich ist ausgebildet, war aber (noch) nicht im All."
+   }
+  },
+  {
+   "q": "Eine Automarke",
+   "x": "Pkw-Marken aus aller Welt, aktuelle und ehemalige.",
+   "answers": [
+    {
+     "name": "Volkswagen",
+     "aliases": [
+      "VW"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "BMW",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "Mercedes-Benz",
+     "aliases": [
+      "Mercedes"
+     ],
+     "prior": 20
+    },
+    {
+     "name": "Audi",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Porsche",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Opel",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Tesla",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Ford",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Toyota",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Ferrari",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Fiat",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Renault",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Peugeot",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Skoda",
+     "aliases": [
+      "Škoda"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Seat",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Lamborghini",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Volvo",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Hyundai",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kia",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Mazda",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Honda",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Nissan",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Citroën",
+     "aliases": [
+      "Citroen"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Dacia",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mini",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Jeep",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Bugatti",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Bentley",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Rolls-Royce",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Aston Martin",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Maserati",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Alfa Romeo",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Lada",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Trabant",
+     "aliases": [
+      "Trabi"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Chevrolet",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cadillac",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dodge",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chrysler",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lincoln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Buick",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "GMC",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ram",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pontiac",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hummer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lexus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Infiniti",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Acura",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Subaru",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Suzuki",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mitsubishi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Daihatsu",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Isuzu",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Genesis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "SsangYong",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "BYD",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nio",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Xpeng",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Geely",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Polestar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "MG",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lotus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jaguar",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Land Rover",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Range Rover",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "McLaren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rover",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Morgan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lancia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Abarth",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pagani",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Smart",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maybach",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cupra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "DS",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alpine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Koenigsegg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rimac",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wartburg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Borgward",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Moskwitsch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saab",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tata",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mahindra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Proton",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Holden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lucid",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rivian",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fisker",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lynk & Co",
+     "aliases": [
+      "Lynk"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Zastava",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Yugo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tatra",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Daewoo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spyker",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wiesmann",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Artega",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ora",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leapmotor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aiways",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Microlino",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Togg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alpina",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Brabus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Seres",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hongqi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Chery",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Great Wall",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Omoda",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Harley-Davidson": "Harley baut Motorräder.",
+    "MAN": "MAN baut Lkw und Busse.",
+    "Ducati": "Ducati baut Motorräder."
+   }
+  }
+ ]
+}
