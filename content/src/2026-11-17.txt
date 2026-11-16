@@ -1,0 +1,66 @@
+@ 2026-11-17
+
+# Ein Vogel
+> Jede Vogelart oder -gattung zählt, auch Haus- und Exoten. Fledermäuse sind raus.
+Amsel:25, Spatz|Sperling|Haussperling:22, Taube|Stadttaube|Ringeltaube:20, Adler|Steinadler|Seeadler:18, Meise|Kohlmeise|Blaumeise:15, Rabe|Kolkrabe:12, Krähe|Rabenkrähe|Nebelkrähe:10, Papagei:10, Pinguin:10, Strauß|Vogel Strauß:9, Huhn|Haushuhn:9, Specht|Buntspecht:8, Eule|Schleiereule|Uhu|Waldkauz:8, Storch|Weißstorch:8, Möwe|Silbermöwe:8, Rotkehlchen:8, Elster:7, Schwan|Höckerschwan:7, Ente|Stockente:7, Falke|Turmfalke|Wanderfalke:6, Kolibri:6, Flamingo:6, Pfau:5
+Fink|Buchfink, Gimpel|Dompfaff, Stieglitz|Distelfink, Grünfink, Zaunkönig, Star, Drossel|Singdrossel, Nachtigall, Lerche|Feldlerche, Schwalbe|Rauchschwalbe|Mehlschwalbe, Mauersegler, Kuckuck, Eisvogel, Wiedehopf, Bachstelze, Kleiber, Goldammer, Rotschwanz|Hausrotschwanz, Grasmücke, Zilpzalp, Wintergoldhähnchen|Goldhähnchen, Eichelhäher, Dohle, Saatkrähe, Bussard|Mäusebussard, Habicht, Sperber, Milan|Rotmilan|Schwarzmilan, Geier|Gänsegeier, Kondor, Fischadler, Kranich, Reiher|Graureiher, Kormoran, Haubentaucher, Blässhuhn|Blesshuhn, Teichhuhn, Gans|Graugans|Hausgans, Kanadagans, Nilgans, Pute|Truthahn, Wachtel, Fasan, Rebhuhn, Auerhahn|Auerhuhn, Birkhuhn, Kiebitz, Austernfischer, Brachvogel, Schnepfe|Waldschnepfe, Uferschnepfe, Säbelschnäbler, Seeschwalbe, Papageitaucher, Albatros, Pelikan, Ibis, Löffler, Tukan, Kakadu, Wellensittich, Nymphensittich, Ara, Kanarienvogel, Beo, Halsbandsittich, Emu, Kiwi, Kasuar, Nandu, Dodo, Turteltaube, Zebrafink, Seidenschwanz, Pirol, Neuntöter, Ziegenmelker, Wendehals, Wasseramsel, Rohrdommel, Rohrsänger, Schwarzstorch, Moorente, Eiderente, Gänsesäger, Sturmvogel, Basstölpel|Tölpel, Lumme|Trottellumme, Schneeeule, Steinkauz, Waldohreule, Paradiesvogel, Schuhschnabel, Sekretär, Marabu
+! Fledermaus = Fledermäuse sind Säugetiere.
+! Pteranodon = Flugsaurier waren keine Vögel.
+! Flugzeug = Netter Versuch.
+
+# Eine deutsche Insel
+> Inseln in Nord- und Ostsee, in Seen und Flüssen. Halligen zählen auch.
+Sylt:30, Rügen:25, Usedom:14, Fehmarn:12, Norderney:10, Helgoland:9, Borkum:8, Föhr:6, Amrum:5, Juist:5, Langeoog:4, Spiekeroog:4, Wangerooge:4, Baltrum:3, Pellworm:3, Hiddensee:4, Poel:2, Mainau:3, Reichenau:2, Lindau:2, Herreninsel|Herrenchiemsee:2, Fraueninsel|Frauenchiemsee:2
+Neuwerk, Scharhörn, Minsener Oog, Memmert, Lütje Hörn, Mellum, Trischen, Hallig Hooge|Hooge, Langeneß|Langeness, Gröde, Oland, Nordstrandischmoor, Süderoog, Südfall, Habel, Ummanz, Vilm, Greifswalder Oie|Oie, Ruden, Riems, Insel Koos|Koos, Kirr, Langenwerder, Walfisch, Liebesinsel, Museumsinsel, Pfaueninsel, Schwanenwerder, Lindwerder, Insel der Jugend, Elbinsel Wilhelmsburg|Wilhelmsburg, Krautsand, Lühesand, Pagensand, Nonnenwerth, Grafenwerth, Rheininsel Niederwerth|Niederwerth, Wörth, Insel Wörth, Neßsand, Krautinsel
+! Mallorca = Mallorca ist zwar gefühlt das 17. Bundesland, gehört aber zu Spanien.
+! Bornholm = Bornholm gehört zu Dänemark.
+! Texel = Texel ist niederländisch.
+
+# Ein Wort für Brötchen
+> Egal aus welcher Region: Hauptsache, alle wissen, was gemeint ist. Quelle: Atlas zur deutschen Alltagssprache.
+Brötchen:30, Semmel:22, Schrippe:15, Weck|Wecken:10, Weckle|Weggle:5, Rundstück:4
+Kipf|Kipferl, Mutschel, Laabla|Laiberl, Bömmel, Kaiserbrötchen|Kaisersemmel:2, Wasserweck, Rundstück warm, Stuten, Brötli|Bürli, Doppelweck, Schnittbrötchen, Krossies, Brödchen, Semmerl, Wecki, Rösche, Bauernbrötchen, Schusterjunge:2, Knüppel, Kipfle, Weckerl, Rundling, Schrippchen, Weggli, Mürbchen, Paarweck, Rundes
+! Croissant = Ein Croissant ist kein Brötchen – auch nicht in Berlin.
+! Toast = Toast ist Brot, kein Brötchen.
+
+# Ein Land in Afrika
+> Alle 54 UN-Mitgliedstaaten in Afrika. Westsahara und Somaliland zählen nicht.
+Ägypten:25, Südafrika:22, Marokko:15, Kenia:12, Nigeria:10, Tunesien:9, Algerien:7, Äthiopien:6, Ghana:6, Kongo|Republik Kongo|Demokratische Republik Kongo|DR Kongo:6, Namibia:5, Tansania:5, Madagaskar:5, Senegal:4, Kamerun:4, Libyen:4, Sudan:4, Uganda:3, Mali:3, Simbabwe:3, Somalia:3, Angola:3, Mosambik:2, Ruanda:2, Elfenbeinküste|Côte d'Ivoire:2, Togo:2
+Benin, Botswana, Burkina Faso, Burundi, Dschibuti, Eritrea, Eswatini|Swasiland, Gabun, Gambia, Guinea, Guinea-Bissau, Äquatorialguinea, Kap Verde|Cabo Verde, Komoren, Lesotho, Liberia, Malawi, Mauretanien, Mauritius, Niger, Sambia, São Tomé und Príncipe|Sao Tome, Seychellen, Sierra Leone, Südsudan, Tschad, Zentralafrikanische Republik
+! Westsahara = Westsahara ist kein UN-Mitgliedstaat.
+! Afrika = Afrika ist ein Kontinent, kein Land 😉
+! Dubai = Dubai liegt in Asien.
+
+# Ein Pokémon der ersten Generation
+> Die 151 Pokémon aus Rot und Blau, deutsche oder englische Namen.
+Pikachu:35, Glumanda|Charmander:12, Bisasam|Bulbasaur:10, Schiggy|Squirtle:10, Glurak|Charizard:9, Mewtu|Mewtwo:7, Mew:5, Relaxo|Snorlax:5, Evoli|Eevee:5, Enton|Psyduck:4, Pummeluff|Jigglypuff:4, Garados|Gyarados:3, Karpador|Magikarp:3, Gengar:3, Turtok|Blastoise:3, Bisaflor|Venusaur:3, Mauzi|Meowth:3, Taubsi|Pidgey:2, Raichu:2, Dragoran|Dragonite:2, Lapras:2, Onix:2, Rattfratz|Rattata:2
+Bisaknosp|Ivysaur, Glutexo|Charmeleon, Schillok|Wartortle, Raupy|Caterpie, Safcon|Metapod, Smettbo|Butterfree, Hornliu|Weedle, Kokuna|Kakuna, Bibor|Beedrill, Tauboga|Pidgeotto, Tauboss|Pidgeot, Rattikarl|Raticate, Habitak|Spearow, Ibitak|Fearow, Rettan|Ekans, Arbok, Sandan|Sandshrew, Sandamer|Sandslash, Nidoran, Nidorina, Nidoqueen, Nidorino, Nidoking, Piepi|Clefairy, Pixi|Clefable, Vulpix, Vulnona|Ninetales, Knuddeluff|Wigglytuff, Zubat, Golbat, Myrapla|Oddish, Duflor|Gloom, Giflor|Vileplume, Paras, Parasek|Parasect, Bluzuk|Venonat, Omot|Venomoth, Digda|Diglett, Digdri|Dugtrio, Snobilikat|Persian, Entoron|Golduck, Menki|Mankey, Rasaff|Primeape, Fukano|Growlithe, Arkani|Arcanine, Quapsel|Poliwag, Quaputzi|Poliwhirl, Quappo|Poliwrath, Abra, Kadabra, Simsala|Alakazam, Machollo|Machop, Maschock|Machoke, Machomei|Machamp, Knofensa|Bellsprout, Ultrigaria|Weepinbell, Sarzenia|Victreebel, Tentacha|Tentacool, Tentoxa|Tentacruel, Kleinstein|Geodude, Georok|Graveler, Geowaz|Golem, Ponita|Ponyta, Gallopa|Rapidash, Flegmon|Slowpoke, Lahmus|Slowbro, Magnetilo|Magnemite, Magneton, Porenta|Farfetch'd, Dodu|Doduo, Dodri|Dodrio, Jurob|Seel, Jugong|Dewgong, Sleima|Grimer, Sleimok|Muk, Muschas|Shellder, Austos|Cloyster, Nebulak|Gastly, Alpollo|Haunter, Traumato|Drowzee, Hypno, Krabby, Kingler, Voltobal|Voltorb, Lektrobal|Electrode, Owei|Exeggcute, Kokowei|Exeggutor, Tragosso|Cubone, Knogga|Marowak, Kicklee|Hitmonlee, Nockchan|Hitmonchan, Schlurp|Lickitung, Smogon|Koffing, Smogmog|Weezing, Rihorn|Rhyhorn, Rizeros|Rhydon, Chaneira|Chansey, Tangela, Kangama|Kangaskhan, Seeper|Horsea, Seemon|Seadra, Goldini|Goldeen, Golking|Seaking, Sterndu|Staryu, Starmie, Pantimos|Mr. Mime, Sichlor|Scyther, Rossana|Jynx, Elektek|Electabuzz, Magmar, Pinsir, Tauros, Ditto, Aquana|Vaporeon, Blitza|Jolteon, Flamara|Flareon, Porygon, Amonitas|Omanyte, Amoroso|Omastar, Kabuto, Kabutops, Aerodactyl, Arktos|Articuno, Zapdos, Lavados|Moltres, Dratini, Dragonir|Dragonair
+! Togepi = Togepi kam erst in der zweiten Generation.
+! Lucario = Lucario ist aus der vierten Generation.
+! Pichu = Pichu kam erst in der zweiten Generation.
+
+# Ein gesetzlicher Feiertag
+> Gesetzlicher Feiertag in mindestens einem Bundesland (oder einer Stadt). Heiligabend und Silvester zählen nicht.
+Weihnachten|1. Weihnachtstag|Erster Weihnachtstag|Weihnachtsfeiertag:25, Neujahr:18, Ostern|Ostermontag:15, Tag der Deutschen Einheit|3. Oktober:14, Karfreitag:8, Tag der Arbeit|1. Mai|Maifeiertag:8, Pfingsten|Pfingstmontag:6, Christi Himmelfahrt|Himmelfahrt|Vatertag:6, 2. Weihnachtstag|Zweiter Weihnachtstag|Stephanstag:4, Reformationstag:4, Allerheiligen:3, Fronleichnam:3, Ostersonntag:1, Pfingstsonntag:1
+Heilige Drei Könige|Dreikönigstag|Epiphanias, Internationaler Frauentag|Frauentag|Weltfrauentag, Mariä Himmelfahrt, Weltkindertag, Buß- und Bettag|Buss- und Bettag, Augsburger Hohes Friedensfest|Friedensfest
+! Heiligabend = Heiligabend ist kein gesetzlicher Feiertag – nur nachmittags frei, wenn man Glück hat.
+! Silvester = Silvester ist kein gesetzlicher Feiertag.
+! Halloween = Halloween ist kein Feiertag, nur Süßes-oder-Saures.
+! Rosenmontag = Rosenmontag ist kein gesetzlicher Feiertag – auch nicht in Köln.
+! Valentinstag = Valentinstag ist kein Feiertag.
+
+# Eine Käsesorte
+> Jede Käsesorte aus aller Welt – vom Gouda bis zum Harzer.
+Gouda:25, Emmentaler:15, Camembert:12, Mozzarella:12, Edamer:10, Feta|Schafskäse:9, Brie:8, Parmesan|Parmigiano Reggiano:9, Cheddar:7, Gorgonzola:5, Tilsiter:5, Butterkäse:5, Leerdammer:4, Mascarpone:3, Ricotta:3, Roquefort:3, Harzer|Harzer Käse|Harzer Roller:4, Bergkäse:4, Appenzeller:3, Gruyère|Greyerzer:3, Frischkäse:3
+Limburger, Romadur, Weißlacker, Allgäuer Emmentaler, Hüttenkäse|Cottage Cheese, Halloumi, Grana Padano, Pecorino, Provolone, Taleggio, Fontina, Burrata, Scamorza, Asiago, Manchego, Comté, Raclette, Reblochon, Munster|Münsterkäse, Époisses, Saint Agur, Bavaria Blu, Cambozola, Stilton, Wensleydale, Red Leicester, Maasdamer, Tête de Moine, Vacherin, Sbrinz, Esrom, Havarti, Danablu, Kefalotyri, Paneer, Labneh, Mondseer, Steppenkäse, Edelpilzkäse, Handkäse|Handkäs, Kochkäse, Bierkäse, Obatzda, Nieheimer, Altenburger Ziegenkäse, Weinkäse, Bonbel, Babybel, Philadelphia, Gouda alt|Alter Gouda, Mimolette, Morbier, Pont-l'Évêque, Neufchâtel, Chaource, Tomme, Cantal, Saint-Nectaire, Ziegenkäse, Bergader, Chester, Queso Fresco, Oaxaca, Monterey Jack, Colby, Gjetost|Brunost
+! Quark = Quark ist Frischkäse, aber keine eigene Käsesorte – knapp daneben!
+! Tofu = Tofu ist kein Käse.
+
+# Ein Berliner Ortsteil
+> Die 96 Ortsteile der 12 Berliner Bezirke. Quelle: Amt für Statistik Berlin-Brandenburg.
+Kreuzberg:25, Mitte:20, Friedrichshain:15, Prenzlauer Berg:14, Neukölln:12, Charlottenburg:10, Schöneberg:9, Spandau:8, Wedding:8, Köpenick:6, Pankow:6, Marzahn:6, Moabit:5, Steglitz:4, Lichtenberg:5, Zehlendorf:4, Tempelhof:4, Hellersdorf:3, Wilmersdorf:3, Tiergarten:3, Reinickendorf:3, Tegel:2, Wannsee:2, Dahlem:2
+Hansaviertel, Gesundbrunnen, Weißensee, Blankenburg, Heinersdorf, Karow, Stadtrandsiedlung Malchow, Blankenfelde, Buch, Französisch Buchholz, Niederschönhausen, Rosenthal, Wilhelmsruh, Westend, Charlottenburg-Nord, Halensee, Schmargendorf, Grunewald, Haselhorst, Siemensstadt, Staaken, Gatow, Kladow, Hakenfelde, Falkenhagener Feld, Wilhelmstadt, Lichterfelde, Lankwitz, Nikolassee, Friedenau, Mariendorf, Marienfelde, Lichtenrade, Britz, Buckow, Rudow, Gropiusstadt, Alt-Treptow, Plänterwald, Baumschulenweg, Johannisthal, Niederschöneweide, Altglienicke, Adlershof, Bohnsdorf, Oberschöneweide, Friedrichshagen, Rahnsdorf, Grünau, Müggelheim, Schmöckwitz, Biesdorf, Kaulsdorf, Mahlsdorf, Friedrichsfelde, Karlshorst, Rummelsburg, Fennpfuhl, Alt-Hohenschönhausen, Neu-Hohenschönhausen, Falkenberg, Malchow, Wartenberg, Konradshöhe, Heiligensee, Frohnau, Hermsdorf, Waidmannslust, Lübars, Wittenau, Märkisches Viertel, Borsigwalde
+! Potsdam = Potsdam ist eine eigene Stadt in Brandenburg.
+! Falkensee = Falkensee liegt knapp hinter der Stadtgrenze – Brandenburg!
+! Treptow = Treptow ist Teil des Bezirks Treptow-Köpenick; Ortsteil heißt Alt-Treptow.
+! Kreuzkölln = Kreuzkölln ist ein Kiez, kein offizieller Ortsteil.

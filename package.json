@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "content": "node scripts/build-content.mjs",
+    "prebuild": "node scripts/build-content.mjs"
   },
   "dependencies": {
     "@fontsource/barlow": "^5.3.0",

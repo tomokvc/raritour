@@ -1,11 +1,11 @@
 import type { Answer } from "./normalize";
-import r20261116 from "../../content/rounds/2026-11-16.json";
+import { ROUND_DATA } from "../../content/rounds/index";
 
 export interface Category { q: string; x: string; answers: Answer[]; hints: Record<string, string> }
 export interface Round { date: string; route: string; categories: Category[] }
 
-/** Alle Runden. Neue Runde = JSON-Datei in content/rounds/ anlegen und hier eintragen. */
-const ROUNDS: Round[] = [r20261116 as Round].sort((a, b) => a.date.localeCompare(b.date));
+/** Alle Runden (aus content/src/*.txt, gebaut mit `npm run content`). */
+const ROUNDS: Round[] = (ROUND_DATA as Round[]).slice().sort((a, b) => a.date.localeCompare(b.date));
 
 export const LAUNCH_DATE = "2026-11-16";
 

@@ -22,6 +22,9 @@ export async function POST(req: Request) {
 
   const hit = match(c.answers, answer);
   if (!hit) {
+    // Abgelehnte Antwort merken (für die Pflege der Antwortlisten); Fehler hier nie an den Spieler durchreichen
+    const sbm = db();
+    if (sbm) await sbm.from("misses").insert({ round_date: date, cat, answer: answer.trim().slice(0, 80) }).then(() => {}, () => {});
     const hint = Object.entries(c.hints).find(([k]) => norm(k) === norm(answer))?.[1] ?? null;
     return Response.json({ ok: false, hint });
   }

@@ -1,0 +1,67 @@
+@ 2026-11-18
+
+# Ein Säugetier
+> Jedes Säugetier, ob Haus-, Wild- oder Meerestier. Der Mensch zählt nicht.
+Hund:25, Katze:22, Elefant:15, Löwe:12, Pferd:10, Kuh|Rind:10, Maus:8, Wal|Blauwal:8, Tiger:8, Affe:7, Giraffe:7, Bär|Braunbär:7, Delfin:7, Schwein:6, Hase:5, Kaninchen:5, Fuchs:5, Wolf:5, Eichhörnchen:4, Igel:4, Reh:4, Schaf:4, Ziege:4, Fledermaus:4, Hirsch|Rothirsch:4, Känguru:4, Zebra:4, Nashorn:3, Nilpferd|Flusspferd:3, Eisbär:3, Panda|Großer Panda:3, Koala:3, Gorilla:3, Schimpanse:3, Ratte:3, Wildschwein:3
+Esel, Kamel, Dromedar, Lama, Alpaka, Büffel, Bison, Wisent, Elch, Rentier, Damhirsch, Gämse, Steinbock, Murmeltier, Biber, Otter|Fischotter, Seeotter, Dachs, Marder, Wiesel, Hermelin, Iltis, Frettchen, Nerz, Waschbär, Luchs, Wildkatze, Gepard, Leopard, Jaguar, Puma, Schneeleopard, Hyäne, Schakal, Kojote, Erdmännchen, Mungo, Stinktier, Maulwurf, Spitzmaus, Hamster, Meerschweinchen, Wühlmaus, Siebenschläfer, Chinchilla, Stachelschwein, Gürteltier, Faultier, Ameisenbär, Schnabeltier, Ameisenigel, Wombat, Beutelteufel|Tasmanischer Teufel, Opossum, Orang-Utan, Bonobo, Gibbon, Pavian, Lemur|Katta, Robbe|Seehund, Seelöwe, Walross, Seekuh, Orca|Schwertwal, Pottwal, Buckelwal, Narwal, Belugawal|Beluga, Schweinswal, Tapir, Okapi, Gnu, Antilope, Gazelle, Impala, Yak, Moschusochse, Mammut, Säbelzahntiger, Vielfraß, Polarfuchs, Feldhase, Schneehase, Tüpfelhyäne, Warzenschwein, Pekari, Muntjak, Mufflon, Bergziege, Hyrax|Klippschliefer, Erdferkel, Pangolin|Schuppentier, Roter Panda|Katzenbär, Lippenbär, Kragenbär, Schwarzbär|Baribal, Grizzly|Grizzlybär, Kodiakbär, Dingo, Fennek|Wüstenfuchs, Marderhund, Nasenbär, Wallaby, Rüsselspringer, Tarsier|Koboldmaki, Mandrill, Kapuzineraffe, Totenkopfaffe, Brüllaffe, Nacktmulle|Nacktmull, Lemming, Gerbil|Rennmaus, Degu, Capybara|Wasserschwein
+! Mensch = Stimmt eigentlich – zählt hier aber nicht.
+! Pinguin = Pinguine sind Vögel.
+! Hai = Haie sind Fische.
+! Krokodil = Krokodile sind Reptilien.
+
+# Eine Stadt in Italien
+> Jede italienische Stadt oder Gemeinde (Comune), deutsch oder italienisch geschrieben.
+Rom|Roma:25, Mailand|Milano:18, Venedig|Venezia:16, Florenz|Firenze:12, Neapel|Napoli:12, Turin|Torino:8, Pisa:8, Verona:7, Bologna:7, Genua|Genova:6, Palermo:5, Bozen|Bolzano:4, Siena:4, Triest|Trieste:3, Bari:3, Catania:3, Rimini:3, Padua|Padova:3, Como:3, Bergamo:3, Meran|Merano:2, Parma:2, Modena:2, Brescia:2, Messina:2
+Assisi, Lucca, Perugia, Ravenna, Ferrara, Mantua|Mantova, Vicenza, Treviso, Udine, Trient|Trento, Brixen|Bressanone, Sterzing|Vipiteno, Bruneck|Brunico, Cagliari, Sassari, Olbia, Alghero, Syrakus|Siracusa, Taormina, Agrigent|Agrigento, Trapani, Marsala, Ragusa, Cefalù, Reggio Calabria, Cosenza, Tropea, Lecce, Brindisi, Tarent|Taranto, Foggia, Matera, Potenza, Salerno, Amalfi, Positano, Sorrent|Sorrento, Pompeji|Pompei, Caserta, Pescara, L'Aquila|Aquila, Ancona, Urbino, Livorno, La Spezia, Sanremo, Savona, Portofino, Pavia, Cremona, Monza, Varese, Lecco, Novara, Alessandria, Asti, Cuneo, Aosta, Piacenza, Reggio Emilia, Forlì, Cesena, Arezzo, Cortona, Montepulciano, San Gimignano, Orvieto, Spoleto, Terni, Viterbo, Latina, Frascati, Tivoli, Ostia, Riva del Garda|Riva, Malcesine, Sirmione, Lazise, Bardolino, Garda, Desenzano, Limone sul Garda|Limone, Bellagio, Menaggio, Stresa, Chioggia, Jesolo, Caorle, Bibione, Lignano, Grado, Rovereto, Belluno, Cortina d'Ampezzo|Cortina, Bormio, Livigno, Sondrio, Prato, Pistoia, Grosseto, Massa, Carrara, Viareggio, Camogli, Rapallo, Cinque Terre:0.5, Capri, Ischia, Gaeta, Benevento, Avellino, Campobasso, Isernia, Chieti, Teramo, Macerata, Fermo, Ascoli Piceno, Pesaro, Rieti, Frosinone, Crotone, Catanzaro, Nuoro, Oristano, Enna, Caltanissetta
+! Venedig Beach = Venice Beach liegt in Kalifornien.
+! Sizilien = Sizilien ist eine Insel bzw. Region, keine Stadt.
+! Toskana = Die Toskana ist eine Region, keine Stadt.
+! Gardasee = Der Gardasee ist ein See – nimm eine Stadt am Ufer!
+
+# Ein Wort für „betrunken“
+> Umgangssprache ausdrücklich erlaubt. Quelle: Duden & gesunder Kneipenverstand.
+besoffen:25, blau:20, voll:15, betrunken:12, dicht:10, breit:8, hacke|hackedicht:8, angetrunken:6, angeheitert:6, beschwipst:6, sternhagelvoll:5, zu:4, strunz|strunzbesoffen:2, knülle:2
+stockbesoffen, sturzbesoffen, granatenvoll, randvoll, voll wie ein Eimer|voll wie eine Haubitze, blau wie ein Veilchen, lattenstramm, lattenvoll, stramm, stinkbesoffen, angesäuselt, beduselt, benebelt, berauscht, alkoholisiert, illuminiert, sturzbetrunken, voll wie tausend Russen, zugedröhnt, zugeknallt, abgeschossen, abgefüllt, platt, dun|duhn, blau wie eine Strandhaubitze|Strandhaubitze, hinüber, im Tee, einen sitzen haben|einen im Tee, kaputt, fett, zua, angeschickert, beschickert, bierselig, weinselig, schwer geladen|geladen, einen über den Durst, dicht wie eine Natter, sackhackedicht, hackevoll, besäuselt, bezecht, trunken
+! nüchtern = Genau das Gegenteil 😄
+! Kater = Der Kater kommt erst am nächsten Morgen.
+
+# Ein Knochen im menschlichen Körper
+> Fachbegriff oder umgangssprachlich – Hauptsache ein echter Knochen.
+Schädel:20, Oberschenkelknochen|Femur:15, Rippe:15, Elle:10, Speiche:10, Schienbein|Tibia:10, Wirbel|Wirbelkörper:8, Schlüsselbein:8, Steißbein:7, Wadenbein|Fibula:7, Becken|Beckenknochen:7, Brustbein:6, Kniescheibe|Patella:6, Oberarmknochen|Humerus:6, Schulterblatt:6, Unterkiefer:5, Kreuzbein:4, Hammer:4, Amboss:3, Steigbügel:3
+Oberkiefer, Nasenbein, Jochbein, Stirnbein, Scheitelbein, Schläfenbein, Hinterhauptsbein, Keilbein, Siebbein, Tränenbein, Gaumenbein, Pflugscharbein, Zungenbein, Atlas, Axis, Halswirbel, Brustwirbel, Lendenwirbel, Darmbein, Sitzbein, Schambein, Hüftbein|Hüftknochen, Fersenbein, Sprungbein, Kahnbein, Würfelbein, Mondbein, Dreiecksbein, Erbsenbein, Hakenbein, Kopfbein, Trapezbein|großes Vieleckbein, Trapezoidbein|kleines Vieleckbein, Keilbeine, Mittelhandknochen, Mittelfußknochen, Fingerknochen|Phalanx, Zehenknochen, Handwurzelknochen, Fußwurzelknochen, Sesambein, Ulna, Radius, Clavicula, Scapula, Sternum, Mandibula, Maxilla, Os coccygis, Os sacrum, Calcaneus, Talus, Os hyoideum, Malleus, Incus, Stapes
+! Knorpel = Knorpel ist kein Knochen.
+! Zahn = Zähne sind keine Knochen.
+! Musikantenknochen = Der „Musikantenknochen“ ist eigentlich ein Nerv.
+
+# Eine Figur aus „Die Simpsons“
+> Jede Figur aus der Serie, Vor- oder Nachname reicht.
+Homer|Homer Simpson:30, Bart|Bart Simpson:20, Lisa|Lisa Simpson:12, Marge|Marge Simpson:12, Maggie|Maggie Simpson:8, Mr. Burns|Montgomery Burns|Burns:7, Ned Flanders|Flanders|Ned:7, Moe|Moe Szyslak:5, Apu:4, Krusty|Krusty der Clown:4, Milhouse:4, Smithers|Waylon Smithers:3, Barney|Barney Gumble:3, Chief Wiggum|Wiggum|Clancy Wiggum:3, Ralph|Ralph Wiggum:3, Grampa|Abe Simpson|Opa Simpson:3, Nelson|Nelson Muntz:3, Sideshow Bob|Tingeltangel-Bob|Tingeltangel Bob:3, Lenny:2, Carl:2, Patty:2, Selma:2, Skinner|Seymour Skinner|Direktor Skinner:2
+Edna Krabappel|Krabappel, Otto|Otto Mann, Willie|Hausmeister Willie, Comic Book Guy|Comicbuchverkäufer, Dr. Hibbert|Hibbert, Dr. Nick|Dr. Nick Riviera, Troy McClure, Kent Brockman, Lionel Hutz, Bürgermeister Quimby|Quimby, Fat Tony, Professor Frink|Frink, Hans Maulwurf|Hans Moleman, Cletus, Snake, Martin|Martin Prince, Database, Jimbo, Kearney, Dolph, Sherri und Terri|Sherri|Terri, Lewis, Wendell, Todd|Todd Flanders, Rod|Rod Flanders, Maude Flanders|Maude, Helen Lovejoy, Reverend Lovejoy|Lovejoy, Itchy, Scratchy, Itchy und Scratchy, Knecht Ruprecht|Santa's Little Helper, Schneeball|Snowball, Lurleen, Disco Stu, Duffman, Gil, Agnes Skinner, Jasper, Bumblebee Man|Hummelmann, Kang, Kodos, Mr. Teeny, Sideshow Mel|Tingeltangel-Mel, Squeaky Voice Teen|Pickel-Teenager, Lou, Eddie, Manjula, Mona Simpson|Mona, Herb Powell|Onkel Herb, Ling, Jacqueline Bouvier, Luann Van Houten|Luann, Kirk Van Houten|Kirk, Brandine, Artie Ziff, Rainier Wolfcastle|McBain, Lunchlady Doris|Doris, Bleeding Gums Murphy, Blinky, Plopper|Spider-Schwein, Groundskeeper Willie
+! Peter Griffin = Peter Griffin ist aus „Family Guy“.
+! Stewie = Stewie ist aus „Family Guy“.
+! Cartman = Cartman ist aus „South Park“.
+
+# Eine deutsche Hunderasse
+> Rassen, die nach FCI aus Deutschland stammen.
+Deutscher Schäferhund|Schäferhund:25, Dackel|Dachshund|Teckel:18, Boxer|Deutscher Boxer:10, Dobermann:9, Rottweiler:9, Deutsche Dogge|Dogge:7, Weimaraner:5, Pinscher|Deutscher Pinscher:4, Schnauzer|Riesenschnauzer|Mittelschnauzer|Zwergschnauzer:5, Spitz|Deutscher Spitz|Zwergspitz|Pomeranian:4, Münsterländer:3, Hovawart:3, Leonberger:3, Eurasier:2, Affenpinscher:2, Zwergpinscher:2, Deutsch Drahthaar:2, Deutsch Kurzhaar:2
+Deutsch Langhaar, Kleiner Münsterländer, Großer Münsterländer, Deutscher Jagdterrier|Jagdterrier, Deutscher Wachtelhund|Wachtelhund, Hannoverscher Schweißhund, Bayerischer Gebirgsschweißhund, Pudelpointer, Deutsch Stichelhaar, Kromfohrländer, Wolfsspitz|Keeshond, Großspitz, Mittelspitz, Altdeutscher Schäferhund
+! Labrador = Labradore stammen aus Großbritannien bzw. Kanada.
+! Mops = Der Mops kommt ursprünglich aus China.
+! Dalmatiner = Der Dalmatiner kommt aus Kroatien – Pozdrav iz Dalmacije!
+! Pudel = Der Pudel gilt laut FCI als französische Rasse – obwohl er wohl aus Deutschland stammt.
+! Husky = Huskys stammen aus Sibirien.
+
+# Ein Musikinstrument
+> Jedes Instrument, vom Orchester bis zur Blaskapelle.
+Gitarre:25, Klavier|Piano:22, Geige|Violine:15, Schlagzeug:12, Flöte|Querflöte:10, Trompete:9, Saxophon|Saxofon:8, Blockflöte:6, Cello|Violoncello:6, Harfe:5, Bass|E-Bass|Kontrabass:5, Akkordeon|Ziehharmonika|Schifferklavier:5, Posaune:4, Klarinette:4, Mundharmonika:4, Orgel:3, Trommel:3, E-Gitarre:3, Tuba:3, Horn|Waldhorn:3, Ukulele:3, Keyboard:3
+Bratsche|Viola, Oboe, Fagott, Piccoloflöte|Piccolo, Englischhorn, Kornett, Flügelhorn, Tenorhorn, Bariton, Euphonium, Sousaphon, Pauke, Triangel, Xylophon|Xylofon, Marimba|Marimbaphon, Vibraphon, Glockenspiel, Becken, Tamburin, Kastagnetten, Bongos, Congas, Cajon, Djembe, Gong, Röhrenglocken, Kalimba, Banjo, Mandoline, Laute, Sitar, Balalaika, Bouzouki, Zither, Hackbrett, Dudelsack, Panflöte, Didgeridoo, Maultrommel, Okarina, Melodica, Bandoneon, Cembalo, Spinett, Celesta, Synthesizer, Theremin, Harmonium, Drehorgel|Leierkasten, Steeldrum, Tabla, Shamisen, Koto, Erhu, Alphorn, Kazoo, Rassel|Maracas, Cowbell|Kuhglocke, Waschbrett, Lyra, Fanfare, Schalmei, Tamburica
+! Stimme = Die Stimme ist ein Instrument, sagen Chorleiter – hier zählt sie nicht.
+! Mikrofon = Ein Mikrofon macht nur lauter, keine Musik.
+
+# Ein Ort mit „Bad“ im Namen
+> Städte, Gemeinden und Ortsteile in Deutschland, deren Name mit „Bad“ beginnt.
+Bad Homburg|Bad Homburg vor der Höhe:10, Bad Tölz:8, Bad Kissingen:7, Bad Reichenhall:6, Bad Oeynhausen:6, Bad Kreuznach:6, Bad Godesberg:6, Bad Nauheim:5, Bad Dürkheim:5, Bad Hersfeld:5, Bad Segeberg:5, Bad Saarow:5, Bad Harzburg:5, Bad Salzuflen:4, Bad Pyrmont:4, Bad Wörishofen:4, Bad Füssing:4, Bad Mergentheim:4, Bad Neuenahr-Ahrweiler|Bad Neuenahr:4, Bad Ems:4, Bad Belzig:3, Bad Doberan:3, Bad Schandau:3, Bad Wildungen:3, Bad Aibling:3, Bad Vilbel:3, Bad Honnef:3, Bad Zwischenahn:3, Bad Freienwalde:2, Bad Wilsnack:2, Bad Muskau:2, Bad Elster:2
+Bad Oldesloe, Bad Schwartau, Bad Bramstedt, Bad Malente-Gremsmühlen|Malente, Bad Sülze, Bad Kleinen, Bad Liebenwerda, Bad Düben, Bad Lausick, Bad Brambach, Bad Frankenhausen, Bad Langensalza, Bad Salzungen, Bad Lobenstein, Bad Berka, Bad Blankenburg, Bad Sulza, Bad Klosterlausnitz, Bad Köstritz, Bad Lauterberg, Bad Gandersheim, Bad Sachsa, Bad Grund, Bad Bentheim, Bad Iburg, Bad Essen, Bad Rothenfelde, Bad Laer, Bad Fallingbostel, Bad Bevensen, Bad Bodenteich, Bad Nenndorf, Bad Münder, Bad Salzdetfurth, Bad Eilsen, Bad Arolsen, Bad Sooden-Allendorf, Bad Soden, Bad Soden-Salmünster, Bad Camberg, Bad Schwalbach, Bad Orb, Bad König, Bad Wildbad, Bad Herrenalb, Bad Liebenzell, Bad Teinach-Zavelstein, Bad Urach, Bad Wimpfen, Bad Rappenau, Bad Friedrichshall, Bad Säckingen, Bad Krozingen, Bad Dürrheim, Bad Waldsee, Bad Wurzach, Bad Saulgau, Bad Schussenried, Bad Buchau, Bad Ditzenbach, Bad Boll, Bad Cannstatt, Bad Kötzting, Bad Griesbach, Bad Birnbach, Bad Abbach, Bad Endorf, Bad Feilnbach, Bad Wiessee, Bad Heilbrunn, Bad Kohlgrub, Bad Bayersoien, Bad Hindelang, Bad Grönenbach, Bad Windsheim, Bad Neustadt an der Saale|Bad Neustadt, Bad Brückenau, Bad Bocklet, Bad Königshofen, Bad Staffelstein, Bad Rodach, Bad Steben, Bad Berneck, Bad Alexandersbad, Bad Bergzabern, Bad Sobernheim, Bad Marienberg, Bad Hönningen, Bad Breisig, Bad Bertrich, Bad Münster am Stein-Ebernburg, Bad Berleburg, Bad Laasphe, Bad Driburg, Bad Lippspringe, Bad Wünnenberg, Bad Sassendorf, Bad Westernkotten, Bad Waldliesborn, Bad Münstereifel, Bad Schmiedeberg, Bad Lauchstädt, Bad Bibra, Bad Dürrenberg, Bad Kösen, Bad Suderode
+! Badenweiler = Fast! Aber da fehlt das Leerzeichen.
+! Baden-Baden = Baden-Baden hat zweimal „Baden“, aber kein „Bad“ 😉
+! Badewanne = 🛁 Netter Versuch.

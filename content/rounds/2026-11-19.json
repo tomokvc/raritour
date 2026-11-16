@@ -1,0 +1,3042 @@
+{
+ "date": "2026-11-19",
+ "route": "hamburg-frankfurt",
+ "categories": [
+  {
+   "q": "Ein Baum",
+   "x": "Jede Baumart oder -gattung, heimisch oder exotisch. Sträucher zählen nicht.",
+   "answers": [
+    {
+     "name": "Eiche",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Buche",
+     "aliases": [
+      "Rotbuche"
+     ],
+     "prior": 18
+    },
+    {
+     "name": "Tanne",
+     "aliases": [
+      "Weißtanne"
+     ],
+     "prior": 15
+    },
+    {
+     "name": "Fichte",
+     "aliases": [],
+     "prior": 14
+    },
+    {
+     "name": "Birke",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Kiefer",
+     "aliases": [
+      "Föhre"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Ahorn",
+     "aliases": [
+      "Bergahorn",
+      "Spitzahorn"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Linde",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Kastanie",
+     "aliases": [
+      "Rosskastanie",
+      "Esskastanie"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Apfelbaum",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Palme",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Kirschbaum",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Weide",
+     "aliases": [
+      "Trauerweide"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Pappel",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Lärche",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Esche",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Ulme",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Erle",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Eibe",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Walnuss",
+     "aliases": [
+      "Walnussbaum"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Ginkgo",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Mammutbaum",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Hainbuche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Platane",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Robinie",
+     "aliases": [
+      "Scheinakazie"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Akazie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Douglasie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zeder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zypresse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wacholder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lebensbaum",
+     "aliases": [
+      "Thuja"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Eberesche",
+     "aliases": [
+      "Vogelbeere"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mehlbeere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Elsbeere",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Speierling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vogelkirsche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Traubenkirsche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Birnbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pflaumenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zwetschgenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mirabelle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quitte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Feigenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Olivenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zitronenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Orangenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mandelbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfirsichbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Aprikosenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kokospalme",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dattelpalme",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Baobab",
+     "aliases": [
+      "Affenbrotbaum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Eukalyptus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Magnolie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tulpenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trompetenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Götterbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mangobaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kautschukbaum",
+     "aliases": [
+      "Gummibaum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Mahagoni",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Teak",
+     "aliases": [
+      "Teakbaum"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ebenholz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sequoia",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lorbeerbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Korkeicheiche",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zirbe",
+     "aliases": [
+      "Zirbelkiefer",
+      "Arve"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Latschenkiefer",
+     "aliases": [
+      "Latsche"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Schwarzkiefer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Weymouthkiefer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blaufichte",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hemlocktanne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nordmanntanne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Edeltanne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Araukarie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Urweltmammutbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sumpfzypresse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amberbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Judasbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Blauglockenbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Paulownie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hasel",
+     "aliases": [
+      "Baumhasel"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Maulbeerbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Holunder",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Weißdorn",
+     "aliases": [],
+     "prior": 0.3
+    },
+    {
+     "name": "Zierkirsche",
+     "aliases": [
+      "Japanische Kirsche"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Zimtbaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kakaobaum",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Drachenbaum",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Bambus": "Bambus ist ein Gras, kein Baum.",
+    "Weihnachtsbaum": "Welcher denn? Nordmanntanne, Fichte, …",
+    "Busch": "Ein Busch ist kein Baum."
+   }
+  },
+  {
+   "q": "Ein US-Bundesstaat",
+   "x": "Alle 50 Bundesstaaten. Washington D.C. ist kein Bundesstaat.",
+   "answers": [
+    {
+     "name": "Kalifornien",
+     "aliases": [
+      "California"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "Texas",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Florida",
+     "aliases": [],
+     "prior": 20
+    },
+    {
+     "name": "New York",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Alaska",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Hawaii",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Nevada",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Washington",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Arizona",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Colorado",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Michigan",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Ohio",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Georgia",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Illinois",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Montana",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Louisiana",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Utah",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Oregon",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pennsylvania",
+     "aliases": [
+      "Pennsylvanien"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Massachusetts",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "New Jersey",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Virginia",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Tennessee",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Kentucky",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Wyoming",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Idaho",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Kansas",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Oklahoma",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Minnesota",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Wisconsin",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Alabama",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Arkansas",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Connecticut",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Delaware",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Indiana",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Iowa",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maryland",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mississippi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Missouri",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nebraska",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "New Hampshire",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "New Mexico",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "North Carolina",
+     "aliases": [
+      "Nord-Carolina",
+      "Nordcarolina"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "North Dakota",
+     "aliases": [
+      "Nord-Dakota",
+      "Norddakota"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rhode Island",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "South Carolina",
+     "aliases": [
+      "Süd-Carolina",
+      "Südcarolina"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "South Dakota",
+     "aliases": [
+      "Süd-Dakota",
+      "Süddakota"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Vermont",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "West Virginia",
+     "aliases": [
+      "West-Virginia"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Washington D.C.": "D.C. ist ein Bundesdistrikt, kein Bundesstaat.",
+    "Puerto Rico": "Puerto Rico ist ein Außengebiet, kein Bundesstaat.",
+    "Los Angeles": "Los Angeles ist eine Stadt in Kalifornien.",
+    "Kanada": "Kanada ist ein eigenes Land 😉"
+   }
+  },
+  {
+   "q": "Ein Wort für Geld",
+   "x": "Umgangssprache, Jugendsprache, Dialekt – alles, was man an der Kasse versteht.",
+   "answers": [
+    {
+     "name": "Kohle",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Knete",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Kies",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Moneten",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Asche",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Zaster",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Moos",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Schotter",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Kröten",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Mäuse",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Flocken",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Penunzen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Piepen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Kleingeld",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Bargeld",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Cash",
+     "aliases": [
+      "Cash Money"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Patte",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Taler",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pinkepinke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mammon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Moneys",
+     "aliases": [
+      "Money"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Pulver",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Heu",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marie",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lappen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Scheine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Riesen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tacken",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ocken",
+     "aliases": [
+      "Öcken"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Steine",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Euronen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Teuronen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stutz",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kreuzer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Groschen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pfennige",
+     "aliases": [
+      "Pfennig"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Batzen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Klimpergeld",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lohn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gehalt",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kapital",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vermögen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ersparnisse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Finanzen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mittel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Barschaft",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bimbes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Para",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kesch",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Bitcoin": "Bitcoin ist eher Hoffnung als Geld 😄",
+    "Karte": "Mit Karte zahlen? Bitte ein Wort für Geld selbst."
+   }
+  },
+  {
+   "q": "Eine Biersorte",
+   "x": "Bierstile und -sorten. Keine Markennamen.",
+   "answers": [
+    {
+     "name": "Pils",
+     "aliases": [
+      "Pilsener",
+      "Pilsner"
+     ],
+     "prior": 25
+    },
+    {
+     "name": "Weizen",
+     "aliases": [
+      "Weizenbier",
+      "Weißbier",
+      "Hefeweizen",
+      "Hefeweißbier"
+     ],
+     "prior": 22
+    },
+    {
+     "name": "Helles",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Kölsch",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Alt",
+     "aliases": [
+      "Altbier"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Export",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Radler",
+     "aliases": [
+      "Alsterwasser"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Bock",
+     "aliases": [
+      "Bockbier"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Dunkel",
+     "aliases": [
+      "Dunkles"
+     ],
+     "prior": 7
+    },
+    {
+     "name": "Schwarzbier",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Märzen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Lager",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Kellerbier",
+     "aliases": [
+      "Keller"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Malzbier",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "IPA",
+     "aliases": [
+      "India Pale Ale"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Stout",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Berliner Weisse",
+     "aliases": [
+      "Berliner Weiße"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Rauchbier",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Zwickel",
+     "aliases": [
+      "Zwickelbier"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Gose",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Doppelbock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eisbock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maibock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Festbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wiesnbier",
+     "aliases": [
+      "Oktoberfestbier"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Weizenbock",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kristallweizen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dunkelweizen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leichtbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Alkoholfreies",
+     "aliases": [
+      "Alkoholfreies Bier"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Diesel",
+     "aliases": [
+      "Colabier"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Russ",
+     "aliases": [
+      "Russn"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ale",
+     "aliases": [
+      "Pale Ale"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Porter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lambic",
+     "aliases": [
+      "Lambiek"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Gueuze",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kriek",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Witbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tripel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dubbel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saison",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sauerbier",
+     "aliases": [
+      "Sour"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Trappistenbier",
+     "aliases": [
+      "Trappist"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Landbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zoigl",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Steinbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Roggenbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dinkelbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Emmerbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kräusen",
+     "aliases": [
+      "Kräusenbier"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Ungespundetes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vollbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Starkbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dampfbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schankbier",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lichtenhainer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Broyhan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mumme",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Grätzer",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kotbusser",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Craft Beer",
+     "aliases": [
+      "Craftbeer"
+     ],
+     "prior": 0.5
+    },
+    {
+     "name": "Bayrisch Hell",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Becks": "Bitte keine Marken – sondern den Stil, z. B. Pils.",
+    "Corona": "Bitte keine Marken.",
+    "Augustiner": "Bitte keine Marken – aber guter Geschmack."
+   }
+  },
+  {
+   "q": "Ein Märchen der Brüder Grimm",
+   "x": "Märchen aus den „Kinder- und Hausmärchen“. Titel reicht, auch abgekürzt.",
+   "answers": [
+    {
+     "name": "Hänsel und Gretel",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Rotkäppchen",
+     "aliases": [],
+     "prior": 22
+    },
+    {
+     "name": "Schneewittchen",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Aschenputtel",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Dornröschen",
+     "aliases": [],
+     "prior": 14
+    },
+    {
+     "name": "Rapunzel",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Rumpelstilzchen",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Die Bremer Stadtmusikanten",
+     "aliases": [
+      "Bremer Stadtmusikanten"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Frau Holle",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Der Froschkönig",
+     "aliases": [
+      "Froschkönig"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Der Wolf und die sieben jungen Geißlein",
+     "aliases": [
+      "Der Wolf und die sieben Geißlein",
+      "Die sieben Geißlein"
+     ],
+     "prior": 8
+    },
+    {
+     "name": "Tischlein deck dich",
+     "aliases": [
+      "Tischleindeckdich"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Die goldene Gans",
+     "aliases": [
+      "Goldene Gans"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Sterntaler",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Schneeweißchen und Rosenrot",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Der gestiefelte Kater",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Das tapfere Schneiderlein",
+     "aliases": [
+      "Tapferes Schneiderlein"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Hans im Glück",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Brüderchen und Schwesterchen",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Die zwölf Brüder",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Der süße Brei",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Teufel mit den drei goldenen Haaren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die sechs Schwäne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das Wasser des Lebens",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die zertanzten Schuhe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Eisenhans",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Gänsemagd",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "König Drosselbart",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jorinde und Joringel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das Hirtenbüblein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die sieben Raben",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Fischer und seine Frau",
+     "aliases": [
+      "Von dem Fischer un syner Fru"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Der Hase und der Igel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Allerleirauh",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das Lumpengesindel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die drei Federn",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der goldene Vogel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Wichtelmänner",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Spindel Weberschiffchen und Nadel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das Rätsel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die kluge Else",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Gevatter Tod",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Fundevogel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die weiße Schlange",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Strohhalm Kohle und Bohne",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Räuberbräutigam",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herr Korbes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die drei Spinnerinnen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Bienenkönigin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Daumesdick",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Rabe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Nelke",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das Mädchen ohne Hände",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die drei Sprachen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Zaunkönig",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Scholle",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der singende Knochen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das blaue Licht",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Krautesel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Trommler",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Kristallkugel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das Totenhemdchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Goldkinder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Bärenhäuter",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Rübe",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Hund und der Sperling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Katze und Maus in Gesellschaft",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marienkind",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das Eselein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der alte Sultan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Boten des Todes",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Simeliberg",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die zwei Brüder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die Gänsehirtin am Brunnen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Schneider im Himmel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das kluge Gretel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der junge Riese",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Die drei Glückskinder",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bruder Lustig",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hans mein Igel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Jungfrau Maleen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Einäuglein Zweiäuglein und Dreiäuglein",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Das Waldhaus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Grabhügel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Der Meisterdieb",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Die kleine Meerjungfrau": "Die kleine Meerjungfrau ist von Hans Christian Andersen.",
+    "Pinocchio": "Pinocchio ist von Carlo Collodi.",
+    "Der Struwwelpeter": "Der Struwwelpeter ist von Heinrich Hoffmann.",
+    "Das hässliche Entlein": "Das hässliche Entlein ist von Andersen."
+   }
+  },
+  {
+   "q": "Eine Stadt mit einbuchstabigem Kfz-Kennzeichen",
+   "x": "Städte (und ein Landkreis), deren Kennzeichen nur aus einem Buchstaben besteht – wie B für Berlin.",
+   "answers": [
+    {
+     "name": "Berlin",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "München",
+     "aliases": [],
+     "prior": 25
+    },
+    {
+     "name": "Köln",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Frankfurt",
+     "aliases": [
+      "Frankfurt am Main"
+     ],
+     "prior": 10
+    },
+    {
+     "name": "Stuttgart",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Düsseldorf",
+     "aliases": [],
+     "prior": 7
+    },
+    {
+     "name": "Hannover",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Leipzig",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Nürnberg",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Essen",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Potsdam",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Augsburg",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Chemnitz",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Jena",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Gera",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Regensburg",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Wuppertal",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Zwickau",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Vogtlandkreis",
+     "aliases": [
+      "Vogtland"
+     ],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Hamburg": "Hamburg hat HH – zwei Buchstaben.",
+    "Dresden": "Dresden hat DD.",
+    "Bremen": "Bremen hat HB.",
+    "Dortmund": "Dortmund hat DO.",
+    "Bonn": "Bonn hat BN.",
+    "Bundeswehr": "Y für die Bundeswehr ist keine Stadt – aber starkes Wissen!"
+   }
+  },
+  {
+   "q": "Ein Dinosaurier",
+   "x": "Dinosaurier-Gattungen. Flug- und Meeressaurier zählen auch, auch wenn Paläontologen schimpfen.",
+   "answers": [
+    {
+     "name": "Tyrannosaurus",
+     "aliases": [
+      "T-Rex",
+      "T. rex",
+      "Tyrannosaurus Rex"
+     ],
+     "prior": 30
+    },
+    {
+     "name": "Triceratops",
+     "aliases": [],
+     "prior": 18
+    },
+    {
+     "name": "Stegosaurus",
+     "aliases": [],
+     "prior": 14
+    },
+    {
+     "name": "Brachiosaurus",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Velociraptor",
+     "aliases": [
+      "Raptor"
+     ],
+     "prior": 12
+    },
+    {
+     "name": "Diplodocus",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Pteranodon",
+     "aliases": [
+      "Flugsaurier"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Brontosaurus",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Spinosaurus",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Ankylosaurus",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Allosaurus",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Parasaurolophus",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Iguanodon",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Archaeopteryx",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Apatosaurus",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Dilophosaurus",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Pachycephalosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Carnotaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Giganotosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Argentinosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gallimimus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Compsognathus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Deinonychus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Oviraptor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Protoceratops",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Psittacosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plateosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mamenchisaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Edmontosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Maiasaura",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Corythosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Styracosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Therizinosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Baryonyx",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Suchomimus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Utahraptor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Microraptor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Troodon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Albertosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ceratosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Coelophysis",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Herrerasaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eoraptor",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dreadnoughtus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Patagotitan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Supersaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Camarasaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Europasaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kentrosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Giraffatitan",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Megalosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hadrosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lambeosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ouranosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sauropelta",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Euoplocephalus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nodosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pachyrhinosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Centrosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Torosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mosasaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Plesiosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ichthyosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Quetzalcoatlus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pterodactylus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tarbosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Yutyrannus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Carcharodontosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Acrocanthosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Majungasaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Abelisaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sinosauropteryx",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dracorex",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Stygimoloch",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tenontosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Leaellynasaura",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Minmi",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Saltasaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Amargasaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nigersaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Cryolophosaurus",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Irritator",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Concavenator",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Yi qi",
+     "aliases": [],
+     "prior": 1
+    }
+   ],
+   "hints": {
+    "Godzilla": "Godzilla ist leider kein echter Dinosaurier.",
+    "Mammut": "Das Mammut war ein Säugetier.",
+    "Dimetrodon": "Dimetrodon sieht aus wie ein Dino, war aber näher mit Säugetieren verwandt.",
+    "Drache": "Drachen gibt’s nur in Geschichten."
+   }
+  },
+  {
+   "q": "Eine Sportart",
+   "x": "Jede anerkannte Sportart – olympisch oder nicht.",
+   "answers": [
+    {
+     "name": "Fußball",
+     "aliases": [],
+     "prior": 30
+    },
+    {
+     "name": "Tennis",
+     "aliases": [],
+     "prior": 15
+    },
+    {
+     "name": "Basketball",
+     "aliases": [],
+     "prior": 12
+    },
+    {
+     "name": "Handball",
+     "aliases": [],
+     "prior": 10
+    },
+    {
+     "name": "Volleyball",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Schwimmen",
+     "aliases": [],
+     "prior": 9
+    },
+    {
+     "name": "Eishockey",
+     "aliases": [],
+     "prior": 8
+    },
+    {
+     "name": "Golf",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Leichtathletik",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Boxen",
+     "aliases": [],
+     "prior": 6
+    },
+    {
+     "name": "Radsport",
+     "aliases": [
+      "Radfahren"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Skifahren",
+     "aliases": [
+      "Ski",
+      "Ski alpin"
+     ],
+     "prior": 6
+    },
+    {
+     "name": "Turnen",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Tischtennis",
+     "aliases": [],
+     "prior": 5
+    },
+    {
+     "name": "Badminton",
+     "aliases": [
+      "Federball"
+     ],
+     "prior": 5
+    },
+    {
+     "name": "Reiten",
+     "aliases": [],
+     "prior": 4
+    },
+    {
+     "name": "Formel 1",
+     "aliases": [
+      "Motorsport"
+     ],
+     "prior": 4
+    },
+    {
+     "name": "Rudern",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Klettern",
+     "aliases": [
+      "Bouldern"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Judo",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Karate",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Rugby",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Baseball",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "American Football",
+     "aliases": [
+      "Football"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Darts",
+     "aliases": [],
+     "prior": 3
+    },
+    {
+     "name": "Billard",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Schach",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Laufen",
+     "aliases": [
+      "Joggen"
+     ],
+     "prior": 3
+    },
+    {
+     "name": "Segeln",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Surfen",
+     "aliases": [],
+     "prior": 2
+    },
+    {
+     "name": "Snowboarden",
+     "aliases": [
+      "Snowboard"
+     ],
+     "prior": 2
+    },
+    {
+     "name": "Fechten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ringen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gewichtheben",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Taekwondo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Kanu",
+     "aliases": [
+      "Kanufahren",
+      "Kajak"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Biathlon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Langlauf",
+     "aliases": [
+      "Skilanglauf"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Skispringen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Nordische Kombination",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rodeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bob",
+     "aliases": [
+      "Bobfahren"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Skeleton",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eiskunstlauf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Eisschnelllauf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Curling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Triathlon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Moderner Fünfkampf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Zehnkampf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Siebenkampf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Marathon",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hockey",
+     "aliases": [
+      "Feldhockey"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wasserball",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wasserspringen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Synchronschwimmen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Trampolin",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Rhythmische Sportgymnastik",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bogenschießen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Schießen",
+     "aliases": [
+      "Sportschießen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kricket",
+     "aliases": [
+      "Cricket"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Squash",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Polo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Lacrosse",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Faustball",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Prellball",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Korfball",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Floorball",
+     "aliases": [
+      "Unihockey"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kegeln",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bowling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Minigolf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Boule",
+     "aliases": [
+      "Pétanque"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Sumo",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "MMA",
+     "aliases": [
+      "Mixed Martial Arts"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kickboxen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Muay Thai",
+     "aliases": [
+      "Thaiboxen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Wrestling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Skateboarden",
+     "aliases": [
+      "Skateboard"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "BMX",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Mountainbike",
+     "aliases": [
+      "Mountainbiken"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Kitesurfen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Windsurfen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wakeboarden",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Wasserski",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tauchen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Paragliding",
+     "aliases": [
+      "Gleitschirmfliegen"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Fallschirmspringen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Bergsteigen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Orientierungslauf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Crossfit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Parkour",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Breakdance",
+     "aliases": [
+      "Breaking"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Rollkunstlauf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Inlineskaten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Speedskating",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Dressur",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Springreiten",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Vielseitigkeit",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Voltigieren",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pferderennen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sportklettern",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Ultimate Frisbee",
+     "aliases": [
+      "Frisbee"
+     ],
+     "prior": 1
+    },
+    {
+     "name": "Discgolf",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Tauziehen",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Sepak Takraw",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Hurling",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Gaelic Football",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Australian Football",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Futsal",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beachvolleyball",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Beachhandball",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Padel",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Pickleball",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "Teqball",
+     "aliases": [],
+     "prior": 1
+    },
+    {
+     "name": "E-Sport",
+     "aliases": [
+      "eSport"
+     ],
+     "prior": 0.5
+    }
+   ],
+   "hints": {
+    "Shoppen": "Shopping ist Ausdauersport, aber leider nicht anerkannt.",
+    "Netflix": "Binge-Watching zählt (noch) nicht."
+   }
+  }
+ ]
+}

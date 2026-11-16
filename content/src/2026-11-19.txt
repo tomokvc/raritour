@@ -1,0 +1,68 @@
+@ 2026-11-19
+
+# Ein Baum
+> Jede Baumart oder -gattung, heimisch oder exotisch. Sträucher zählen nicht.
+Eiche:25, Buche|Rotbuche:18, Tanne|Weißtanne:15, Fichte:14, Birke:12, Kiefer|Föhre:10, Ahorn|Bergahorn|Spitzahorn:10, Linde:9, Kastanie|Rosskastanie|Esskastanie:8, Apfelbaum:7, Palme:7, Kirschbaum:6, Weide|Trauerweide:6, Pappel:5, Lärche:5, Esche:5, Ulme:3, Erle:3, Eibe:3, Walnuss|Walnussbaum:3, Ginkgo:3, Mammutbaum:3
+Hainbuche, Platane, Robinie|Scheinakazie, Akazie, Douglasie, Zeder, Zypresse, Wacholder, Lebensbaum|Thuja, Eberesche|Vogelbeere, Mehlbeere, Elsbeere, Speierling, Vogelkirsche, Traubenkirsche, Birnbaum, Pflaumenbaum, Zwetschgenbaum, Mirabelle, Quitte, Feigenbaum, Olivenbaum, Zitronenbaum, Orangenbaum, Mandelbaum, Pfirsichbaum, Aprikosenbaum, Kokospalme, Dattelpalme, Baobab|Affenbrotbaum, Eukalyptus, Magnolie, Tulpenbaum, Trompetenbaum, Götterbaum, Mangobaum, Kautschukbaum|Gummibaum, Mahagoni, Teak|Teakbaum, Ebenholz, Sequoia, Lorbeerbaum, Korkeicheiche, Zirbe|Zirbelkiefer|Arve, Latschenkiefer|Latsche, Schwarzkiefer, Weymouthkiefer, Blaufichte, Hemlocktanne, Nordmanntanne, Edeltanne, Araukarie, Urweltmammutbaum, Sumpfzypresse, Amberbaum, Judasbaum, Blauglockenbaum, Paulownie, Hasel|Baumhasel, Maulbeerbaum, Holunder:0.3, Weißdorn:0.3, Zierkirsche|Japanische Kirsche, Zimtbaum, Kakaobaum, Drachenbaum
+! Bambus = Bambus ist ein Gras, kein Baum.
+! Weihnachtsbaum = Welcher denn? Nordmanntanne, Fichte, …
+! Busch = Ein Busch ist kein Baum.
+
+# Ein US-Bundesstaat
+> Alle 50 Bundesstaaten. Washington D.C. ist kein Bundesstaat.
+Kalifornien|California:25, Texas:22, Florida:20, New York:18, Alaska:10, Hawaii:10, Nevada:7, Washington:6, Arizona:6, Colorado:5, Michigan:4, Ohio:4, Georgia:4, Illinois:4, Montana:4, Louisiana:3, Utah:3, Oregon:3, Pennsylvania|Pennsylvanien:3, Massachusetts:3, New Jersey:3, Virginia:3, Tennessee:3, Kentucky:3, Wyoming:2, Idaho:2, Kansas:2, Oklahoma:2, Minnesota:2, Wisconsin:2, Alabama:2
+Arkansas, Connecticut, Delaware, Indiana, Iowa, Maine, Maryland, Mississippi, Missouri, Nebraska, New Hampshire, New Mexico, North Carolina|Nord-Carolina|Nordcarolina, North Dakota|Nord-Dakota|Norddakota, Rhode Island, South Carolina|Süd-Carolina|Südcarolina, South Dakota|Süd-Dakota|Süddakota, Vermont, West Virginia|West-Virginia
+! Washington D.C. = D.C. ist ein Bundesdistrikt, kein Bundesstaat.
+! Puerto Rico = Puerto Rico ist ein Außengebiet, kein Bundesstaat.
+! Los Angeles = Los Angeles ist eine Stadt in Kalifornien.
+! Kanada = Kanada ist ein eigenes Land 😉
+
+# Ein Wort für Geld
+> Umgangssprache, Jugendsprache, Dialekt – alles, was man an der Kasse versteht.
+Kohle:25, Knete:15, Kies:10, Moneten:8, Asche:8, Zaster:8, Moos:7, Schotter:7, Kröten:6, Mäuse:6, Flocken:5, Penunzen:4, Piepen:4, Kleingeld:4, Bargeld:4, Cash|Cash Money:4, Patte:3, Taler:3
+Pinkepinke, Mammon, Moneys|Money, Pulver, Heu, Marie, Lappen, Scheine, Riesen, Tacken, Ocken|Öcken, Steine, Euronen, Teuronen, Stutz, Kreuzer, Groschen, Pfennige|Pfennig, Batzen, Klimpergeld, Lohn, Gehalt, Kapital, Vermögen, Ersparnisse, Finanzen, Mittel, Barschaft, Bimbes, Eier, Para, Kesch
+! Bitcoin = Bitcoin ist eher Hoffnung als Geld 😄
+! Karte = Mit Karte zahlen? Bitte ein Wort für Geld selbst.
+
+# Eine Biersorte
+> Bierstile und -sorten. Keine Markennamen.
+Pils|Pilsener|Pilsner:25, Weizen|Weizenbier|Weißbier|Hefeweizen|Hefeweißbier:22, Helles:15, Kölsch:12, Alt|Altbier:10, Export:8, Radler|Alsterwasser:8, Bock|Bockbier:7, Dunkel|Dunkles:7, Schwarzbier:6, Märzen:5, Lager:5, Kellerbier|Keller:5, Malzbier:4, IPA|India Pale Ale:4, Stout:4, Berliner Weisse|Berliner Weiße:4, Rauchbier:3, Zwickel|Zwickelbier:3, Gose:3
+Doppelbock, Eisbock, Maibock, Festbier, Wiesnbier|Oktoberfestbier, Weizenbock, Kristallweizen, Dunkelweizen, Leichtbier, Alkoholfreies|Alkoholfreies Bier, Diesel|Colabier, Russ|Russn, Ale|Pale Ale, Porter, Lambic|Lambiek, Gueuze, Kriek, Witbier, Tripel, Dubbel, Saison, Sauerbier|Sour, Trappistenbier|Trappist, Landbier, Zoigl, Steinbier, Roggenbier, Dinkelbier, Emmerbier, Kräusen|Kräusenbier, Ungespundetes, Vollbier, Starkbier, Dampfbier, Schankbier, Lichtenhainer, Broyhan, Mumme, Grätzer, Kotbusser, Craft Beer|Craftbeer:0.5, Bayrisch Hell
+! Becks = Bitte keine Marken – sondern den Stil, z. B. Pils.
+! Corona = Bitte keine Marken.
+! Augustiner = Bitte keine Marken – aber guter Geschmack.
+
+# Ein Märchen der Brüder Grimm
+> Märchen aus den „Kinder- und Hausmärchen“. Titel reicht, auch abgekürzt.
+Hänsel und Gretel:25, Rotkäppchen:22, Schneewittchen:18, Aschenputtel:15, Dornröschen:14, Rapunzel:12, Rumpelstilzchen:12, Die Bremer Stadtmusikanten|Bremer Stadtmusikanten:12, Frau Holle:10, Der Froschkönig|Froschkönig:10, Der Wolf und die sieben jungen Geißlein|Der Wolf und die sieben Geißlein|Die sieben Geißlein:8, Tischlein deck dich|Tischleindeckdich:5, Die goldene Gans|Goldene Gans:4, Sterntaler:4, Schneeweißchen und Rosenrot:4, Der gestiefelte Kater:3, Das tapfere Schneiderlein|Tapferes Schneiderlein:4, Hans im Glück:4, Brüderchen und Schwesterchen:3, Die zwölf Brüder:2
+Der süße Brei, Der Teufel mit den drei goldenen Haaren, Die sechs Schwäne, Das Wasser des Lebens, Die zertanzten Schuhe, Der Eisenhans, Die Gänsemagd, König Drosselbart, Jorinde und Joringel, Das Hirtenbüblein, Die sieben Raben, Der Fischer und seine Frau|Von dem Fischer un syner Fru, Der Hase und der Igel, Allerleirauh, Das Lumpengesindel, Die drei Federn, Der goldene Vogel, Die Wichtelmänner, Spindel Weberschiffchen und Nadel, Das Rätsel, Die kluge Else, Der Gevatter Tod, Fundevogel, Die weiße Schlange, Strohhalm Kohle und Bohne, Der Räuberbräutigam, Herr Korbes, Die drei Spinnerinnen, Die Bienenkönigin, Daumesdick, Die Rabe, Die Nelke, Das Mädchen ohne Hände, Die drei Sprachen, Der Zaunkönig, Die Scholle, Der singende Knochen, Das blaue Licht, Der Krautesel, Der Trommler, Die Kristallkugel, Das Totenhemdchen, Die Goldkinder, Der Bärenhäuter, Die Rübe, Der Hund und der Sperling, Katze und Maus in Gesellschaft, Marienkind, Das Eselein, Der alte Sultan, Die Boten des Todes, Simeliberg, Die zwei Brüder, Die Gänsehirtin am Brunnen, Der Schneider im Himmel, Das kluge Gretel, Der junge Riese, Die drei Glückskinder, Bruder Lustig, Hans mein Igel, Jungfrau Maleen, Einäuglein Zweiäuglein und Dreiäuglein, Das Waldhaus, Der Grabhügel, Der Meisterdieb
+! Die kleine Meerjungfrau = Die kleine Meerjungfrau ist von Hans Christian Andersen.
+! Pinocchio = Pinocchio ist von Carlo Collodi.
+! Der Struwwelpeter = Der Struwwelpeter ist von Heinrich Hoffmann.
+! Das hässliche Entlein = Das hässliche Entlein ist von Andersen.
+
+# Eine Stadt mit einbuchstabigem Kfz-Kennzeichen
+> Städte (und ein Landkreis), deren Kennzeichen nur aus einem Buchstaben besteht – wie B für Berlin.
+Berlin:30, München:25, Köln:15, Frankfurt|Frankfurt am Main:10, Stuttgart:9, Düsseldorf:7, Hannover:6, Leipzig:6, Nürnberg:5, Essen:4, Potsdam:3, Augsburg:3, Chemnitz:3, Jena:2, Gera:2, Regensburg:2, Wuppertal:2, Zwickau:2, Vogtlandkreis|Vogtland:1
+! Hamburg = Hamburg hat HH – zwei Buchstaben.
+! Dresden = Dresden hat DD.
+! Bremen = Bremen hat HB.
+! Dortmund = Dortmund hat DO.
+! Bonn = Bonn hat BN.
+! Bundeswehr = Y für die Bundeswehr ist keine Stadt – aber starkes Wissen!
+
+# Ein Dinosaurier
+> Dinosaurier-Gattungen. Flug- und Meeressaurier zählen auch, auch wenn Paläontologen schimpfen.
+Tyrannosaurus|T-Rex|T. rex|Tyrannosaurus Rex:30, Triceratops:18, Stegosaurus:14, Brachiosaurus:12, Velociraptor|Raptor:12, Diplodocus:8, Pteranodon|Flugsaurier:6, Brontosaurus:6, Spinosaurus:5, Ankylosaurus:5, Allosaurus:5, Parasaurolophus:4, Iguanodon:4, Archaeopteryx:3, Apatosaurus:3, Dilophosaurus:3
+Pachycephalosaurus, Carnotaurus, Giganotosaurus, Argentinosaurus, Gallimimus, Compsognathus, Deinonychus, Oviraptor, Protoceratops, Psittacosaurus, Plateosaurus, Mamenchisaurus, Edmontosaurus, Maiasaura, Corythosaurus, Styracosaurus, Therizinosaurus, Baryonyx, Suchomimus, Utahraptor, Microraptor, Troodon, Albertosaurus, Ceratosaurus, Coelophysis, Herrerasaurus, Eoraptor, Dreadnoughtus, Patagotitan, Supersaurus, Camarasaurus, Europasaurus, Kentrosaurus, Giraffatitan, Megalosaurus, Hadrosaurus, Lambeosaurus, Ouranosaurus, Sauropelta, Euoplocephalus, Nodosaurus, Pachyrhinosaurus, Centrosaurus, Torosaurus, Mosasaurus, Plesiosaurus, Ichthyosaurus, Quetzalcoatlus, Pterodactylus, Tarbosaurus, Yutyrannus, Carcharodontosaurus, Acrocanthosaurus, Majungasaurus, Abelisaurus, Sinosauropteryx, Dracorex, Stygimoloch, Tenontosaurus, Leaellynasaura, Minmi, Saltasaurus, Amargasaurus, Nigersaurus, Cryolophosaurus, Irritator, Concavenator, Yi qi
+! Godzilla = Godzilla ist leider kein echter Dinosaurier.
+! Mammut = Das Mammut war ein Säugetier.
+! Dimetrodon = Dimetrodon sieht aus wie ein Dino, war aber näher mit Säugetieren verwandt.
+! Drache = Drachen gibt’s nur in Geschichten.
+
+# Eine Sportart
+> Jede anerkannte Sportart – olympisch oder nicht.
+Fußball:30, Tennis:15, Basketball:12, Handball:10, Volleyball:9, Schwimmen:9, Eishockey:8, Golf:6, Leichtathletik:6, Boxen:6, Radsport|Radfahren:6, Skifahren|Ski|Ski alpin:6, Turnen:5, Tischtennis:5, Badminton|Federball:5, Reiten:4, Formel 1|Motorsport:4, Rudern:3, Klettern|Bouldern:3, Judo:3, Karate:3, Rugby:3, Baseball:3, American Football|Football:3, Darts:3, Billard:2, Schach:2, Laufen|Joggen:3, Segeln:2, Surfen:2, Snowboarden|Snowboard:2
+Fechten, Ringen, Gewichtheben, Taekwondo, Kanu|Kanufahren|Kajak, Biathlon, Langlauf|Skilanglauf, Skispringen, Nordische Kombination, Rodeln, Bob|Bobfahren, Skeleton, Eiskunstlauf, Eisschnelllauf, Curling, Triathlon, Moderner Fünfkampf, Zehnkampf, Siebenkampf, Marathon, Hockey|Feldhockey, Wasserball, Wasserspringen, Synchronschwimmen, Trampolin, Rhythmische Sportgymnastik, Bogenschießen, Schießen|Sportschießen, Kricket|Cricket, Squash, Polo, Lacrosse, Faustball, Prellball, Korfball, Floorball|Unihockey, Kegeln, Bowling, Minigolf, Boule|Pétanque, Sumo, MMA|Mixed Martial Arts, Kickboxen, Muay Thai|Thaiboxen, Wrestling, Skateboarden|Skateboard, BMX, Mountainbike|Mountainbiken, Kitesurfen, Windsurfen, Wakeboarden, Wasserski, Tauchen, Paragliding|Gleitschirmfliegen, Fallschirmspringen, Bergsteigen, Orientierungslauf, Crossfit, Parkour, Breakdance|Breaking, Rollkunstlauf, Inlineskaten, Speedskating, Dressur, Springreiten, Vielseitigkeit, Voltigieren, Pferderennen, Sportklettern, Ultimate Frisbee|Frisbee, Discgolf, Tauziehen, Sepak Takraw, Hurling, Gaelic Football, Australian Football, Futsal, Beachvolleyball, Beachhandball, Padel, Pickleball, Teqball, E-Sport|eSport:0.5
+! Shoppen = Shopping ist Ausdauersport, aber leider nicht anerkannt.
+! Netflix = Binge-Watching zählt (noch) nicht.
